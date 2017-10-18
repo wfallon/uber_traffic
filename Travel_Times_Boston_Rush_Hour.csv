@@ -1,0 +1,563 @@
+Origin Movement ID,Origin Display Name,Destination Movement ID,Destination Display Name,Date Range,Mean Travel Time (Seconds),Range - Lower Bound Travel Time (Seconds),Range - Upper Bound Travel Time (Seconds),TravelDistance (Meters)
+1116,"Harborwalk, Waterfront, Boston",3,"0 Flaherty Way, D Street / West Broadway, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",899,608,1327,4302
+1116,"Harborwalk, Waterfront, Boston",5,"0 Queensberry Street, Fenway/Kenmore, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1026,686,1533,6183
+1116,"Harborwalk, Waterfront, Boston",13,"200 Liberty Street, Braintree","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2812,1776,4450,25915
+1116,"Harborwalk, Waterfront, Boston",14,"400 Cushing Street, Hingham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3356,2282,4933,35479
+1116,"Harborwalk, Waterfront, Boston",16,"100 Kenrick Street, Oak Square, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1865,1429,2433,15366
+1116,"Harborwalk, Waterfront, Boston",17,"0 Maggi Road, Revere","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1387,993,1936,14158
+1116,"Harborwalk, Waterfront, Boston",18,"0 Lake Street, Billerica","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2114,1623,2752,36213
+1116,"Harborwalk, Waterfront, Boston",19,"200 Ocean Street, Lynn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2049,1723,2435,20954
+1116,"Harborwalk, Waterfront, Boston",20,"0 Florence Street, Everett","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1325,919,1909,10017
+1116,"Harborwalk, Waterfront, Boston",21,"0 Canal Lane, Somerville","07/31/2016 - 08/28/2016, Weekdays, PM Peak",702,415,1186,6211
+1116,"Harborwalk, Waterfront, Boston",25,"0 Baldpate Road, Georgetown","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2472,1998,3056,49222
+1116,"Harborwalk, Waterfront, Boston",27,"100 Inner Belt Road, Inner Belt, Somerville","07/31/2016 - 08/28/2016, Weekdays, PM Peak",507,248,1032,5954
+1116,"Harborwalk, Waterfront, Boston",28,"0 Lincoln Road, Brookline","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1678,1257,2238,9081
+1116,"Harborwalk, Waterfront, Boston",29,"100 Crosby Street, Arlington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1438,1067,1936,14068
+1116,"Harborwalk, Waterfront, Boston",32,"0 Gainsborough Street, Fenway/Kenmore, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1202,830,1740,7001
+1116,"Harborwalk, Waterfront, Boston",33,"200 Prospect Avenue, Revere","07/31/2016 - 08/28/2016, Weekdays, PM Peak",910,605,1366,10777
+1116,"Harborwalk, Waterfront, Boston",37,"0 Perrin Street, Roxbury, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1454,1066,1982,9200
+1116,"Harborwalk, Waterfront, Boston",38,"McLean Street, Belmont","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1852,1432,2393,18605
+1116,"Harborwalk, Waterfront, Boston",40,"0 Aycliffe Road, Swampscott","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2401,2027,2843,25091
+1116,"Harborwalk, Waterfront, Boston",41,"200 Sumner Street, East Boston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",289,131,634,6497
+1116,"Harborwalk, Waterfront, Boston",44,"0 Georgetown Road, Boxford","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2303,1837,2886,41175
+1116,"Harborwalk, Waterfront, Boston",46,"300 River Street, Cambridgeport, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1217,836,1771,8477
+1116,"Harborwalk, Waterfront, Boston",47,"200 Huntington Avenue, Prudential / St. Botolph, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1135,792,1625,7044
+1116,"Harborwalk, Waterfront, Boston",48,"100 Gove Street, East Boston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",425,245,736,6370
+1116,"Harborwalk, Waterfront, Boston",51,"0 Peterborough Street, West Fens, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1035,679,1575,6096
+1116,"Harborwalk, Waterfront, Boston",52,"0 Berkshire Street, Wellington-Harrington, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1046,746,1465,4887
+1116,"Harborwalk, Waterfront, Boston",53,"600 Commonwealth Avenue, Fenway/Kenmore, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",964,633,1467,6147
+1116,"Harborwalk, Waterfront, Boston",58,"100 Summit Avenue, Corey Hill, Brookline","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1529,1160,2014,8664
+1116,"Harborwalk, Waterfront, Boston",60,"Pilgrims Highway, Weymouth","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2756,1767,4297,30297
+1116,"Harborwalk, Waterfront, Boston",62,"200 Pond Street, Avon","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2896,2060,4070,36813
+1116,"Harborwalk, Waterfront, Boston",65,"0 Glen Road, Reading","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1683,1389,2038,22582
+1116,"Harborwalk, Waterfront, Boston",67,"0 Nightingale Lane, Salem","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2876,2545,3249,25794
+1116,"Harborwalk, Waterfront, Boston",68,"100 Beacon Street, Back Bay East, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",630,408,972,3709
+1116,"Harborwalk, Waterfront, Boston",69,"0 Burrill Avenue, Lynn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2197,1870,2580,22022
+1116,"Harborwalk, Waterfront, Boston",72,"0 Stonington Street, North Andover","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2615,1989,3437,45183
+1116,"Harborwalk, Waterfront, Boston",77,"0 The Mountain Road, Framingham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2754,2209,3433,43579
+1116,"Harborwalk, Waterfront, Boston",78,"0 John Street, Woburn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1604,1209,2126,19404
+1116,"Harborwalk, Waterfront, Boston",79,"Massachusetts State House, Beacon Hill, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",286,104,780,2053
+1116,"Harborwalk, Waterfront, Boston",80,"0 Bussell Road, West Medford, Medford","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1182,818,1707,12418
+1116,"Harborwalk, Waterfront, Boston",82,"100 Private Alley 527, South End, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",967,694,1346,5462
+1116,"Harborwalk, Waterfront, Boston",83,"0 Golden Drive, Winthrop","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1143,899,1452,14655
+1116,"Harborwalk, Waterfront, Boston",89,"0 Cottage Street, Lynn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1790,1117,2868,18544
+1116,"Harborwalk, Waterfront, Boston",92,"Southeast Expressway, Quincy","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2112,1450,3074,25330
+1116,"Harborwalk, Waterfront, Boston",94,"300 Marlborough Street, Back Bay, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",860,585,1262,4908
+1116,"Harborwalk, Waterfront, Boston",95,"0 G Street, South Boston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1089,798,1484,4874
+1116,"Harborwalk, Waterfront, Boston",97,"300 Bishops Forest Drive, Waltham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2393,1966,2912,24470
+1116,"Harborwalk, Waterfront, Boston",98,"100 Suffolk Road, Chestnut Hill, Newton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1993,1549,2562,14175
+1116,"Harborwalk, Waterfront, Boston",105,"100 Columbia Street, The Port, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1235,906,1681,6911
+1116,"Harborwalk, Waterfront, Boston",113,"0 McKinley Road, Salem","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2813,2534,3121,27111
+1116,"Harborwalk, Waterfront, Boston",114,"600 Western Avenue, Lynn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2193,1820,2642,19610
+1116,"Harborwalk, Waterfront, Boston",118,"0 County Way Extension, Beverly","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2748,2107,3582,40943
+1116,"Harborwalk, Waterfront, Boston",120,"0 Cherrywood Circle, Andover","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2075,1711,2515,41017
+1116,"Harborwalk, Waterfront, Boston",121,"0 Macy Street, Amesbury","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2945,2465,3518,72810
+1116,"Harborwalk, Waterfront, Boston",126,"200 Paris Way, Woburn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2054,1730,2437,18507
+1116,"Harborwalk, Waterfront, Boston",127,"200 Vinton Street, Melrose","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1335,998,1785,15686
+1116,"Harborwalk, Waterfront, Boston",128,"100 Glen Street, Malden","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1277,909,1793,13447
+1116,"Harborwalk, Waterfront, Boston",129,"0 Glendale Street, Everett","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1470,1173,1841,10419
+1116,"Harborwalk, Waterfront, Boston",130,"0 Cambria Street, Spring Hill, Somerville","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1192,877,1618,7776
+1116,"Harborwalk, Waterfront, Boston",131,"2000 Massachusetts Avenue, North Cambridge, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1615,1255,2077,9857
+1116,"Harborwalk, Waterfront, Boston",132,"0 Townsend Road, Belmont","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1631,1236,2151,13890
+1116,"Harborwalk, Waterfront, Boston",133,"0 Old Mill Road, West Concord, Concord","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2806,2308,3411,37043
+1116,"Harborwalk, Waterfront, Boston",134,"Yankee Division Highway, Waltham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2357,1876,2960,39521
+1116,"Harborwalk, Waterfront, Boston",135,"100 Orchard Street, Watertown","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1780,1324,2391,16459
+1116,"Harborwalk, Waterfront, Boston",136,"200 Adams Avenue, West Newton, Newton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1604,1208,2128,20386
+1116,"Harborwalk, Waterfront, Boston",137,"0 Badger Road, Framingham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2831,2286,3504,43218
+1116,"Harborwalk, Waterfront, Boston",140,"100 Montclair Avenue, Quincy","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1617,1177,2220,17618
+1116,"Harborwalk, Waterfront, Boston",141,"0 Brooks Avenue, Quincy","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2157,1514,3072,23156
+1116,"Harborwalk, Waterfront, Boston",144,"900 Massachusetts 139, Stoughton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2797,1982,3946,33374
+1116,"Harborwalk, Waterfront, Boston",150,"Monastery Path, Brighton, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1646,1255,2158,11064
+1116,"Harborwalk, Waterfront, Boston",151,"300 Commercial Street, North End, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",274,105,713,1487
+1116,"Harborwalk, Waterfront, Boston",152,"400 Border Street, East Boston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",736,474,1142,7385
+1116,"Harborwalk, Waterfront, Boston",153,"200 Marginal Street, Jeffries Point, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",582,326,1036,7342
+1116,"Harborwalk, Waterfront, Boston",154,"700 Washington Street, Downtown, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",560,346,905,14983
+1116,"Harborwalk, Waterfront, Boston",155,"100 West Springfield Street, South End, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1023,699,1495,6223
+1116,"Harborwalk, Waterfront, Boston",156,"0 Academy Road, Roxbury, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1540,1160,2043,9153
+1116,"Harborwalk, Waterfront, Boston",157,"100 Train Street, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1876,1311,2683,13054
+1116,"Harborwalk, Waterfront, Boston",158,"100 Sycamore Street, Roslindale, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2600,2097,3222,15884
+1116,"Harborwalk, Waterfront, Boston",159,"0 Congress Avenue, Chelsea","07/31/2016 - 08/28/2016, Weekdays, PM Peak",876,567,1352,6888
+1116,"Harborwalk, Waterfront, Boston",160,"0 Franklin Place, Revere","07/31/2016 - 08/28/2016, Weekdays, PM Peak",975,672,1413,12142
+1116,"Harborwalk, Waterfront, Boston",161,"0 William Fairfield Drive, Wenham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2841,2239,3604,38089
+1116,"Harborwalk, Waterfront, Boston",167,"0 Miner Street, Fenway/Kenmore, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1135,786,1637,6321
+1116,"Harborwalk, Waterfront, Boston",182,"0 The Greenway, Swampscott","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2435,2186,2711,23328
+1116,"Harborwalk, Waterfront, Boston",183,"0 Western Avenue, Lynn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2530,2144,2984,22890
+1116,"Harborwalk, Waterfront, Boston",184,"0 South Street, Lynn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1981,1584,2476,19068
+1116,"Harborwalk, Waterfront, Boston",192,"0 Fazio Farm Road, Georgetown","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2626,2124,3246,52093
+1116,"Harborwalk, Waterfront, Boston",199,"0 Burlington Street, Woburn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1785,1382,2304,25361
+1116,"Harborwalk, Waterfront, Boston",200,"100 Orange Street, Reading","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1396,674,2890,24122
+1116,"Harborwalk, Waterfront, Boston",201,"0 Cleveland Street, Melrose","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1438,1071,1930,14624
+1116,"Harborwalk, Waterfront, Boston",202,"0 Girard Road, Winchester","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1646,1230,2202,15363
+1116,"Harborwalk, Waterfront, Boston",203,"0 Hall Street, Medford","07/31/2016 - 08/28/2016, Weekdays, PM Peak",776,473,1271,7691
+1116,"Harborwalk, Waterfront, Boston",204,"0 Mohan Street, Everett","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1562,1217,2004,13183
+1116,"Harborwalk, Waterfront, Boston",205,"0 Cutler Street, Magoun Square, Somerville","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1181,854,1632,7631
+1116,"Harborwalk, Waterfront, Boston",206,"0 Claremon Street, Teele Square, Somerville","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1558,1176,2062,12633
+1116,"Harborwalk, Waterfront, Boston",207,"0 Museum Way, East Cambridge, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",568,285,1131,2655
+1116,"Harborwalk, Waterfront, Boston",208,"0 Jefferson Street, Wellington-Harrington, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1115,809,1535,4111
+1116,"Harborwalk, Waterfront, Boston",209,"100 Magazine Street, Cambridgeport, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1258,881,1795,8172
+1116,"Harborwalk, Waterfront, Boston",210,"0 Cowperthwaite Garage, Cowperthwaite Street, Riverside, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1219,808,1836,9452
+1116,"Harborwalk, Waterfront, Boston",211,"0 Haskell Street, North Cambridge, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1768,1414,2209,13674
+1116,"Harborwalk, Waterfront, Boston",212,"100 Claremont Avenue, Arlington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1972,1567,2480,17637
+1116,"Harborwalk, Waterfront, Boston",213,"0 Gorham Road, Belmont","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1747,1322,2308,14570
+1116,"Harborwalk, Waterfront, Boston",214,"0 Valley View Road, Weston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2308,1965,2709,30579
+1116,"Harborwalk, Waterfront, Boston",215,"0 Rose Avenue, Watertown","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1842,1392,2436,17292
+1116,"Harborwalk, Waterfront, Boston",216,"200 Cabot Street, Newtonville, Newton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1787,1359,2348,15894
+1116,"Harborwalk, Waterfront, Boston",217,"0 Hartford Street, Natick","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2671,2287,3119,35570
+1116,"Harborwalk, Waterfront, Boston",220,"100 Coolidge Street, North Brookline, Brookline","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1571,1223,2017,8845
+1116,"Harborwalk, Waterfront, Boston",221,"0 Colbourne Crescent, Aspinwall Hill, Brookline","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1724,1311,2265,9706
+1116,"Harborwalk, Waterfront, Boston",222,"0 Walnut Place, High Street Hill, Brookline","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1650,1221,2228,10208
+1116,"Harborwalk, Waterfront, Boston",223,"0 Berkshire Road, Babson Park, Wellesley","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2345,1841,2986,30672
+1116,"Harborwalk, Waterfront, Boston",225,"0 Longmeadow Drive, Westwood","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2865,2431,3375,37498
+1116,"Harborwalk, Waterfront, Boston",227,"1100 Commonwealth Avenue, Allston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1490,1099,2019,8857
+1116,"Harborwalk, Waterfront, Boston",228,"200 Central Avenue, Milton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1893,1347,2659,19940
+1116,"Harborwalk, Waterfront, Boston",229,"100 Main Street, Quincy","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2558,1917,3411,22173
+1116,"Harborwalk, Waterfront, Boston",237,"Fall River Expressway, Brockton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2883,2197,3782,45124
+1116,"Harborwalk, Waterfront, Boston",241,"100 Colborne Road, Brighton, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1842,1438,2357,11964
+1116,"Harborwalk, Waterfront, Boston",242,"0 Park Street, Charlestown, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",497,332,743,2446
+1116,"Harborwalk, Waterfront, Boston",243,"0 San Juan Street, South End, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",855,581,1256,5646
+1116,"Harborwalk, Waterfront, Boston",244,"500 Columbus Avenue, South End, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1095,784,1527,7281
+1116,"Harborwalk, Waterfront, Boston",245,"100 Saint Alphonsus Street, Mission Hill, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1523,1127,2056,8124
+1116,"Harborwalk, Waterfront, Boston",246,"300 Mount Vernon Street, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1225,788,1902,10073
+1116,"Harborwalk, Waterfront, Boston",247,"0 Bowdoin Avenue, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2027,1646,2494,12508
+1116,"Harborwalk, Waterfront, Boston",248,"0 Evans Street, West Codman Hill / West Lower Mills, Dorchester Center, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1945,1459,2591,17809
+1116,"Harborwalk, Waterfront, Boston",249,"200 River Street, Mattapan, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2025,1523,2691,17853
+1116,"Harborwalk, Waterfront, Boston",250,"0 Gretter Road, West Roxbury, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2070,1612,2657,14790
+1116,"Harborwalk, Waterfront, Boston",251,"0 Grotto Glen Road, Jamaica Plain, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1623,1234,2134,9127
+1116,"Harborwalk, Waterfront, Boston",252,"0 Grove Street, West Roxbury, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2414,2092,2785,18194
+1116,"Harborwalk, Waterfront, Boston",253,"0 Kimball Road, Chelsea","07/31/2016 - 08/28/2016, Weekdays, PM Peak",845,540,1321,9150
+1116,"Harborwalk, Waterfront, Boston",254,"1200 North Shore Road, Revere","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1218,881,1682,12605
+1116,"Harborwalk, Waterfront, Boston",255,"Rosedale Avenue, Forest Hills / Woodbourne, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2148,1679,2746,15463
+1116,"Harborwalk, Waterfront, Boston",268,"0 Congress Street, Salem","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3565,3007,4226,41020
+1116,"Harborwalk, Waterfront, Boston",270,"0 Sugar Hill Circle, Methuen","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2147,1747,2637,44705
+1116,"Harborwalk, Waterfront, Boston",273,"500 Trull Road, North Tewksbury, Tewksbury","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2504,2090,2998,44455
+1116,"Harborwalk, Waterfront, Boston",274,"0 Jensen Avenue, Chelmsford","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2351,2008,2751,47279
+1116,"Harborwalk, Waterfront, Boston",275,"0 Theresa Road, Stoneham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1523,1160,1998,17166
+1116,"Harborwalk, Waterfront, Boston",276,"0 Howard Street, Malden","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1317,1020,1699,9629
+1116,"Harborwalk, Waterfront, Boston",277,"0 Edwin H Land Boulevard, East Cambridge, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",714,416,1225,3376
+1116,"Harborwalk, Waterfront, Boston",279,"200 Seminole Avenue, Lakeview, Waltham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2328,1881,2880,24090
+1116,"Harborwalk, Waterfront, Boston",280,"0 Linder Terrace, Hunnewell Hill, Newton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1333,953,1864,15727
+1116,"Harborwalk, Waterfront, Boston",281,"0 Meadowbrook Road, Quincy","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2014,1572,2579,19856
+1116,"Harborwalk, Waterfront, Boston",285,"100 Foster Street, Brighton, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1895,1460,2458,15026
+1116,"Harborwalk, Waterfront, Boston",286,"0 Border Street, East Boston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",215,101,457,6670
+1116,"Harborwalk, Waterfront, Boston",287,"0 Murray Way, South Boston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1217,844,1754,10065
+1116,"Harborwalk, Waterfront, Boston",288,"0 Wakullah Street, Roxbury, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1363,983,1889,10426
+1116,"Harborwalk, Waterfront, Boston",289,"500 Baker Street, West Roxbury, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2302,1836,2884,17488
+1116,"Harborwalk, Waterfront, Boston",290,"100 Tremont Street, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",428,242,754,15078
+1116,"Harborwalk, Waterfront, Boston",293,"0 Osgood Street, Salem","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3334,2739,4057,44659
+1116,"Harborwalk, Waterfront, Boston",294,"0 Chelsea Street, East Boston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",240,126,457,6387
+1116,"Harborwalk, Waterfront, Boston",296,"0 Cleverly Court, Quincy","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2790,2102,3701,26357
+1116,"Harborwalk, Waterfront, Boston",297,"100 Arlington Street, Bay Village, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",727,470,1124,4330
+1116,"Harborwalk, Waterfront, Boston",298,"100 Whitford Street, Roslindale, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2388,1905,2992,16707
+1116,"Harborwalk, Waterfront, Boston",299,"0 Round Hill Street, Jamaica Plain, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1636,1289,2075,9215
+1116,"Harborwalk, Waterfront, Boston",302,"0 Leon Street, Fenway/Kenmore, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1146,755,1738,6915
+1116,"Harborwalk, Waterfront, Boston",310,"0 Sharon Street, Malden","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1604,1136,2264,14058
+1116,"Harborwalk, Waterfront, Boston",311,"800 Monument Street, Concord","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2489,2123,2917,34342
+1116,"Harborwalk, Waterfront, Boston",316,"Edgeworth, Charlestown, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",578,359,928,3292
+1116,"Harborwalk, Waterfront, Boston",317,"100 Bowen Street, D Street / West Broadway, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1003,718,1399,5083
+1116,"Harborwalk, Waterfront, Boston",318,"0 Stella Road, Roslindale, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2277,1812,2860,15741
+1116,"Harborwalk, Waterfront, Boston",320,"0 Pleasant Street, North Brookline, Brookline","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1357,1007,1828,7809
+1116,"Harborwalk, Waterfront, Boston",328,"0 Clinton Street, Everett","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1257,928,1702,9445
+1116,"Harborwalk, Waterfront, Boston",329,"0 Tyler Street, Ward Two, Somerville","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1163,832,1624,8135
+1116,"Harborwalk, Waterfront, Boston",330,"100 Vassal Lane, West Cambridge, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1405,981,2011,12913
+1116,"Harborwalk, Waterfront, Boston",331,"0 Seaport Drive, Marina Bay, Quincy","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1670,1216,2293,17218
+1116,"Harborwalk, Waterfront, Boston",333,"0 Huntington Avenue, Prudential / St. Botolph, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",913,605,1377,4716
+1116,"Harborwalk, Waterfront, Boston",334,"0 Westbourne Street, Roslindale, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2330,1812,2994,16372
+1116,"Harborwalk, Waterfront, Boston",335,"100 Everett Avenue, Chelsea","07/31/2016 - 08/28/2016, Weekdays, PM Peak",775,477,1257,7061
+1116,"Harborwalk, Waterfront, Boston",340,"0 Bent Avenue, Cochituate, Wayland","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2257,1761,2892,30851
+1116,"Harborwalk, Waterfront, Boston",341,"0 Fountain Avenue, East Somerville, Somerville","07/31/2016 - 08/28/2016, Weekdays, PM Peak",806,528,1229,7032
+1116,"Harborwalk, Waterfront, Boston",360,"0 Landsdowne Street, MIT, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1058,751,1489,6293
+1116,"Harborwalk, Waterfront, Boston",361,"0 Hayes Street, Riverside, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1326,994,1767,9197
+1116,"Harborwalk, Waterfront, Boston",362,"0 Roberts Road, Mid-Cambridge, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1409,1015,1954,6601
+1116,"Harborwalk, Waterfront, Boston",363,"0 Channing Street, West Cambridge, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1140,780,1665,11743
+1116,"Harborwalk, Waterfront, Boston",364,"0 Richard Avenue, North Cambridge, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1661,1252,2202,13140
+1116,"Harborwalk, Waterfront, Boston",365,"100 Palmer Street, Arlington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1448,1074,1951,12260
+1116,"Harborwalk, Waterfront, Boston",366,"0 Eastern Avenue, Arlington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1844,1400,2427,16299
+1116,"Harborwalk, Waterfront, Boston",367,"0 Pleasant Street, Lexington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1954,1458,2617,20182
+1116,"Harborwalk, Waterfront, Boston",368,"0 Hayden Avenue, Lexington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2080,1652,2617,21126
+1116,"Harborwalk, Waterfront, Boston",369,"200 Waltham Street, Lexington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2120,1737,2587,23618
+1116,"Harborwalk, Waterfront, Boston",370,"100 Old Billerica Road, Bedford","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1844,1443,2355,32993
+1116,"Harborwalk, Waterfront, Boston",374,"0 Connector Road, Westborough","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3350,3022,3713,51155
+1116,"Harborwalk, Waterfront, Boston",385,"0 Sandy Pond Road, Lincoln","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2299,1850,2855,29904
+1116,"Harborwalk, Waterfront, Boston",386,"800 Sudbury Road, Concord","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2650,2218,3165,33560
+1116,"Harborwalk, Waterfront, Boston",388,"0 Sandy Drive, Acton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3270,2783,3841,40711
+1116,"Harborwalk, Waterfront, Boston",391,"0 Colonial Way, Weston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1839,1401,2413,24744
+1116,"Harborwalk, Waterfront, Boston",400,"400 Slosberg Music Center, South Street, Brandeis, Waltham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1955,1581,2417,24643
+1116,"Harborwalk, Waterfront, Boston",401,"Cottage Street, North Waltham, Waltham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2316,1847,2903,19273
+1116,"Harborwalk, Waterfront, Boston",402,"100 Edward Road, Watertown","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1633,1174,2270,18290
+1116,"Harborwalk, Waterfront, Boston",403,"0 Rossmere Street, Newtonville, Newton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1504,1074,2105,16263
+1116,"Harborwalk, Waterfront, Boston",404,"200 Herrick Road, Newton Centre, Newton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2034,1599,2586,18423
+1116,"Harborwalk, Waterfront, Boston",405,"Upper Falls Greenway, Newton Highlands, Newton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2262,1670,3062,19973
+1116,"Harborwalk, Waterfront, Boston",406,"100 Oak Street, Natick","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2246,1776,2840,30979
+1116,"Harborwalk, Waterfront, Boston",409,"0 Chouteau Avenue, Framingham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2420,1908,3068,35173
+1116,"Harborwalk, Waterfront, Boston",413,"200 Marion Street, Central-Maverick Square / Paris Street, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",422,200,889,6499
+1116,"Harborwalk, Waterfront, Boston",415,"0 Pickwick Road, Marblehead","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2850,2363,3435,26589
+1116,"Harborwalk, Waterfront, Boston",418,"0 Cauldron Court, Salem","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3084,2711,3507,38412
+1116,"Harborwalk, Waterfront, Boston",419,"Poplar Avenue, Lynn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2359,1931,2881,25379
+1116,"Harborwalk, Waterfront, Boston",420,"0 Warren Avenue, Saugus","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1643,1199,2249,16286
+1116,"Harborwalk, Waterfront, Boston",424,"200 Warren Street, Brookline","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1866,1435,2425,11921
+1116,"Harborwalk, Waterfront, Boston",425,"200 Bolton Street, D Street / West Broadway, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",913,663,1256,4913
+1116,"Harborwalk, Waterfront, Boston",426,"0 Ledgewood Road, Dedham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3454,2775,4297,36061
+1116,"Harborwalk, Waterfront, Boston",427,"400 Charles River Street, Needham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2846,2349,3447,34774
+1116,"Harborwalk, Waterfront, Boston",428,"0 Dukes Road, Wellesley Hills, Wellesley","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2334,1945,2800,26845
+1116,"Harborwalk, Waterfront, Boston",430,"300 Central Street, Saugus","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1595,1060,2399,17698
+1116,"Harborwalk, Waterfront, Boston",431,"0 East Huckleberry Road, Lynnfield","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1957,1392,2750,24283
+1116,"Harborwalk, Waterfront, Boston",432,"0 Irving Street, Peabody","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2186,1562,3057,35879
+1116,"Harborwalk, Waterfront, Boston",433,"0 Sherwood Avenue, Danvers","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2707,2124,3448,39971
+1116,"Harborwalk, Waterfront, Boston",434,"200 Newburyport Turnpike, Topsfield","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2464,1804,3365,36091
+1116,"Harborwalk, Waterfront, Boston",435,"300 Harrison Avenue, South End, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",649,363,1158,3670
+1116,"Harborwalk, Waterfront, Boston",440,"0 Ridge Road, Foxborough, Foxborough","07/31/2016 - 08/28/2016, Weekdays, PM Peak",4035,3005,5416,50440
+1116,"Harborwalk, Waterfront, Boston",441,"0 Currier Farm Road, Westwood","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3360,2738,4122,36041
+1116,"Harborwalk, Waterfront, Boston",444,"0 Cedarcrest Road, Canton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3116,2286,4246,35137
+1116,"Harborwalk, Waterfront, Boston",445,"1400 Canton Avenue, Milton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2526,1933,3300,22705
+1116,"Harborwalk, Waterfront, Boston",446,"0 Colby Road, North Quincy, Quincy","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1743,1273,2384,16763
+1116,"Harborwalk, Waterfront, Boston",447,"0 Murphy Memorial Drive, Quincy","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2168,1645,2855,20736
+1116,"Harborwalk, Waterfront, Boston",448,"200 Ricciuti Drive, Quincy","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1923,1318,2804,19854
+1116,"Harborwalk, Waterfront, Boston",457,"0 Sagamore Drive, Andover","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2158,1913,2434,34558
+1116,"Harborwalk, Waterfront, Boston",459,"0 Farm Road, Braintree","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2438,1575,3773,24136
+1116,"Harborwalk, Waterfront, Boston",461,"200 King Hill Road, Braintree","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2597,1692,3983,26104
+1116,"Harborwalk, Waterfront, Boston",462,"Fall River Expressway, Randolph","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2494,1823,3411,27840
+1116,"Harborwalk, Waterfront, Boston",487,"500 Main Street, Medford Street / The Neck, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",481,261,885,4706
+1116,"Harborwalk, Waterfront, Boston",491,"0 Haverford Street, Jamaica Plain, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1714,1326,2214,10490
+1116,"Harborwalk, Waterfront, Boston",492,"0 Princeton Street, East Boston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",571,349,932,7761
+1116,"Harborwalk, Waterfront, Boston",493,"Allston Street, Brighton, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1818,1419,2328,9324
+1116,"Harborwalk, Waterfront, Boston",494,"0 Glenville Avenue, Allston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1598,1213,2104,10027
+1116,"Harborwalk, Waterfront, Boston",495,"300 Brookline Avenue, Medical Center Area, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1270,890,1811,7491
+1116,"Harborwalk, Waterfront, Boston",496,"0 Newbury Street, Back Bay East, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",727,493,1070,4035
+1116,"Harborwalk, Waterfront, Boston",497,"0 Blossom Street, West End, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",395,190,819,3417
+1116,"Harborwalk, Waterfront, Boston",498,"0 Causeway Street, West End, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",264,107,649,2874
+1116,"Harborwalk, Waterfront, Boston",499,"0 Elm Street, Charlestown, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",686,503,934,4015
+1116,"Harborwalk, Waterfront, Boston",500,"Tobin Memorial Bridge, Charlestown, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",607,378,973,8606
+1116,"Harborwalk, Waterfront, Boston",501,"0 P Street, South Boston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",986,719,1350,5109
+1116,"Harborwalk, Waterfront, Boston",502,"600 East Fifth Street, South Boston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",993,733,1343,4986
+1116,"Harborwalk, Waterfront, Boston",503,"0 Eustis Street, Roxbury, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1062,707,1594,8774
+1116,"Harborwalk, Waterfront, Boston",504,"0 Francis Street, Fenway/Kenmore, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1416,1015,1974,8487
+1116,"Harborwalk, Waterfront, Boston",505,"100 Harold Street, Roxbury, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1567,1167,2103,10675
+1116,"Harborwalk, Waterfront, Boston",506,"0 Schuyler Street, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1744,1361,2233,10994
+1116,"Harborwalk, Waterfront, Boston",507,"0 Burrell Street, Roxbury, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1364,1018,1826,9194
+1116,"Harborwalk, Waterfront, Boston",508,"0 Stoughton Street, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1420,957,2105,10215
+1116,"Harborwalk, Waterfront, Boston",509,"0 Homes Avenue, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1805,1327,2453,12801
+1116,"Harborwalk, Waterfront, Boston",510,"0 Dakota Street, Dorchester, Dorchester Center, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1760,1238,2501,14176
+1116,"Harborwalk, Waterfront, Boston",511,"0 Fairmount Street, Dorchester, Dorchester Center, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1632,1180,2255,17107
+1116,"Harborwalk, Waterfront, Boston",512,"1000 Adams Street, Dorchester, Dorchester Center, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1709,1168,2498,15882
+1116,"Harborwalk, Waterfront, Boston",518,"0 Briar Avenue, Belvidere, Lowell","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2774,2218,3468,46797
+1116,"Harborwalk, Waterfront, Boston",521,"0 Hosmer Street, Mattapan, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2359,1746,3186,19085
+1116,"Harborwalk, Waterfront, Boston",522,"100 Durnell Avenue, Roslindale, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2280,1791,2900,15654
+1116,"Harborwalk, Waterfront, Boston",523,"0 Woodland Road, Jamaica Plain, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1748,1334,2289,12587
+1116,"Harborwalk, Waterfront, Boston",524,"100 Laurie Avenue, Upper Washington / Spring Street, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2701,2203,3310,19213
+1116,"Harborwalk, Waterfront, Boston",525,"0 Parkson Street, Hyde Park, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2534,1889,3397,25041
+1116,"Harborwalk, Waterfront, Boston",526,"0 Orange Street, Chelsea","07/31/2016 - 08/28/2016, Weekdays, PM Peak",984,610,1586,7568
+1116,"Harborwalk, Waterfront, Boston",527,"200 Beach Street, Revere","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1035,724,1479,10663
+1116,"Harborwalk, Waterfront, Boston",528,"0 Short Street, Winthrop","07/31/2016 - 08/28/2016, Weekdays, PM Peak",961,701,1316,11164
+1116,"Harborwalk, Waterfront, Boston",529,"0 Circuit Drive, Roxbury, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1904,1467,2470,9708
+1116,"Harborwalk, Waterfront, Boston",530,"0 Dry Dock Avenue, Seaport District, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",811,570,1152,4177
+1116,"Harborwalk, Waterfront, Boston",532,"1100 Livingston Street, North Tewksbury, Tewksbury","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2401,1965,2932,38438
+1116,"Harborwalk, Waterfront, Boston",536,"0 Marriott Place, Billerica","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2236,1697,2945,40444
+1116,"Harborwalk, Waterfront, Boston",537,"0 Talbot Avenue, North Billerica, Billerica","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2370,1860,3018,43107
+1116,"Harborwalk, Waterfront, Boston",540,"Charles River Esplanade, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",645,340,1220,4478
+1116,"Harborwalk, Waterfront, Boston",544,"0 Fid Kennedy Avenue, Seaport District, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",359,121,1059,4552
+1116,"Harborwalk, Waterfront, Boston",549,"0 Boston Street, Prospect Hill, Somerville","07/31/2016 - 08/28/2016, Weekdays, PM Peak",972,684,1380,7332
+1116,"Harborwalk, Waterfront, Boston",561,"100 Wildwood Street, Wilmington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1479,1156,1891,25976
+1116,"Harborwalk, Waterfront, Boston",581,"0 Carter Road, Woburn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1174,832,1656,29562
+1116,"Harborwalk, Waterfront, Boston",583,"0 Walnut Court, Woburn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1680,1277,2209,19196
+1116,"Harborwalk, Waterfront, Boston",584,"0 Mill Road, Melrose","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2045,1594,2622,19157
+1116,"Harborwalk, Waterfront, Boston",585,"0 High Street, Stoneham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1368,1023,1828,17947
+1116,"Harborwalk, Waterfront, Boston",586,"0 Bates Road, Winchester","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1158,812,1651,14945
+1116,"Harborwalk, Waterfront, Boston",587,"100 Rivers Edge Drive, Medford","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1010,698,1460,7867
+1116,"Harborwalk, Waterfront, Boston",588,"0 Lewis Street, Medford","07/31/2016 - 08/28/2016, Weekdays, PM Peak",853,547,1329,9244
+1116,"Harborwalk, Waterfront, Boston",589,"0 Clayton Street, Malden","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1654,1320,2072,12780
+1116,"Harborwalk, Waterfront, Boston",590,"100 Kennedy Drive, Malden","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1510,1041,2188,13938
+1116,"Harborwalk, Waterfront, Boston",605,"800 Washington Street, Lynn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1987,1620,2435,19807
+1116,"Harborwalk, Waterfront, Boston",613,"0 Canal Street, Salem","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3304,2839,3844,40573
+1116,"Harborwalk, Waterfront, Boston",614,"0 Winter Island Road, Salem","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3477,2771,4362,42720
+1116,"Harborwalk, Waterfront, Boston",615,"0 Bowler Street, Lynn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2496,2079,2995,26750
+1116,"Harborwalk, Waterfront, Boston",617,"700 Lynnway, Lynn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1746,1368,2227,17299
+1116,"Harborwalk, Waterfront, Boston",626,"0 McDewell Avenue, Danvers","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2448,1817,3296,38807
+1116,"Harborwalk, Waterfront, Boston",629,"0 Safford Street, Lynn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2169,1976,2380,17897
+1116,"Harborwalk, Waterfront, Boston",630,"0 Johnson Street, Lynn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2199,1747,2766,20808
+1116,"Harborwalk, Waterfront, Boston",631,"0 Central Street, Saugus","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1782,1249,2541,19876
+1116,"Harborwalk, Waterfront, Boston",632,"0 Lindsay Terrace, Saugus","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1811,1200,2731,18749
+1116,"Harborwalk, Waterfront, Boston",633,"0 Russet Lane, Lynnfield","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1554,1135,2127,29353
+1116,"Harborwalk, Waterfront, Boston",634,"Independence Greenway, Peabody","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2134,1561,2917,28855
+1116,"Harborwalk, Waterfront, Boston",636,"0 Spring Road, Nahant","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1943,1613,2339,23436
+1116,"Harborwalk, Waterfront, Boston",637,"100 Shelton Road, Swampscott","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2391,1930,2961,24239
+1116,"Harborwalk, Waterfront, Boston",638,"0 Leedsville Street, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1670,1155,2413,11036
+1116,"Harborwalk, Waterfront, Boston",639,"0 Sylvan Street, Danvers","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1982,1637,2398,39390
+1116,"Harborwalk, Waterfront, Boston",641,"0 Zaloga Way, Middleton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2232,1764,2823,40732
+1116,"Harborwalk, Waterfront, Boston",644,"0 Dunham Road, Beverly","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2900,2234,3763,43192
+1116,"Harborwalk, Waterfront, Boston",655,"0 Eastside Street, Lawrence","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2675,2002,3574,46216
+1116,"Harborwalk, Waterfront, Boston",657,"Chickering Road, Lawrence","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2970,2023,4360,43676
+1116,"Harborwalk, Waterfront, Boston",659,"Loop Connector, Methuen","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2271,1876,2748,47308
+1116,"Harborwalk, Waterfront, Boston",665,"0 Welgate Circle, Quincy","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1920,1409,2615,19261
+1116,"Harborwalk, Waterfront, Boston",692,"600 Webster Street, Needham Heights, Needham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2612,2116,3223,29870
+1116,"Harborwalk, Waterfront, Boston",695,"0 West Hollow, Andover","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1766,1390,2243,35174
+1116,"Harborwalk, Waterfront, Boston",696,"0 Lansbury Lane, Andover","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2031,1593,2587,37620
+1116,"Harborwalk, Waterfront, Boston",697,"0 Crestwood Drive, Andover","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1884,1494,2375,34335
+1116,"Harborwalk, Waterfront, Boston",699,"0 Kennedy Drive, Dedham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3114,2381,4072,34741
+1116,"Harborwalk, Waterfront, Boston",702,"100 Stewart Street, West Newbury","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2930,2352,3649,58802
+1116,"Harborwalk, Waterfront, Boston",704,"0 Congress Street, Amesbury","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2986,2508,3554,64439
+1116,"Harborwalk, Waterfront, Boston",707,"100 Bellevue Road, Quincy","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1722,1246,2378,18274
+1116,"Harborwalk, Waterfront, Boston",708,"300 Wethersfield Street, Rowley","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2495,2034,3059,52465
+1116,"Harborwalk, Waterfront, Boston",709,"0 Newbury Avenue, North Quincy, Quincy","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1679,1218,2312,15545
+1116,"Harborwalk, Waterfront, Boston",713,"0 Foster Street, Coolidge Corner South Side, Brookline","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1437,1039,1986,9167
+1116,"Harborwalk, Waterfront, Boston",718,"0 Otis Street, East Somerville, Somerville","07/31/2016 - 08/28/2016, Weekdays, PM Peak",877,593,1295,6565
+1116,"Harborwalk, Waterfront, Boston",726,"100 Candy Lane, Brockton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2828,2153,3713,41448
+1116,"Harborwalk, Waterfront, Boston",739,"0 Tinson Road, Quincy","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2014,1471,2756,20081
+1116,"Harborwalk, Waterfront, Boston",740,"0 Brierwood Road, Braintree","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2229,1463,3394,22862
+1116,"Harborwalk, Waterfront, Boston",747,"0 Crestwood Drive, Framingham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2546,2041,3174,36619
+1116,"Harborwalk, Waterfront, Boston",748,"0 Michael Road, Framingham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2576,1991,3332,36542
+1116,"Harborwalk, Waterfront, Boston",756,"0 Taunton Street, Ward Two, Somerville","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1256,924,1706,5483
+1116,"Harborwalk, Waterfront, Boston",757,"100 Portland Street, The Port, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",916,590,1419,6643
+1116,"Harborwalk, Waterfront, Boston",758,"0 Antrim Street, Mid-Cambridge, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1320,989,1760,7657
+1116,"Harborwalk, Waterfront, Boston",759,"0 Vail Court, Mid-Cambridge, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1300,966,1749,7178
+1116,"Harborwalk, Waterfront, Boston",760,"Fairchild Building, MIT, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",893,594,1340,4710
+1116,"Harborwalk, Waterfront, Boston",761,"0 Oxford Street, Agassiz, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1545,1141,2091,10872
+1116,"Harborwalk, Waterfront, Boston",762,"0 Dana Place, Mid-Cambridge, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1381,1039,1834,8331
+1116,"Harborwalk, Waterfront, Boston",763,"100 Brattle Street, West Cambridge, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1276,883,1843,12216
+1116,"Harborwalk, Waterfront, Boston",764,"600 Huron Avenue, Strawberry Hill, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1312,927,1855,12268
+1116,"Harborwalk, Waterfront, Boston",765,"400 Westfield Street, Dedham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3002,2377,3790,40511
+1116,"Harborwalk, Waterfront, Boston",767,"100 Webster Street, Needham Heights, Needham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2306,1777,2991,29265
+1116,"Harborwalk, Waterfront, Boston",768,"0 Pickerel Terrace, Wellesley","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2414,1977,2946,32576
+1116,"Harborwalk, Waterfront, Boston",769,"0 Tappan Road, Wellesley","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2618,2034,3368,28964
+1116,"Harborwalk, Waterfront, Boston",773,"0 Sherman Street, Neighborhood Nine, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1593,1164,2179,12689
+1116,"Harborwalk, Waterfront, Boston",774,"0 Jackson Street, North Cambridge, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1745,1341,2270,14122
+1116,"Harborwalk, Waterfront, Boston",775,"0 Milton Street, Arlington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1762,1339,2317,13014
+1116,"Harborwalk, Waterfront, Boston",776,"0 Gray Street, Arlington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1718,1327,2223,13759
+1116,"Harborwalk, Waterfront, Boston",777,"100 Claflin Street, Belmont","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1875,1423,2470,15569
+1116,"Harborwalk, Waterfront, Boston",778,"0 Foster Road, Belmont","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1465,1089,1970,13480
+1116,"Harborwalk, Waterfront, Boston",779,"0 Woodfall Road, Belmont","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1850,1421,2407,17869
+1116,"Harborwalk, Waterfront, Boston",782,"0 Mill Street, Foxborough","07/31/2016 - 08/28/2016, Weekdays, PM Peak",4341,3220,5851,54884
+1116,"Harborwalk, Waterfront, Boston",783,"200 Cocasset Street, Foxborough","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3980,2925,5414,51275
+1116,"Harborwalk, Waterfront, Boston",784,"0 Sandy Valley Drive, Walpole","07/31/2016 - 08/28/2016, Weekdays, PM Peak",4083,3127,5330,47291
+1116,"Harborwalk, Waterfront, Boston",786,"0 Richdale Avenue, Everett","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1282,881,1863,9992
+1116,"Harborwalk, Waterfront, Boston",787,"700 University Avenue, Norwood","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3267,2406,4435,35747
+1116,"Harborwalk, Waterfront, Boston",789,"200 Carnegie Row, Norwood","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3417,2525,4622,42696
+1116,"Harborwalk, Waterfront, Boston",791,"500 Turnpike Street, Canton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2766,1986,3850,34115
+1116,"Harborwalk, Waterfront, Boston",792,"0 Woodside Drive, Milton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1925,1319,2808,20504
+1116,"Harborwalk, Waterfront, Boston",794,"0 Upland Road, Burlington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1977,1595,2450,28716
+1116,"Harborwalk, Waterfront, Boston",804,"Glen Road, Waltham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2329,1839,2949,25288
+1116,"Harborwalk, Waterfront, Boston",805,"0 Howard Street, Banks Square, Waltham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2135,1673,2723,28447
+1116,"Harborwalk, Waterfront, Boston",806,"0 Boland Street, South Side, Waltham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1766,1352,2305,18606
+1116,"Harborwalk, Waterfront, Boston",807,"100 Grove Street, Bleachery, Waltham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1657,1055,2600,18803
+1116,"Harborwalk, Waterfront, Boston",808,"0 Candace Avenue, Warrendale, Waltham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2017,1580,2573,17091
+1116,"Harborwalk, Waterfront, Boston",809,"200 Bellevue Road, Watertown","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1604,1158,2220,15230
+1116,"Harborwalk, Waterfront, Boston",810,"100 North Beacon Street, Watertown","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1503,1128,2001,15036
+1116,"Harborwalk, Waterfront, Boston",811,"300 Watertown Street, Nonantum, Newton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1629,1192,2224,15384
+1116,"Harborwalk, Waterfront, Boston",812,"0 Burr Road, Newton Centre, Newton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1840,1386,2441,17662
+1116,"Harborwalk, Waterfront, Boston",813,"0 Spear Street, Quincy","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2190,1674,2863,21389
+1116,"Harborwalk, Waterfront, Boston",814,"0 Hawthorne Street, Quincy","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2125,1712,2636,23726
+1116,"Harborwalk, Waterfront, Boston",815,"0 Upton Drive, Wilmington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1621,1284,2045,31477
+1116,"Harborwalk, Waterfront, Boston",816,"0 Keans Road, Burlington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1590,1222,2067,24104
+1116,"Harborwalk, Waterfront, Boston",817,"0 Burlington Mall Road, Burlington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1755,1351,2278,25283
+1116,"Harborwalk, Waterfront, Boston",818,"100 New Boston Street, Woburn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1423,1070,1891,21406
+1116,"Harborwalk, Waterfront, Boston",819,"0 Maple Ridge Road, Reading","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1308,959,1782,21313
+1116,"Harborwalk, Waterfront, Boston",820,"0 Pasture Road, Reading","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2041,1824,2283,26269
+1116,"Harborwalk, Waterfront, Boston",821,"0 Byron Street, Wakefield","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1424,1039,1951,19643
+1116,"Harborwalk, Waterfront, Boston",822,"0 Eunice Circle, Wakefield","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1759,1241,2492,26734
+1116,"Harborwalk, Waterfront, Boston",823,"0 Boston Rock Road, Melrose","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1598,1249,2043,15569
+1116,"Harborwalk, Waterfront, Boston",824,"200 Nahanton Street, Oak Hill, Newton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2298,1862,2835,18154
+1116,"Harborwalk, Waterfront, Boston",825,"1400 Commonwealth Avenue, West Newton, Newton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1927,1476,2514,20962
+1116,"Harborwalk, Waterfront, Boston",826,"0 Abbott Avenue, Everett","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1335,917,1941,12412
+1116,"Harborwalk, Waterfront, Boston",827,"0 Randlett Park, West Newton, Newton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1537,1138,2075,16909
+1116,"Harborwalk, Waterfront, Boston",830,"C Street, Natick","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2421,1903,3079,38005
+1116,"Harborwalk, Waterfront, Boston",831,"0 Woodland Road, Stoneham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1037,692,1553,13578
+1116,"Harborwalk, Waterfront, Boston",832,"0 Rodgers Road, Stoneham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1242,875,1762,17655
+1116,"Harborwalk, Waterfront, Boston",833,"300 Highland Avenue, Winchester","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1307,965,1769,13676
+1116,"Harborwalk, Waterfront, Boston",834,"0 Orchard Street, Medford","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1339,941,1904,10767
+1116,"Harborwalk, Waterfront, Boston",835,"0 Marston Street, Medford","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1148,773,1703,10894
+1116,"Harborwalk, Waterfront, Boston",836,"100 Central Avenue, Medford","07/31/2016 - 08/28/2016, Weekdays, PM Peak",876,555,1381,9812
+1116,"Harborwalk, Waterfront, Boston",837,"0 Mc Cormack Avenue, Medford","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1016,665,1551,11082
+1116,"Harborwalk, Waterfront, Boston",838,"100 West Street, Malden","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1309,953,1797,10778
+1116,"Harborwalk, Waterfront, Boston",839,"0 Webber Street, Malden","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1697,1304,2207,15763
+1116,"Harborwalk, Waterfront, Boston",840,"0 Hamilton Road, West Somerville, Somerville","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1431,1041,1965,11738
+1116,"Harborwalk, Waterfront, Boston",843,"0 Upham Street, Highlands, Lowell","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2336,1868,2919,46320
+1116,"Harborwalk, Waterfront, Boston",846,"0 Beacham Street, Everett","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1016,749,1378,6453
+1116,"Harborwalk, Waterfront, Boston",847,"100 Sycamore Street, Winter Hill, Somerville","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1024,729,1437,7150
+1116,"Harborwalk, Waterfront, Boston",848,"0 Wallace Street, Tufts, Somerville","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1440,1078,1922,9236
+1116,"Harborwalk, Waterfront, Boston",851,"100 Groton Road, North Chelmsford, Chelmsford","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2459,2046,2955,53780
+1116,"Harborwalk, Waterfront, Boston",856,"400 Commonwealth Avenue, Back Bay, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",906,588,1395,5695
+1116,"Harborwalk, Waterfront, Boston",857,"100 Norway Street, Fenway/Kenmore, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1081,728,1603,6708
+1116,"Harborwalk, Waterfront, Boston",861,"0 South Waverly Street, Brighton, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1107,750,1633,10378
+1116,"Harborwalk, Waterfront, Boston",862,"0 Atkins Street, Brighton, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1243,867,1780,14865
+1116,"Harborwalk, Waterfront, Boston",863,"0 Strathmore Road, Brighton, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1910,1483,2459,15183
+1116,"Harborwalk, Waterfront, Boston",864,"0 Dustin Street, Brighton, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1612,1217,2135,10712
+1116,"Harborwalk, Waterfront, Boston",865,"0 Bellvista Road, Brighton, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1705,1320,2200,9542
+1116,"Harborwalk, Waterfront, Boston",866,"0 Braintree Street, Allston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1243,863,1789,9562
+1116,"Harborwalk, Waterfront, Boston",867,"0 Barry Street, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1812,1369,2397,11783
+1116,"Harborwalk, Waterfront, Boston",868,"100 Whitfield Street, Dorchester, Dorchester Center, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1926,1491,2487,13825
+1116,"Harborwalk, Waterfront, Boston",869,"0 Wales Street, Roxbury, Dorchester Center, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1999,1230,3247,13103
+1116,"Harborwalk, Waterfront, Boston",870,"0 Willowwood Street, Mattapan, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2134,1666,2732,18939
+1116,"Harborwalk, Waterfront, Boston",871,"0 Chipman Street, Dorchester, Dorchester Center, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2064,1499,2840,17891
+1116,"Harborwalk, Waterfront, Boston",872,"Southeast Expressway, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1415,940,2128,16746
+1116,"Harborwalk, Waterfront, Boston",873,"100 Manchester Street, Mattapan, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1868,1348,2587,17297
+1116,"Harborwalk, Waterfront, Boston",874,"0 Outlook Road, Wellington Hill, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2236,1693,2952,19461
+1116,"Harborwalk, Waterfront, Boston",875,"200 Hyde Park Avenue, Jamaica Plain, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2168,1681,2794,14351
+1116,"Harborwalk, Waterfront, Boston",876,"100 Neponset Avenue, Roslindale, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2141,1697,2700,15557
+1116,"Harborwalk, Waterfront, Boston",877,"0 Eliot Street, Jamaica Plain, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1727,1262,2362,12475
+1116,"Harborwalk, Waterfront, Boston",878,"200 Public Alley 432, Back Bay, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",893,616,1292,4971
+1116,"Harborwalk, Waterfront, Boston",879,"0 River Street Place, Beacon Hill, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",524,297,923,3424
+1116,"Harborwalk, Waterfront, Boston",880,"100 Charles Street, Beacon Hill, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",455,261,790,3226
+1116,"Harborwalk, Waterfront, Boston",881,"0 Stillman Street, North End, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",243,110,536,1124
+1116,"Harborwalk, Waterfront, Boston",882,"200 Hanover Street, North End, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",162,57,457,967
+1116,"Harborwalk, Waterfront, Boston",883,"200 Seaport Boulevard, Seaport District, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",607,341,1080,3934
+1116,"Harborwalk, Waterfront, Boston",884,"South Boston Bypass, South Boston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",679,405,1136,4122
+1116,"Harborwalk, Waterfront, Boston",885,"100 Summer Street, Downtown, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",288,126,657,2273
+1116,"Harborwalk, Waterfront, Boston",886,"0 Malden Street, South End, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",748,415,1345,4232
+1116,"Harborwalk, Waterfront, Boston",887,"0 Mount Pleasant Terrace, Roxbury, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1208,855,1706,9278
+1116,"Harborwalk, Waterfront, Boston",888,"133100 Vernon Street, Roxbury, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1225,882,1699,7977
+1116,"Harborwalk, Waterfront, Boston",889,"100 Fisher Avenue, Mission Hill, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1587,1189,2116,8644
+1116,"Harborwalk, Waterfront, Boston",890,"0 Jamaica Street, Jamaica Plain, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2163,1699,2753,12977
+1116,"Harborwalk, Waterfront, Boston",891,"0 Stedman Street, Jamaica Plain, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1994,1504,2643,11255
+1116,"Harborwalk, Waterfront, Boston",892,"200 Chestnut Avenue, Jamaica Plain, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1713,1313,2234,11420
+1116,"Harborwalk, Waterfront, Boston",893,"0 Hastings Street, West Roxbury, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2228,1765,2812,16616
+1116,"Harborwalk, Waterfront, Boston",894,"0 Wren Street, West Roxbury, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2367,1832,3057,16484
+1116,"Harborwalk, Waterfront, Boston",896,"300 Columbia Street, Wellington-Harrington, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1205,886,1638,4848
+1116,"Harborwalk, Waterfront, Boston",897,"0 Cleveland Street, Hyde Park, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2459,1890,3199,24819
+1116,"Harborwalk, Waterfront, Boston",898,"0 Webster Street, Hyde Park, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2407,1915,3025,24309
+1116,"Harborwalk, Waterfront, Boston",899,"0 Watts Street, Chelsea","07/31/2016 - 08/28/2016, Weekdays, PM Peak",857,569,1289,7311
+1116,"Harborwalk, Waterfront, Boston",900,"0 Boatswains Way, Chelsea","07/31/2016 - 08/28/2016, Weekdays, PM Peak",680,404,1144,6362
+1116,"Harborwalk, Waterfront, Boston",901,"0 Willoughby Street, Chelsea","07/31/2016 - 08/28/2016, Weekdays, PM Peak",950,662,1363,9903
+1116,"Harborwalk, Waterfront, Boston",902,"0 Centre Street, Roxbury, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1410,1030,1929,9017
+1116,"Harborwalk, Waterfront, Boston",903,"0 Gaston Street, Roxbury, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1621,1069,2457,10763
+1116,"Harborwalk, Waterfront, Boston",904,"0 Wolcott Street, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1853,1282,2677,13012
+1116,"Harborwalk, Waterfront, Boston",905,"100 Geneva Avenue, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1755,1254,2455,11948
+1116,"Harborwalk, Waterfront, Boston",906,"0 Romsey Circle, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1201,768,1877,10220
+1116,"Harborwalk, Waterfront, Boston",907,"0 Gene Street, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1430,1003,2037,10737
+1116,"Harborwalk, Waterfront, Boston",908,"0 Monadnock Street, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1603,1067,2407,10415
+1116,"Harborwalk, Waterfront, Boston",909,"500 Squire Road, Revere","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1223,849,1761,12256
+1116,"Harborwalk, Waterfront, Boston",911,"200 Garfield Avenue, Revere","07/31/2016 - 08/28/2016, Weekdays, PM Peak",940,649,1359,11941
+1116,"Harborwalk, Waterfront, Boston",912,"100 Crest Avenue, Revere","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1096,811,1479,12664
+1116,"Harborwalk, Waterfront, Boston",913,"0 Petrel Street, Winthrop","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1136,933,1382,17566
+1116,"Harborwalk, Waterfront, Boston",915,"Head Island Causeway, South Boston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1127,734,1730,5967
+1116,"Harborwalk, Waterfront, Boston",916,"0 Lee Burbank Highway, Revere","07/31/2016 - 08/28/2016, Weekdays, PM Peak",792,517,1211,12009
+1116,"Harborwalk, Waterfront, Boston",917,"Emerald Necklace, Jamaica Plain, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1139,726,1786,10235
+1116,"Harborwalk, Waterfront, Boston",927,"0 Mill River Drive, Weymouth","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2764,1717,4447,30689
+1116,"Harborwalk, Waterfront, Boston",930,"0 Constitution Avenue, Revere","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1043,694,1566,12660
+1116,"Harborwalk, Waterfront, Boston",944,"100 Cliff Road, Wellesley Hills, Wellesley","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2093,1631,2685,26266
+1116,"Harborwalk, Waterfront, Boston",955,"100 Somerset Avenue, Winthrop","07/31/2016 - 08/28/2016, Weekdays, PM Peak",964,771,1205,11768
+1116,"Harborwalk, Waterfront, Boston",965,"200 River Road, Winthrop","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1064,863,1310,16463
+1116,"Harborwalk, Waterfront, Boston",968,"800 School Street, Mansfield","07/31/2016 - 08/28/2016, Weekdays, PM Peak",4826,3556,6548,58772
+1116,"Harborwalk, Waterfront, Boston",978,"100 Common Lane, Beverly","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2915,2342,3627,47759
+1116,"Harborwalk, Waterfront, Boston",980,"0 Danton Drive, Methuen","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2206,1815,2681,45932
+1116,"Harborwalk, Waterfront, Boston",983,"200 Lynnway, Lynn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1856,1482,2323,19100
+1116,"Harborwalk, Waterfront, Boston",984,"0 D'Orlando Way, Danvers","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2256,1763,2886,30475
+1116,"Harborwalk, Waterfront, Boston",986,"0 Harvard Avenue, West Medford, Medford","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1228,859,1754,11071
+1116,"Harborwalk, Waterfront, Boston",995,"200 Billerica Road, Chelmsford","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2267,1797,2859,44988
+1116,"Harborwalk, Waterfront, Boston",998,"0 Evergreen Avenue, Burlington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1952,1514,2516,29671
+1116,"Harborwalk, Waterfront, Boston",999,"100 Main Street, Wakefield","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1545,1133,2105,23216
+1116,"Harborwalk, Waterfront, Boston",1000,"0 Centre Street, Malden","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1441,1088,1907,10149
+1116,"Harborwalk, Waterfront, Boston",1001,"0 Sargent Street, Malden","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1439,1062,1948,13702
+1116,"Harborwalk, Waterfront, Boston",1002,"500 Assembly Row, Somerville","07/31/2016 - 08/28/2016, Weekdays, PM Peak",603,357,1017,6455
+1116,"Harborwalk, Waterfront, Boston",1003,"0 Packard Avenue, Tufts, Somerville","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1432,1072,1911,12605
+1116,"Harborwalk, Waterfront, Boston",1004,"0 Linden Avenue, Spring Hill, Somerville","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1348,1006,1805,8999
+1116,"Harborwalk, Waterfront, Boston",1005,"100 Sidney Street, Cambridgeport, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1187,816,1725,6812
+1116,"Harborwalk, Waterfront, Boston",1006,"0 Gray Gardens East, Neighborhood Nine, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1666,1256,2208,13224
+1116,"Harborwalk, Waterfront, Boston",1007,"0 Young Street, Lexington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2047,1595,2627,19474
+1116,"Harborwalk, Waterfront, Boston",1010,"0 Coolidge Hill Road, Watertown","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1412,1013,1966,13416
+1116,"Harborwalk, Waterfront, Boston",1011,"0 Burdean Road, Oak Hill, Newton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2145,1708,2693,17485
+1116,"Harborwalk, Waterfront, Boston",1012,"0 Wilde Road, Waban, Newton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2028,1558,2638,21651
+1116,"Harborwalk, Waterfront, Boston",1013,"100 Seminary Avenue, Auburndale, Newton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1763,1332,2332,20973
+1116,"Harborwalk, Waterfront, Boston",1014,"0 Nixon Road, Framingham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2595,2037,3304,42835
+1116,"Harborwalk, Waterfront, Boston",1016,"100 Buckminster Road, Fisher Hill, Brookline","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1752,1342,2286,10841
+1116,"Harborwalk, Waterfront, Boston",1017,"0 Tudor Road, Needham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2608,2118,3210,31376
+1116,"Harborwalk, Waterfront, Boston",1021,"100 Walpole Street, Sharon","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3709,2731,5036,46224
+1116,"Harborwalk, Waterfront, Boston",1023,"0 Norman Street, Milton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2206,1610,3022,21744
+1116,"Harborwalk, Waterfront, Boston",1024,"300 Adams Street, Milton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1511,999,2284,17408
+1116,"Harborwalk, Waterfront, Boston",1038,"0 Old Rutherford Avenue, Charlestown, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",381,167,867,2287
+1116,"Harborwalk, Waterfront, Boston",1039,"0 Flint Place, South Boston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1050,778,1415,5396
+1116,"Harborwalk, Waterfront, Boston",1040,"900 Massachusetts Avenue, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",859,475,1551,8650
+1116,"Harborwalk, Waterfront, Boston",1041,"0 Kendall Street, South End, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1117,793,1571,8950
+1116,"Harborwalk, Waterfront, Boston",1042,"0 Townsend Street, Roxbury, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1440,1039,1994,10600
+1116,"Harborwalk, Waterfront, Boston",1043,"200 Savin Hill Avenue, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1173,736,1868,11099
+1116,"Harborwalk, Waterfront, Boston",1044,"0 Ames Street, Mattapan, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2140,1770,2586,14170
+1116,"Harborwalk, Waterfront, Boston",1045,"0 Brockton Street, Mattapan, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2200,1718,2815,21752
+1116,"Harborwalk, Waterfront, Boston",1047,"0 Ardale Street, Roslindale, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2115,1627,2749,14520
+1116,"Harborwalk, Waterfront, Boston",1048,"Airport Road Terminal C - Departure Level, East Boston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",356,213,594,8220
+1116,"Harborwalk, Waterfront, Boston",1056,"0 Valley Road, Southborough","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3074,2708,3488,43691
+1116,"Harborwalk, Waterfront, Boston",1064,"0 Glen Forest Lane, Methuen","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2127,1729,2616,43558
+1116,"Harborwalk, Waterfront, Boston",1065,"0 Volk Road, Dedham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2846,2259,3584,35101
+1116,"Harborwalk, Waterfront, Boston",1068,"1300 Bennington Street, East Boston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1015,721,1427,13144
+1116,"Harborwalk, Waterfront, Boston",1075,"0 Oakview Terrace, Jamaica Plain, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1835,1439,2339,10774
+1116,"Harborwalk, Waterfront, Boston",1077,"400 Moody Street, South Side, Waltham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2045,1657,2522,21834
+1116,"Harborwalk, Waterfront, Boston",1078,"0 Wellesley Street, South Medford, Medford","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1172,835,1643,10642
+1116,"Harborwalk, Waterfront, Boston",1079,"0 Brent Road, Lexington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1987,1595,2474,30277
+1116,"Harborwalk, Waterfront, Boston",1080,"0 Teaberry Lane, Braintree","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2963,1847,4752,30437
+1116,"Harborwalk, Waterfront, Boston",1095,"0 Oxford Street, Lynn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2132,1722,2639,20205
+1116,"Harborwalk, Waterfront, Boston",1099,"0 Station Street, Brookline","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1485,1090,2021,9473
+1116,"Harborwalk, Waterfront, Boston",1100,"0 Lowell Street, Andover, Andover","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2593,1958,3432,42074
+1116,"Harborwalk, Waterfront, Boston",1101,"0 Hay Street, Newbury","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2779,2261,3414,61844
+1116,"Harborwalk, Waterfront, Boston",1102,"0 Greenlodge Street, Dedham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2851,2170,3745,35876
+1116,"Harborwalk, Waterfront, Boston",1103,"100 Kendrick Avenue, Quincy","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2353,1615,3427,23941
+1116,"Harborwalk, Waterfront, Boston",1104,"100 Grove Street, Braintree","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2795,1730,4513,27676
+1116,"Harborwalk, Waterfront, Boston",1110,"Cambridge Street, Allston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1017,668,1547,9485
+1116,"Harborwalk, Waterfront, Boston",1111,"Northwest Expressway, Tyngsborough","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2622,2218,3099,58018
+1116,"Harborwalk, Waterfront, Boston",1112,"1400 Shawsheen Street, Tewksbury","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1753,1373,2237,35300
+1116,"Harborwalk, Waterfront, Boston",1113,"200 Rangeway Road, North Billerica, Billerica","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2173,1694,2786,42526
+1116,"Harborwalk, Waterfront, Boston",1117,"0 Gold Star Street, East Boston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",736,486,1113,9632
+1116,"Harborwalk, Waterfront, Boston",1118,"0 McGreevey Way, Mission Hill, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1436,1042,1978,7773
+1116,"Harborwalk, Waterfront, Boston",1119,"0 Coleus Park, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1682,1145,2470,11645
+1116,"Harborwalk, Waterfront, Boston",1120,"0 Melville Avenue, Dorchester, Dorchester Center, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1788,1244,2568,14146
+1116,"Harborwalk, Waterfront, Boston",1122,"100 Webster Avenue, Chelsea","07/31/2016 - 08/28/2016, Weekdays, PM Peak",818,539,1241,9079
+1116,"Harborwalk, Waterfront, Boston",1123,"Conifer Path, Jamaica Hills / Pond, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1959,1506,2548,13752
+1116,"Harborwalk, Waterfront, Boston",1127,"100 South Border Road, Medford","07/31/2016 - 08/28/2016, Weekdays, PM Peak",955,632,1442,10510
+1116,"Harborwalk, Waterfront, Boston",1128,"0 Lowden Avenue, Powder House Square, Somerville","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1329,994,1775,8522
+1116,"Harborwalk, Waterfront, Boston",1129,"0 Shepard Street, Neighborhood Nine, Cambridge","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1585,1166,2154,10100
+1116,"Harborwalk, Waterfront, Boston",1130,"0 Louise Road, Belmont","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1622,1208,2176,14658
+1116,"Harborwalk, Waterfront, Boston",1131,"Yankee Division Highway, Lexington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2155,1719,2700,25753
+1116,"Harborwalk, Waterfront, Boston",1135,"100 Main Street, Southborough","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3224,2862,3630,49113
+1116,"Harborwalk, Waterfront, Boston",1137,"0 Marion Avenue, Woburn","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1777,1291,2445,23768
+1116,"Harborwalk, Waterfront, Boston",1138,"0 Loring Avenue, Winchester","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1555,1204,2006,15437
+1116,"Harborwalk, Waterfront, Boston",1140,"300 Mystic Avenue, South Medford, Medford","07/31/2016 - 08/28/2016, Weekdays, PM Peak",810,497,1317,7113
+1116,"Harborwalk, Waterfront, Boston",1141,"0 Forest Street, Malden","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1602,1208,2122,15068
+1116,"Harborwalk, Waterfront, Boston",1142,"200 Massachusetts Avenue, Arlington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1696,1268,2266,12785
+1116,"Harborwalk, Waterfront, Boston",1143,"300 Crescent Street, South Side, Waltham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1760,1441,2148,21422
+1116,"Harborwalk, Waterfront, Boston",1144,"0 Scout Road, East Walpole, Walpole","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3489,2567,4741,42375
+1116,"Harborwalk, Waterfront, Boston",1146,"200 Low Street, Newburyport","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2959,2439,3589,59497
+1116,"Harborwalk, Waterfront, Boston",1151,"0 Saugus Avenue, Saugus","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1653,1217,2245,15753
+1116,"Harborwalk, Waterfront, Boston",1157,"100 Blue Ledge Drive, Roslindale, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2527,1864,3424,17623
+1116,"Harborwalk, Waterfront, Boston",1160,"100 Austin Street, Hyde Park, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2394,1882,3044,18430
+1116,"Harborwalk, Waterfront, Boston",1162,"300 North Road, North Chelmsford, Chelmsford","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2344,1950,2816,49307
+1116,"Harborwalk, Waterfront, Boston",1163,"300 East Eagle Street, Eagle Hill, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",559,307,1015,7909
+1116,"Harborwalk, Waterfront, Boston",1164,"0 West Howell Street, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1019,590,1757,8583
+1116,"Harborwalk, Waterfront, Boston",1165,"900 American Legion Highway, Roslindale, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2275,1872,2763,17515
+1116,"Harborwalk, Waterfront, Boston",1170,"0 Garden Avenue, Wilmington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1643,1307,2064,28505
+1116,"Harborwalk, Waterfront, Boston",1171,"Dike Road, Stoneham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1087,759,1556,18631
+1116,"Harborwalk, Waterfront, Boston",1173,"300 Lafayette Street, Salem","07/31/2016 - 08/28/2016, Weekdays, PM Peak",3112,2708,3575,41842
+1116,"Harborwalk, Waterfront, Boston",1174,"600 Lynn Fells Parkway, Melrose","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1372,924,2035,16739
+1116,"Harborwalk, Waterfront, Boston",1175,"0 Fellsmere Road, Malden","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1354,951,1927,11872
+1116,"Harborwalk, Waterfront, Boston",1177,"0 Louds Avenue, Weymouth","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2616,1638,4177,26817
+1116,"Harborwalk, Waterfront, Boston",1178,"0 Trustman Terrace, East Boston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",607,369,996,8821
+1116,"Harborwalk, Waterfront, Boston",1179,"100 West Canton Street, Columbus, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",806,488,1329,5450
+1116,"Harborwalk, Waterfront, Boston",1182,"0 Park Street, Andover, Andover","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2510,2061,3056,38242
+1116,"Harborwalk, Waterfront, Boston",1185,"0 Parsons Street, Brighton, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1695,1298,2211,14725
+1116,"Harborwalk, Waterfront, Boston",1186,"0 Norway Park, Hyde Park, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2335,1721,3166,23942
+1116,"Harborwalk, Waterfront, Boston",1189,"0 Fairbanks Street, Brighton, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1274,870,1865,14644
+1116,"Harborwalk, Waterfront, Boston",1190,"0 Willow Avenue, Davis Square, Somerville","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1458,1114,1907,9263
+1116,"Harborwalk, Waterfront, Boston",1191,"0 Springfield Street, Lawrence","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2661,2026,3494,45485
+1116,"Harborwalk, Waterfront, Boston",1192,"0 Woodside Road, Winchester","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1535,1150,2047,14634
+1116,"Harborwalk, Waterfront, Boston",1193,"1100 Beacon Street, Brookline","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1045,674,1619,6995
+1116,"Harborwalk, Waterfront, Boston",1195,"0 Howe Street, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1618,1163,2250,10899
+1116,"Harborwalk, Waterfront, Boston",1197,"100 North Pearl Street, Brockton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2949,2125,4091,39201
+1116,"Harborwalk, Waterfront, Boston",1198,"100 Ashland Street, Malden","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1337,1011,1766,10021
+1116,"Harborwalk, Waterfront, Boston",1199,"Lifecourse Trail, Newton Highlands, Newton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2311,1857,2875,22827
+1116,"Harborwalk, Waterfront, Boston",1211,"Chestnut Hill Reservoir Trail, Brighton, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1934,1485,2518,12000
+1116,"Harborwalk, Waterfront, Boston",1212,"0 Snow Hill Street, North End, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",363,205,642,1790
+1116,"Harborwalk, Waterfront, Boston",1213,"200 East 8th Street, South Boston, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1107,793,1545,10797
+1116,"Harborwalk, Waterfront, Boston",1214,"0 East Concord Street, South End, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",902,550,1477,4900
+1116,"Harborwalk, Waterfront, Boston",1215,"0 Beauford Lane, Roxbury, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1558,1158,2094,11508
+1116,"Harborwalk, Waterfront, Boston",1225,"0 West Elm Avenue, Quincy","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1955,1491,2562,18425
+1116,"Harborwalk, Waterfront, Boston",1226,"0 Sturtevant Street, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1335,858,2074,12770
+1116,"Harborwalk, Waterfront, Boston",1227,"0 Port Norfolk Street, Dorchester, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1355,882,2081,14608
+1116,"Harborwalk, Waterfront, Boston",1228,"0 Ashley Street, Jamaica Plain, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1651,1240,2197,9688
+1116,"Harborwalk, Waterfront, Boston",1229,"0 Michael Road, Wakefield","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1503,1146,1970,18484
+1116,"Harborwalk, Waterfront, Boston",1230,"100 Millwood Street, Framingham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2557,1976,3308,40150
+1116,"Harborwalk, Waterfront, Boston",1232,"400 Newton Street, Chestnut Hill, Brookline","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2105,1662,2665,13982
+1116,"Harborwalk, Waterfront, Boston",1233,"0 Thackeray Road, Wellesley Hills, Wellesley","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2132,1649,2756,25310
+1116,"Harborwalk, Waterfront, Boston",1237,"100 Colonial Drive, Quincy","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1930,1382,2695,20122
+1116,"Harborwalk, Waterfront, Boston",1238,"0 Orient Avenue, Arlington","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1928,1519,2446,16517
+1116,"Harborwalk, Waterfront, Boston",1239,"0 Walnut Street, Belmont","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1813,1385,2372,15050
+1116,"Harborwalk, Waterfront, Boston",1240,"0 Middlesex Circle, Waltham","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2243,1780,2824,19201
+1116,"Harborwalk, Waterfront, Boston",1241,"0 Kenilworth Street, Newton Corner, Newton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1728,1300,2296,16459
+1116,"Harborwalk, Waterfront, Boston",1242,"0 Scribner Park, Auburndale, Newton","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1579,1173,2124,20881
+1116,"Harborwalk, Waterfront, Boston",1245,"0 Leland Road, North Reading","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1857,1576,2186,31217
+1116,"Harborwalk, Waterfront, Boston",1246,"North Shore Road, Revere","07/31/2016 - 08/28/2016, Weekdays, PM Peak",1539,1183,2000,13554
+1116,"Harborwalk, Waterfront, Boston",1247,"Stony Brook Path, Boston","07/31/2016 - 08/28/2016, Weekdays, PM Peak",2466,1948,3120,17665

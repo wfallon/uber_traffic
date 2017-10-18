@@ -1,0 +1,875 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"1844","Sydney - Haymarket - The Rocks (1844)","1349","Baulkham Hills (East) (1349)","07/31/2016 - 08/28/2016, Every day, Daily Average",1857,1447,2381
+"1844","Sydney - Haymarket - The Rocks (1844)","1350","Baulkham Hills (East) (1350)","07/31/2016 - 08/28/2016, Every day, Daily Average",1791,1382,2320
+"1844","Sydney - Haymarket - The Rocks (1844)","1351","Baulkham Hills (East) (1351)","07/31/2016 - 08/28/2016, Every day, Daily Average",1797,1352,2388
+"1844","Sydney - Haymarket - The Rocks (1844)","1353","Baulkham Hills (East) (1353)","07/31/2016 - 08/28/2016, Every day, Daily Average",1880,1542,2291
+"1844","Sydney - Haymarket - The Rocks (1844)","1357","Baulkham Hills (West) - Bella Vista (1357)","07/31/2016 - 08/28/2016, Every day, Daily Average",1989,1569,2521
+"1844","Sydney - Haymarket - The Rocks (1844)","1359","Baulkham Hills (West) - Bella Vista (1359)","07/31/2016 - 08/28/2016, Every day, Daily Average",2088,1612,2703
+"1844","Sydney - Haymarket - The Rocks (1844)","1361","Baulkham Hills (West) - Bella Vista (1361)","07/31/2016 - 08/28/2016, Every day, Daily Average",2091,1713,2551
+"1844","Sydney - Haymarket - The Rocks (1844)","1365","Baulkham Hills (West) - Bella Vista (1365)","07/31/2016 - 08/28/2016, Every day, Daily Average",2169,1843,2551
+"1844","Sydney - Haymarket - The Rocks (1844)","1409","West Pennant Hills (1409)","07/31/2016 - 08/28/2016, Every day, Daily Average",1509,1177,1933
+"1844","Sydney - Haymarket - The Rocks (1844)","1411","West Pennant Hills (1411)","07/31/2016 - 08/28/2016, Every day, Daily Average",1638,1258,2131
+"1844","Sydney - Haymarket - The Rocks (1844)","1499","Lalor Park - Kings Langley (1499)","07/31/2016 - 08/28/2016, Every day, Daily Average",2069,1653,2589
+"1844","Sydney - Haymarket - The Rocks (1844)","1503","Seven Hills - Toongabbie (1503)","07/31/2016 - 08/28/2016, Every day, Daily Average",2231,1743,2855
+"1844","Sydney - Haymarket - The Rocks (1844)","1578","Prospect Reservoir (1578)","07/31/2016 - 08/28/2016, Every day, Daily Average",2340,1816,3014
+"1844","Sydney - Haymarket - The Rocks (1844)","1579","Prospect Reservoir (1579)","07/31/2016 - 08/28/2016, Every day, Daily Average",2472,1932,3161
+"1844","Sydney - Haymarket - The Rocks (1844)","1598","Botany (1598)","07/31/2016 - 08/28/2016, Every day, Daily Average",1007,754,1344
+"1844","Sydney - Haymarket - The Rocks (1844)","1599","Botany (1599)","07/31/2016 - 08/28/2016, Every day, Daily Average",934,698,1248
+"1844","Sydney - Haymarket - The Rocks (1844)","1602","Mascot - Eastlakes (1602)","07/31/2016 - 08/28/2016, Every day, Daily Average",1062,741,1520
+"1844","Sydney - Haymarket - The Rocks (1844)","1603","Mascot - Eastlakes (1603)","07/31/2016 - 08/28/2016, Every day, Daily Average",1352,1008,1813
+"1844","Sydney - Haymarket - The Rocks (1844)","1604","Mascot - Eastlakes (1604)","07/31/2016 - 08/28/2016, Every day, Daily Average",1260,939,1689
+"1844","Sydney - Haymarket - The Rocks (1844)","1605","Mascot - Eastlakes (1605)","07/31/2016 - 08/28/2016, Every day, Daily Average",1387,974,1974
+"1844","Sydney - Haymarket - The Rocks (1844)","1607","Mascot - Eastlakes (1607)","07/31/2016 - 08/28/2016, Every day, Daily Average",889,618,1277
+"1844","Sydney - Haymarket - The Rocks (1844)","1608","Mascot - Eastlakes (1608)","07/31/2016 - 08/28/2016, Every day, Daily Average",1259,916,1729
+"1844","Sydney - Haymarket - The Rocks (1844)","1610","Pagewood - Hillsdale - Daceyville (1610)","07/31/2016 - 08/28/2016, Every day, Daily Average",1378,947,2004
+"1844","Sydney - Haymarket - The Rocks (1844)","1611","Pagewood - Hillsdale - Daceyville (1611)","07/31/2016 - 08/28/2016, Every day, Daily Average",1217,865,1711
+"1844","Sydney - Haymarket - The Rocks (1844)","1612","Pagewood - Hillsdale - Daceyville (1612)","07/31/2016 - 08/28/2016, Every day, Daily Average",1016,744,1387
+"1844","Sydney - Haymarket - The Rocks (1844)","1613","Pagewood - Hillsdale - Daceyville (1613)","07/31/2016 - 08/28/2016, Every day, Daily Average",1162,833,1619
+"1844","Sydney - Haymarket - The Rocks (1844)","1614","Pagewood - Hillsdale - Daceyville (1614)","07/31/2016 - 08/28/2016, Every day, Daily Average",1141,818,1591
+"1844","Sydney - Haymarket - The Rocks (1844)","1621","Sydney Airport (1621)","07/31/2016 - 08/28/2016, Every day, Daily Average",1290,880,1890
+"1844","Sydney - Haymarket - The Rocks (1844)","1622","Sydney Airport (1622)","07/31/2016 - 08/28/2016, Every day, Daily Average",1300,903,1870
+"1844","Sydney - Haymarket - The Rocks (1844)","1625","Marrickville (1625)","07/31/2016 - 08/28/2016, Every day, Daily Average",1176,928,1489
+"1844","Sydney - Haymarket - The Rocks (1844)","1627","Marrickville (1627)","07/31/2016 - 08/28/2016, Every day, Daily Average",1102,876,1384
+"1844","Sydney - Haymarket - The Rocks (1844)","1628","Marrickville (1628)","07/31/2016 - 08/28/2016, Every day, Daily Average",1136,893,1444
+"1844","Sydney - Haymarket - The Rocks (1844)","1629","Marrickville (1629)","07/31/2016 - 08/28/2016, Every day, Daily Average",1090,886,1340
+"1844","Sydney - Haymarket - The Rocks (1844)","1630","Marrickville (1630)","07/31/2016 - 08/28/2016, Every day, Daily Average",1091,872,1364
+"1844","Sydney - Haymarket - The Rocks (1844)","1631","Marrickville (1631)","07/31/2016 - 08/28/2016, Every day, Daily Average",1044,815,1335
+"1844","Sydney - Haymarket - The Rocks (1844)","1632","Marrickville (1632)","07/31/2016 - 08/28/2016, Every day, Daily Average",1042,857,1266
+"1844","Sydney - Haymarket - The Rocks (1844)","1633","Marrickville (1633)","07/31/2016 - 08/28/2016, Every day, Daily Average",1041,827,1310
+"1844","Sydney - Haymarket - The Rocks (1844)","1634","Marrickville (1634)","07/31/2016 - 08/28/2016, Every day, Daily Average",971,767,1228
+"1844","Sydney - Haymarket - The Rocks (1844)","1635","Marrickville (1635)","07/31/2016 - 08/28/2016, Every day, Daily Average",995,732,1351
+"1844","Sydney - Haymarket - The Rocks (1844)","1636","Marrickville (1636)","07/31/2016 - 08/28/2016, Every day, Daily Average",969,766,1225
+"1844","Sydney - Haymarket - The Rocks (1844)","1637","Marrickville (1637)","07/31/2016 - 08/28/2016, Every day, Daily Average",951,717,1259
+"1844","Sydney - Haymarket - The Rocks (1844)","1639","Petersham - Stanmore (1639)","07/31/2016 - 08/28/2016, Every day, Daily Average",958,707,1297
+"1844","Sydney - Haymarket - The Rocks (1844)","1640","Petersham - Stanmore (1640)","07/31/2016 - 08/28/2016, Every day, Daily Average",957,735,1245
+"1844","Sydney - Haymarket - The Rocks (1844)","1641","Petersham - Stanmore (1641)","07/31/2016 - 08/28/2016, Every day, Daily Average",895,692,1156
+"1844","Sydney - Haymarket - The Rocks (1844)","1642","Petersham - Stanmore (1642)","07/31/2016 - 08/28/2016, Every day, Daily Average",930,705,1225
+"1844","Sydney - Haymarket - The Rocks (1844)","1643","Petersham - Stanmore (1643)","07/31/2016 - 08/28/2016, Every day, Daily Average",953,690,1314
+"1844","Sydney - Haymarket - The Rocks (1844)","1644","Petersham - Stanmore (1644)","07/31/2016 - 08/28/2016, Every day, Daily Average",907,663,1239
+"1844","Sydney - Haymarket - The Rocks (1844)","1645","Petersham - Stanmore (1645)","07/31/2016 - 08/28/2016, Every day, Daily Average",941,659,1342
+"1844","Sydney - Haymarket - The Rocks (1844)","1646","Petersham - Stanmore (1646)","07/31/2016 - 08/28/2016, Every day, Daily Average",780,576,1055
+"1844","Sydney - Haymarket - The Rocks (1844)","1647","Petersham - Stanmore (1647)","07/31/2016 - 08/28/2016, Every day, Daily Average",785,578,1065
+"1844","Sydney - Haymarket - The Rocks (1844)","1648","Petersham - Stanmore (1648)","07/31/2016 - 08/28/2016, Every day, Daily Average",692,492,971
+"1844","Sydney - Haymarket - The Rocks (1844)","1650","Sydenham - Tempe - St Peters (1650)","07/31/2016 - 08/28/2016, Every day, Daily Average",1449,1031,2036
+"1844","Sydney - Haymarket - The Rocks (1844)","1652","Sydenham - Tempe - St Peters (1652)","07/31/2016 - 08/28/2016, Every day, Daily Average",1166,871,1560
+"1844","Sydney - Haymarket - The Rocks (1844)","1653","Sydenham - Tempe - St Peters (1653)","07/31/2016 - 08/28/2016, Every day, Daily Average",1270,931,1730
+"1844","Sydney - Haymarket - The Rocks (1844)","1654","Sydenham - Tempe - St Peters (1654)","07/31/2016 - 08/28/2016, Every day, Daily Average",1142,827,1575
+"1844","Sydney - Haymarket - The Rocks (1844)","1655","Sydenham - Tempe - St Peters (1655)","07/31/2016 - 08/28/2016, Every day, Daily Average",1137,878,1471
+"1844","Sydney - Haymarket - The Rocks (1844)","1656","Sydenham - Tempe - St Peters (1656)","07/31/2016 - 08/28/2016, Every day, Daily Average",1021,758,1373
+"1844","Sydney - Haymarket - The Rocks (1844)","1658","Darlinghurst (1658)","07/31/2016 - 08/28/2016, Every day, Daily Average",624,430,904
+"1844","Sydney - Haymarket - The Rocks (1844)","1659","Darlinghurst (1659)","07/31/2016 - 08/28/2016, Every day, Daily Average",563,388,815
+"1844","Sydney - Haymarket - The Rocks (1844)","1660","Darlinghurst (1660)","07/31/2016 - 08/28/2016, Every day, Daily Average",638,431,942
+"1844","Sydney - Haymarket - The Rocks (1844)","1661","Darlinghurst (1661)","07/31/2016 - 08/28/2016, Every day, Daily Average",528,350,794
+"1844","Sydney - Haymarket - The Rocks (1844)","1662","Darlinghurst (1662)","07/31/2016 - 08/28/2016, Every day, Daily Average",495,322,759
+"1844","Sydney - Haymarket - The Rocks (1844)","1663","Darlinghurst (1663)","07/31/2016 - 08/28/2016, Every day, Daily Average",439,278,691
+"1844","Sydney - Haymarket - The Rocks (1844)","1664","Darlinghurst (1664)","07/31/2016 - 08/28/2016, Every day, Daily Average",565,369,864
+"1844","Sydney - Haymarket - The Rocks (1844)","1665","Darlinghurst (1665)","07/31/2016 - 08/28/2016, Every day, Daily Average",530,333,842
+"1844","Sydney - Haymarket - The Rocks (1844)","1666","Darlinghurst (1666)","07/31/2016 - 08/28/2016, Every day, Daily Average",553,346,883
+"1844","Sydney - Haymarket - The Rocks (1844)","1667","Darlinghurst (1667)","07/31/2016 - 08/28/2016, Every day, Daily Average",440,274,706
+"1844","Sydney - Haymarket - The Rocks (1844)","1669","Erskineville - Alexandria (1669)","07/31/2016 - 08/28/2016, Every day, Daily Average",1120,818,1533
+"1844","Sydney - Haymarket - The Rocks (1844)","1670","Erskineville - Alexandria (1670)","07/31/2016 - 08/28/2016, Every day, Daily Average",1114,819,1513
+"1844","Sydney - Haymarket - The Rocks (1844)","1671","Erskineville - Alexandria (1671)","07/31/2016 - 08/28/2016, Every day, Daily Average",1094,756,1582
+"1844","Sydney - Haymarket - The Rocks (1844)","1672","Erskineville - Alexandria (1672)","07/31/2016 - 08/28/2016, Every day, Daily Average",956,715,1277
+"1844","Sydney - Haymarket - The Rocks (1844)","1673","Erskineville - Alexandria (1673)","07/31/2016 - 08/28/2016, Every day, Daily Average",1029,704,1503
+"1844","Sydney - Haymarket - The Rocks (1844)","1674","Erskineville - Alexandria (1674)","07/31/2016 - 08/28/2016, Every day, Daily Average",882,666,1167
+"1844","Sydney - Haymarket - The Rocks (1844)","1675","Erskineville - Alexandria (1675)","07/31/2016 - 08/28/2016, Every day, Daily Average",869,619,1219
+"1844","Sydney - Haymarket - The Rocks (1844)","1676","Erskineville - Alexandria (1676)","07/31/2016 - 08/28/2016, Every day, Daily Average",857,606,1210
+"1844","Sydney - Haymarket - The Rocks (1844)","1677","Erskineville - Alexandria (1677)","07/31/2016 - 08/28/2016, Every day, Daily Average",983,736,1312
+"1844","Sydney - Haymarket - The Rocks (1844)","1678","Erskineville - Alexandria (1678)","07/31/2016 - 08/28/2016, Every day, Daily Average",974,690,1373
+"1844","Sydney - Haymarket - The Rocks (1844)","1679","Erskineville - Alexandria (1679)","07/31/2016 - 08/28/2016, Every day, Daily Average",904,613,1331
+"1844","Sydney - Haymarket - The Rocks (1844)","1680","Erskineville - Alexandria (1680)","07/31/2016 - 08/28/2016, Every day, Daily Average",793,561,1120
+"1844","Sydney - Haymarket - The Rocks (1844)","1681","Erskineville - Alexandria (1681)","07/31/2016 - 08/28/2016, Every day, Daily Average",690,480,990
+"1844","Sydney - Haymarket - The Rocks (1844)","1682","Erskineville - Alexandria (1682)","07/31/2016 - 08/28/2016, Every day, Daily Average",995,727,1361
+"1844","Sydney - Haymarket - The Rocks (1844)","1684","Glebe - Forest Lodge (1684)","07/31/2016 - 08/28/2016, Every day, Daily Average",551,367,826
+"1844","Sydney - Haymarket - The Rocks (1844)","1685","Glebe - Forest Lodge (1685)","07/31/2016 - 08/28/2016, Every day, Daily Average",660,413,1053
+"1844","Sydney - Haymarket - The Rocks (1844)","1686","Glebe - Forest Lodge (1686)","07/31/2016 - 08/28/2016, Every day, Daily Average",507,326,788
+"1844","Sydney - Haymarket - The Rocks (1844)","1687","Glebe - Forest Lodge (1687)","07/31/2016 - 08/28/2016, Every day, Daily Average",471,308,720
+"1844","Sydney - Haymarket - The Rocks (1844)","1688","Glebe - Forest Lodge (1688)","07/31/2016 - 08/28/2016, Every day, Daily Average",539,368,788
+"1844","Sydney - Haymarket - The Rocks (1844)","1689","Glebe - Forest Lodge (1689)","07/31/2016 - 08/28/2016, Every day, Daily Average",367,236,569
+"1844","Sydney - Haymarket - The Rocks (1844)","1690","Glebe - Forest Lodge (1690)","07/31/2016 - 08/28/2016, Every day, Daily Average",535,368,777
+"1844","Sydney - Haymarket - The Rocks (1844)","1692","Newtown - Camperdown - Darlington (1692)","07/31/2016 - 08/28/2016, Every day, Daily Average",983,740,1305
+"1844","Sydney - Haymarket - The Rocks (1844)","1693","Newtown - Camperdown - Darlington (1693)","07/31/2016 - 08/28/2016, Every day, Daily Average",821,612,1100
+"1844","Sydney - Haymarket - The Rocks (1844)","1694","Newtown - Camperdown - Darlington (1694)","07/31/2016 - 08/28/2016, Every day, Daily Average",904,661,1235
+"1844","Sydney - Haymarket - The Rocks (1844)","1695","Newtown - Camperdown - Darlington (1695)","07/31/2016 - 08/28/2016, Every day, Daily Average",865,628,1191
+"1844","Sydney - Haymarket - The Rocks (1844)","1696","Newtown - Camperdown - Darlington (1696)","07/31/2016 - 08/28/2016, Every day, Daily Average",806,588,1103
+"1844","Sydney - Haymarket - The Rocks (1844)","1697","Newtown - Camperdown - Darlington (1697)","07/31/2016 - 08/28/2016, Every day, Daily Average",782,569,1073
+"1844","Sydney - Haymarket - The Rocks (1844)","1698","Newtown - Camperdown - Darlington (1698)","07/31/2016 - 08/28/2016, Every day, Daily Average",707,517,966
+"1844","Sydney - Haymarket - The Rocks (1844)","1699","Newtown - Camperdown - Darlington (1699)","07/31/2016 - 08/28/2016, Every day, Daily Average",764,553,1054
+"1844","Sydney - Haymarket - The Rocks (1844)","1700","Newtown - Camperdown - Darlington (1700)","07/31/2016 - 08/28/2016, Every day, Daily Average",770,569,1041
+"1844","Sydney - Haymarket - The Rocks (1844)","1701","Newtown - Camperdown - Darlington (1701)","07/31/2016 - 08/28/2016, Every day, Daily Average",659,467,928
+"1844","Sydney - Haymarket - The Rocks (1844)","1702","Newtown - Camperdown - Darlington (1702)","07/31/2016 - 08/28/2016, Every day, Daily Average",743,526,1048
+"1844","Sydney - Haymarket - The Rocks (1844)","1703","Newtown - Camperdown - Darlington (1703)","07/31/2016 - 08/28/2016, Every day, Daily Average",744,523,1056
+"1844","Sydney - Haymarket - The Rocks (1844)","1704","Newtown - Camperdown - Darlington (1704)","07/31/2016 - 08/28/2016, Every day, Daily Average",699,488,1000
+"1844","Sydney - Haymarket - The Rocks (1844)","1705","Newtown - Camperdown - Darlington (1705)","07/31/2016 - 08/28/2016, Every day, Daily Average",637,435,931
+"1844","Sydney - Haymarket - The Rocks (1844)","1706","Newtown - Camperdown - Darlington (1706)","07/31/2016 - 08/28/2016, Every day, Daily Average",651,456,929
+"1844","Sydney - Haymarket - The Rocks (1844)","1707","Newtown - Camperdown - Darlington (1707)","07/31/2016 - 08/28/2016, Every day, Daily Average",753,529,1070
+"1844","Sydney - Haymarket - The Rocks (1844)","1709","Potts Point - Woolloomooloo (1709)","07/31/2016 - 08/28/2016, Every day, Daily Average",476,303,746
+"1844","Sydney - Haymarket - The Rocks (1844)","1710","Potts Point - Woolloomooloo (1710)","07/31/2016 - 08/28/2016, Every day, Daily Average",523,339,805
+"1844","Sydney - Haymarket - The Rocks (1844)","1711","Potts Point - Woolloomooloo (1711)","07/31/2016 - 08/28/2016, Every day, Daily Average",590,398,874
+"1844","Sydney - Haymarket - The Rocks (1844)","1712","Potts Point - Woolloomooloo (1712)","07/31/2016 - 08/28/2016, Every day, Daily Average",581,393,858
+"1844","Sydney - Haymarket - The Rocks (1844)","1713","Potts Point - Woolloomooloo (1713)","07/31/2016 - 08/28/2016, Every day, Daily Average",402,247,653
+"1844","Sydney - Haymarket - The Rocks (1844)","1714","Potts Point - Woolloomooloo (1714)","07/31/2016 - 08/28/2016, Every day, Daily Average",475,310,727
+"1844","Sydney - Haymarket - The Rocks (1844)","1715","Potts Point - Woolloomooloo (1715)","07/31/2016 - 08/28/2016, Every day, Daily Average",714,493,1033
+"1844","Sydney - Haymarket - The Rocks (1844)","1716","Potts Point - Woolloomooloo (1716)","07/31/2016 - 08/28/2016, Every day, Daily Average",708,490,1021
+"1844","Sydney - Haymarket - The Rocks (1844)","1717","Potts Point - Woolloomooloo (1717)","07/31/2016 - 08/28/2016, Every day, Daily Average",679,470,980
+"1844","Sydney - Haymarket - The Rocks (1844)","1718","Potts Point - Woolloomooloo (1718)","07/31/2016 - 08/28/2016, Every day, Daily Average",457,314,663
+"1844","Sydney - Haymarket - The Rocks (1844)","1719","Potts Point - Woolloomooloo (1719)","07/31/2016 - 08/28/2016, Every day, Daily Average",530,358,782
+"1844","Sydney - Haymarket - The Rocks (1844)","1721","Pyrmont - Ultimo (1721)","07/31/2016 - 08/28/2016, Every day, Daily Average",524,325,844
+"1844","Sydney - Haymarket - The Rocks (1844)","1722","Pyrmont - Ultimo (1722)","07/31/2016 - 08/28/2016, Every day, Daily Average",345,217,547
+"1844","Sydney - Haymarket - The Rocks (1844)","1723","Pyrmont - Ultimo (1723)","07/31/2016 - 08/28/2016, Every day, Daily Average",379,242,593
+"1844","Sydney - Haymarket - The Rocks (1844)","1724","Pyrmont - Ultimo (1724)","07/31/2016 - 08/28/2016, Every day, Daily Average",203,111,371
+"1844","Sydney - Haymarket - The Rocks (1844)","1725","Pyrmont - Ultimo (1725)","07/31/2016 - 08/28/2016, Every day, Daily Average",207,118,362
+"1844","Sydney - Haymarket - The Rocks (1844)","1726","Pyrmont - Ultimo (1726)","07/31/2016 - 08/28/2016, Every day, Daily Average",256,150,435
+"1844","Sydney - Haymarket - The Rocks (1844)","1727","Pyrmont - Ultimo (1727)","07/31/2016 - 08/28/2016, Every day, Daily Average",313,189,518
+"1844","Sydney - Haymarket - The Rocks (1844)","1728","Pyrmont - Ultimo (1728)","07/31/2016 - 08/28/2016, Every day, Daily Average",375,232,605
+"1844","Sydney - Haymarket - The Rocks (1844)","1729","Pyrmont - Ultimo (1729)","07/31/2016 - 08/28/2016, Every day, Daily Average",267,159,448
+"1844","Sydney - Haymarket - The Rocks (1844)","1730","Pyrmont - Ultimo (1730)","07/31/2016 - 08/28/2016, Every day, Daily Average",407,272,608
+"1844","Sydney - Haymarket - The Rocks (1844)","1732","Redfern - Chippendale (1732)","07/31/2016 - 08/28/2016, Every day, Daily Average",854,591,1232
+"1844","Sydney - Haymarket - The Rocks (1844)","1733","Redfern - Chippendale (1733)","07/31/2016 - 08/28/2016, Every day, Daily Average",727,510,1034
+"1844","Sydney - Haymarket - The Rocks (1844)","1734","Redfern - Chippendale (1734)","07/31/2016 - 08/28/2016, Every day, Daily Average",603,414,876
+"1844","Sydney - Haymarket - The Rocks (1844)","1735","Redfern - Chippendale (1735)","07/31/2016 - 08/28/2016, Every day, Daily Average",621,440,874
+"1844","Sydney - Haymarket - The Rocks (1844)","1736","Redfern - Chippendale (1736)","07/31/2016 - 08/28/2016, Every day, Daily Average",654,483,884
+"1844","Sydney - Haymarket - The Rocks (1844)","1737","Redfern - Chippendale (1737)","07/31/2016 - 08/28/2016, Every day, Daily Average",781,556,1096
+"1844","Sydney - Haymarket - The Rocks (1844)","1738","Redfern - Chippendale (1738)","07/31/2016 - 08/28/2016, Every day, Daily Average",875,640,1194
+"1844","Sydney - Haymarket - The Rocks (1844)","1739","Redfern - Chippendale (1739)","07/31/2016 - 08/28/2016, Every day, Daily Average",1058,707,1582
+"1844","Sydney - Haymarket - The Rocks (1844)","1740","Redfern - Chippendale (1740)","07/31/2016 - 08/28/2016, Every day, Daily Average",921,628,1349
+"1844","Sydney - Haymarket - The Rocks (1844)","1741","Redfern - Chippendale (1741)","07/31/2016 - 08/28/2016, Every day, Daily Average",772,533,1117
+"1844","Sydney - Haymarket - The Rocks (1844)","1742","Redfern - Chippendale (1742)","07/31/2016 - 08/28/2016, Every day, Daily Average",734,527,1021
+"1844","Sydney - Haymarket - The Rocks (1844)","1743","Redfern - Chippendale (1743)","07/31/2016 - 08/28/2016, Every day, Daily Average",570,392,828
+"1844","Sydney - Haymarket - The Rocks (1844)","1744","Redfern - Chippendale (1744)","07/31/2016 - 08/28/2016, Every day, Daily Average",742,512,1073
+"1844","Sydney - Haymarket - The Rocks (1844)","1745","Redfern - Chippendale (1745)","07/31/2016 - 08/28/2016, Every day, Daily Average",558,371,837
+"1844","Sydney - Haymarket - The Rocks (1844)","1746","Redfern - Chippendale (1746)","07/31/2016 - 08/28/2016, Every day, Daily Average",511,334,781
+"1844","Sydney - Haymarket - The Rocks (1844)","1747","Redfern - Chippendale (1747)","07/31/2016 - 08/28/2016, Every day, Daily Average",503,332,760
+"1844","Sydney - Haymarket - The Rocks (1844)","1748","Redfern - Chippendale (1748)","07/31/2016 - 08/28/2016, Every day, Daily Average",475,303,743
+"1844","Sydney - Haymarket - The Rocks (1844)","1749","Redfern - Chippendale (1749)","07/31/2016 - 08/28/2016, Every day, Daily Average",450,284,711
+"1844","Sydney - Haymarket - The Rocks (1844)","1751","Surry Hills (1751)","07/31/2016 - 08/28/2016, Every day, Daily Average",611,427,872
+"1844","Sydney - Haymarket - The Rocks (1844)","1752","Surry Hills (1752)","07/31/2016 - 08/28/2016, Every day, Daily Average",671,486,925
+"1844","Sydney - Haymarket - The Rocks (1844)","1753","Surry Hills (1753)","07/31/2016 - 08/28/2016, Every day, Daily Average",817,586,1138
+"1844","Sydney - Haymarket - The Rocks (1844)","1754","Surry Hills (1754)","07/31/2016 - 08/28/2016, Every day, Daily Average",774,516,1158
+"1844","Sydney - Haymarket - The Rocks (1844)","1755","Surry Hills (1755)","07/31/2016 - 08/28/2016, Every day, Daily Average",782,532,1148
+"1844","Sydney - Haymarket - The Rocks (1844)","1756","Surry Hills (1756)","07/31/2016 - 08/28/2016, Every day, Daily Average",628,436,902
+"1844","Sydney - Haymarket - The Rocks (1844)","1757","Surry Hills (1757)","07/31/2016 - 08/28/2016, Every day, Daily Average",556,383,805
+"1844","Sydney - Haymarket - The Rocks (1844)","1758","Surry Hills (1758)","07/31/2016 - 08/28/2016, Every day, Daily Average",712,464,1091
+"1844","Sydney - Haymarket - The Rocks (1844)","1759","Surry Hills (1759)","07/31/2016 - 08/28/2016, Every day, Daily Average",641,454,903
+"1844","Sydney - Haymarket - The Rocks (1844)","1760","Surry Hills (1760)","07/31/2016 - 08/28/2016, Every day, Daily Average",575,391,845
+"1844","Sydney - Haymarket - The Rocks (1844)","1761","Surry Hills (1761)","07/31/2016 - 08/28/2016, Every day, Daily Average",667,454,979
+"1844","Sydney - Haymarket - The Rocks (1844)","1762","Surry Hills (1762)","07/31/2016 - 08/28/2016, Every day, Daily Average",550,375,804
+"1844","Sydney - Haymarket - The Rocks (1844)","1763","Surry Hills (1763)","07/31/2016 - 08/28/2016, Every day, Daily Average",621,427,902
+"1844","Sydney - Haymarket - The Rocks (1844)","1764","Surry Hills (1764)","07/31/2016 - 08/28/2016, Every day, Daily Average",700,479,1020
+"1844","Sydney - Haymarket - The Rocks (1844)","1765","Surry Hills (1765)","07/31/2016 - 08/28/2016, Every day, Daily Average",550,374,808
+"1844","Sydney - Haymarket - The Rocks (1844)","1767","Sydney - Haymarket - The Rocks (1767)","07/31/2016 - 08/28/2016, Every day, Daily Average",370,226,605
+"1844","Sydney - Haymarket - The Rocks (1844)","1769","Sydney - Haymarket - The Rocks (1769)","07/31/2016 - 08/28/2016, Every day, Daily Average",412,264,640
+"1844","Sydney - Haymarket - The Rocks (1844)","1770","Sydney - Haymarket - The Rocks (1770)","07/31/2016 - 08/28/2016, Every day, Daily Average",450,275,733
+"1844","Sydney - Haymarket - The Rocks (1844)","1771","Sydney - Haymarket - The Rocks (1771)","07/31/2016 - 08/28/2016, Every day, Daily Average",376,204,690
+"1844","Sydney - Haymarket - The Rocks (1844)","1772","Sydney - Haymarket - The Rocks (1772)","07/31/2016 - 08/28/2016, Every day, Daily Average",410,227,739
+"1844","Sydney - Haymarket - The Rocks (1844)","1773","Sydney - Haymarket - The Rocks (1773)","07/31/2016 - 08/28/2016, Every day, Daily Average",337,186,608
+"1844","Sydney - Haymarket - The Rocks (1844)","1774","Sydney - Haymarket - The Rocks (1774)","07/31/2016 - 08/28/2016, Every day, Daily Average",475,279,807
+"1844","Sydney - Haymarket - The Rocks (1844)","1775","Sydney - Haymarket - The Rocks (1775)","07/31/2016 - 08/28/2016, Every day, Daily Average",514,302,872
+"1844","Sydney - Haymarket - The Rocks (1844)","1776","Sydney - Haymarket - The Rocks (1776)","07/31/2016 - 08/28/2016, Every day, Daily Average",629,373,1060
+"1844","Sydney - Haymarket - The Rocks (1844)","1777","Sydney - Haymarket - The Rocks (1777)","07/31/2016 - 08/28/2016, Every day, Daily Average",664,413,1065
+"1844","Sydney - Haymarket - The Rocks (1844)","1778","Sydney - Haymarket - The Rocks (1778)","07/31/2016 - 08/28/2016, Every day, Daily Average",479,336,682
+"1844","Sydney - Haymarket - The Rocks (1844)","1779","Sydney - Haymarket - The Rocks (1779)","07/31/2016 - 08/28/2016, Every day, Daily Average",341,203,572
+"1844","Sydney - Haymarket - The Rocks (1844)","1780","Sydney - Haymarket - The Rocks (1780)","07/31/2016 - 08/28/2016, Every day, Daily Average",304,157,585
+"1844","Sydney - Haymarket - The Rocks (1844)","1781","Sydney - Haymarket - The Rocks (1781)","07/31/2016 - 08/28/2016, Every day, Daily Average",424,250,718
+"1844","Sydney - Haymarket - The Rocks (1844)","1782","Sydney - Haymarket - The Rocks (1782)","07/31/2016 - 08/28/2016, Every day, Daily Average",500,307,812
+"1844","Sydney - Haymarket - The Rocks (1844)","1783","Sydney - Haymarket - The Rocks (1783)","07/31/2016 - 08/28/2016, Every day, Daily Average",673,366,1234
+"1844","Sydney - Haymarket - The Rocks (1844)","1784","Sydney - Haymarket - The Rocks (1784)","07/31/2016 - 08/28/2016, Every day, Daily Average",462,313,680
+"1844","Sydney - Haymarket - The Rocks (1844)","1785","Sydney - Haymarket - The Rocks (1785)","07/31/2016 - 08/28/2016, Every day, Daily Average",500,284,880
+"1844","Sydney - Haymarket - The Rocks (1844)","1786","Sydney - Haymarket - The Rocks (1786)","07/31/2016 - 08/28/2016, Every day, Daily Average",531,331,851
+"1844","Sydney - Haymarket - The Rocks (1844)","1787","Sydney - Haymarket - The Rocks (1787)","07/31/2016 - 08/28/2016, Every day, Daily Average",504,326,777
+"1844","Sydney - Haymarket - The Rocks (1844)","1788","Sydney - Haymarket - The Rocks (1788)","07/31/2016 - 08/28/2016, Every day, Daily Average",465,229,940
+"1844","Sydney - Haymarket - The Rocks (1844)","1789","Sydney - Haymarket - The Rocks (1789)","07/31/2016 - 08/28/2016, Every day, Daily Average",411,218,771
+"1844","Sydney - Haymarket - The Rocks (1844)","1790","Sydney - Haymarket - The Rocks (1790)","07/31/2016 - 08/28/2016, Every day, Daily Average",428,222,822
+"1844","Sydney - Haymarket - The Rocks (1844)","1791","Sydney - Haymarket - The Rocks (1791)","07/31/2016 - 08/28/2016, Every day, Daily Average",507,314,816
+"1844","Sydney - Haymarket - The Rocks (1844)","1792","Sydney - Haymarket - The Rocks (1792)","07/31/2016 - 08/28/2016, Every day, Daily Average",445,285,692
+"1844","Sydney - Haymarket - The Rocks (1844)","1793","Sydney - Haymarket - The Rocks (1793)","07/31/2016 - 08/28/2016, Every day, Daily Average",436,276,686
+"1844","Sydney - Haymarket - The Rocks (1844)","1794","Sydney - Haymarket - The Rocks (1794)","07/31/2016 - 08/28/2016, Every day, Daily Average",409,250,668
+"1844","Sydney - Haymarket - The Rocks (1844)","1795","Sydney - Haymarket - The Rocks (1795)","07/31/2016 - 08/28/2016, Every day, Daily Average",435,275,686
+"1844","Sydney - Haymarket - The Rocks (1844)","1796","Sydney - Haymarket - The Rocks (1796)","07/31/2016 - 08/28/2016, Every day, Daily Average",427,270,674
+"1844","Sydney - Haymarket - The Rocks (1844)","1797","Sydney - Haymarket - The Rocks (1797)","07/31/2016 - 08/28/2016, Every day, Daily Average",339,166,690
+"1844","Sydney - Haymarket - The Rocks (1844)","1798","Sydney - Haymarket - The Rocks (1798)","07/31/2016 - 08/28/2016, Every day, Daily Average",368,199,680
+"1844","Sydney - Haymarket - The Rocks (1844)","1799","Sydney - Haymarket - The Rocks (1799)","07/31/2016 - 08/28/2016, Every day, Daily Average",235,119,463
+"1844","Sydney - Haymarket - The Rocks (1844)","1800","Sydney - Haymarket - The Rocks (1800)","07/31/2016 - 08/28/2016, Every day, Daily Average",218,112,423
+"1844","Sydney - Haymarket - The Rocks (1844)","1801","Sydney - Haymarket - The Rocks (1801)","07/31/2016 - 08/28/2016, Every day, Daily Average",354,189,660
+"1844","Sydney - Haymarket - The Rocks (1844)","1802","Sydney - Haymarket - The Rocks (1802)","07/31/2016 - 08/28/2016, Every day, Daily Average",478,291,785
+"1844","Sydney - Haymarket - The Rocks (1844)","1803","Sydney - Haymarket - The Rocks (1803)","07/31/2016 - 08/28/2016, Every day, Daily Average",406,260,632
+"1844","Sydney - Haymarket - The Rocks (1844)","1804","Sydney - Haymarket - The Rocks (1804)","07/31/2016 - 08/28/2016, Every day, Daily Average",393,243,633
+"1844","Sydney - Haymarket - The Rocks (1844)","1805","Sydney - Haymarket - The Rocks (1805)","07/31/2016 - 08/28/2016, Every day, Daily Average",366,228,585
+"1844","Sydney - Haymarket - The Rocks (1844)","1806","Sydney - Haymarket - The Rocks (1806)","07/31/2016 - 08/28/2016, Every day, Daily Average",315,195,508
+"1844","Sydney - Haymarket - The Rocks (1844)","1807","Sydney - Haymarket - The Rocks (1807)","07/31/2016 - 08/28/2016, Every day, Daily Average",372,220,627
+"1844","Sydney - Haymarket - The Rocks (1844)","1808","Sydney - Haymarket - The Rocks (1808)","07/31/2016 - 08/28/2016, Every day, Daily Average",206,103,409
+"1844","Sydney - Haymarket - The Rocks (1844)","1809","Sydney - Haymarket - The Rocks (1809)","07/31/2016 - 08/28/2016, Every day, Daily Average",331,175,624
+"1844","Sydney - Haymarket - The Rocks (1844)","1810","Sydney - Haymarket - The Rocks (1810)","07/31/2016 - 08/28/2016, Every day, Daily Average",335,198,565
+"1844","Sydney - Haymarket - The Rocks (1844)","1811","Sydney - Haymarket - The Rocks (1811)","07/31/2016 - 08/28/2016, Every day, Daily Average",336,202,557
+"1844","Sydney - Haymarket - The Rocks (1844)","1812","Sydney - Haymarket - The Rocks (1812)","07/31/2016 - 08/28/2016, Every day, Daily Average",268,159,449
+"1844","Sydney - Haymarket - The Rocks (1844)","1813","Sydney - Haymarket - The Rocks (1813)","07/31/2016 - 08/28/2016, Every day, Daily Average",251,158,398
+"1844","Sydney - Haymarket - The Rocks (1844)","1814","Sydney - Haymarket - The Rocks (1814)","07/31/2016 - 08/28/2016, Every day, Daily Average",283,174,459
+"1844","Sydney - Haymarket - The Rocks (1844)","1815","Sydney - Haymarket - The Rocks (1815)","07/31/2016 - 08/28/2016, Every day, Daily Average",344,169,696
+"1844","Sydney - Haymarket - The Rocks (1844)","1816","Sydney - Haymarket - The Rocks (1816)","07/31/2016 - 08/28/2016, Every day, Daily Average",282,132,599
+"1844","Sydney - Haymarket - The Rocks (1844)","1817","Sydney - Haymarket - The Rocks (1817)","07/31/2016 - 08/28/2016, Every day, Daily Average",169,84,337
+"1844","Sydney - Haymarket - The Rocks (1844)","1818","Sydney - Haymarket - The Rocks (1818)","07/31/2016 - 08/28/2016, Every day, Daily Average",155,71,336
+"1844","Sydney - Haymarket - The Rocks (1844)","1819","Sydney - Haymarket - The Rocks (1819)","07/31/2016 - 08/28/2016, Every day, Daily Average",269,112,642
+"1844","Sydney - Haymarket - The Rocks (1844)","1820","Sydney - Haymarket - The Rocks (1820)","07/31/2016 - 08/28/2016, Every day, Daily Average",316,175,570
+"1844","Sydney - Haymarket - The Rocks (1844)","1821","Sydney - Haymarket - The Rocks (1821)","07/31/2016 - 08/28/2016, Every day, Daily Average",304,191,482
+"1844","Sydney - Haymarket - The Rocks (1844)","1822","Sydney - Haymarket - The Rocks (1822)","07/31/2016 - 08/28/2016, Every day, Daily Average",216,132,351
+"1844","Sydney - Haymarket - The Rocks (1844)","1823","Sydney - Haymarket - The Rocks (1823)","07/31/2016 - 08/28/2016, Every day, Daily Average",239,144,395
+"1844","Sydney - Haymarket - The Rocks (1844)","1824","Sydney - Haymarket - The Rocks (1824)","07/31/2016 - 08/28/2016, Every day, Daily Average",296,179,489
+"1844","Sydney - Haymarket - The Rocks (1844)","1825","Sydney - Haymarket - The Rocks (1825)","07/31/2016 - 08/28/2016, Every day, Daily Average",329,191,563
+"1844","Sydney - Haymarket - The Rocks (1844)","1826","Sydney - Haymarket - The Rocks (1826)","07/31/2016 - 08/28/2016, Every day, Daily Average",427,277,656
+"1844","Sydney - Haymarket - The Rocks (1844)","1827","Sydney - Haymarket - The Rocks (1827)","07/31/2016 - 08/28/2016, Every day, Daily Average",280,146,536
+"1844","Sydney - Haymarket - The Rocks (1844)","1828","Sydney - Haymarket - The Rocks (1828)","07/31/2016 - 08/28/2016, Every day, Daily Average",331,166,658
+"1844","Sydney - Haymarket - The Rocks (1844)","1829","Sydney - Haymarket - The Rocks (1829)","07/31/2016 - 08/28/2016, Every day, Daily Average",252,109,580
+"1844","Sydney - Haymarket - The Rocks (1844)","1830","Sydney - Haymarket - The Rocks (1830)","07/31/2016 - 08/28/2016, Every day, Daily Average",125,47,326
+"1844","Sydney - Haymarket - The Rocks (1844)","1831","Sydney - Haymarket - The Rocks (1831)","07/31/2016 - 08/28/2016, Every day, Daily Average",109,50,235
+"1844","Sydney - Haymarket - The Rocks (1844)","1832","Sydney - Haymarket - The Rocks (1832)","07/31/2016 - 08/28/2016, Every day, Daily Average",70,19,249
+"1844","Sydney - Haymarket - The Rocks (1844)","1833","Sydney - Haymarket - The Rocks (1833)","07/31/2016 - 08/28/2016, Every day, Daily Average",257,100,654
+"1844","Sydney - Haymarket - The Rocks (1844)","1834","Sydney - Haymarket - The Rocks (1834)","07/31/2016 - 08/28/2016, Every day, Daily Average",67,19,229
+"1844","Sydney - Haymarket - The Rocks (1844)","1835","Sydney - Haymarket - The Rocks (1835)","07/31/2016 - 08/28/2016, Every day, Daily Average",100,40,246
+"1844","Sydney - Haymarket - The Rocks (1844)","1836","Sydney - Haymarket - The Rocks (1836)","07/31/2016 - 08/28/2016, Every day, Daily Average",133,62,281
+"1844","Sydney - Haymarket - The Rocks (1844)","1837","Sydney - Haymarket - The Rocks (1837)","07/31/2016 - 08/28/2016, Every day, Daily Average",164,86,309
+"1844","Sydney - Haymarket - The Rocks (1844)","1838","Sydney - Haymarket - The Rocks (1838)","07/31/2016 - 08/28/2016, Every day, Daily Average",190,105,342
+"1844","Sydney - Haymarket - The Rocks (1844)","1839","Sydney - Haymarket - The Rocks (1839)","07/31/2016 - 08/28/2016, Every day, Daily Average",232,128,419
+"1844","Sydney - Haymarket - The Rocks (1844)","1840","Sydney - Haymarket - The Rocks (1840)","07/31/2016 - 08/28/2016, Every day, Daily Average",424,290,618
+"1844","Sydney - Haymarket - The Rocks (1844)","1841","Sydney - Haymarket - The Rocks (1841)","07/31/2016 - 08/28/2016, Every day, Daily Average",148,49,440
+"1844","Sydney - Haymarket - The Rocks (1844)","1842","Sydney - Haymarket - The Rocks (1842)","07/31/2016 - 08/28/2016, Every day, Daily Average",91,33,248
+"1844","Sydney - Haymarket - The Rocks (1844)","1843","Sydney - Haymarket - The Rocks (1843)","07/31/2016 - 08/28/2016, Every day, Daily Average",51,15,165
+"1844","Sydney - Haymarket - The Rocks (1844)","1845","Sydney - Haymarket - The Rocks (1845)","07/31/2016 - 08/28/2016, Every day, Daily Average",44,13,144
+"1844","Sydney - Haymarket - The Rocks (1844)","1846","Sydney - Haymarket - The Rocks (1846)","07/31/2016 - 08/28/2016, Every day, Daily Average",90,34,232
+"1844","Sydney - Haymarket - The Rocks (1844)","1847","Sydney - Haymarket - The Rocks (1847)","07/31/2016 - 08/28/2016, Every day, Daily Average",137,64,290
+"1844","Sydney - Haymarket - The Rocks (1844)","1848","Sydney - Haymarket - The Rocks (1848)","07/31/2016 - 08/28/2016, Every day, Daily Average",171,86,336
+"1844","Sydney - Haymarket - The Rocks (1844)","1849","Sydney - Haymarket - The Rocks (1849)","07/31/2016 - 08/28/2016, Every day, Daily Average",203,106,388
+"1844","Sydney - Haymarket - The Rocks (1844)","1850","Sydney - Haymarket - The Rocks (1850)","07/31/2016 - 08/28/2016, Every day, Daily Average",377,241,588
+"1844","Sydney - Haymarket - The Rocks (1844)","1851","Sydney - Haymarket - The Rocks (1851)","07/31/2016 - 08/28/2016, Every day, Daily Average",168,84,332
+"1844","Sydney - Haymarket - The Rocks (1844)","1852","Sydney - Haymarket - The Rocks (1852)","07/31/2016 - 08/28/2016, Every day, Daily Average",205,67,619
+"1844","Sydney - Haymarket - The Rocks (1844)","1853","Sydney - Haymarket - The Rocks (1853)","07/31/2016 - 08/28/2016, Every day, Daily Average",116,50,265
+"1844","Sydney - Haymarket - The Rocks (1844)","1854","Sydney - Haymarket - The Rocks (1854)","07/31/2016 - 08/28/2016, Every day, Daily Average",98,38,247
+"1844","Sydney - Haymarket - The Rocks (1844)","1855","Sydney - Haymarket - The Rocks (1855)","07/31/2016 - 08/28/2016, Every day, Daily Average",79,26,235
+"1844","Sydney - Haymarket - The Rocks (1844)","1856","Sydney - Haymarket - The Rocks (1856)","07/31/2016 - 08/28/2016, Every day, Daily Average",61,17,212
+"1844","Sydney - Haymarket - The Rocks (1844)","1857","Sydney - Haymarket - The Rocks (1857)","07/31/2016 - 08/28/2016, Every day, Daily Average",199,57,685
+"1844","Sydney - Haymarket - The Rocks (1844)","1858","Sydney - Haymarket - The Rocks (1858)","07/31/2016 - 08/28/2016, Every day, Daily Average",323,122,849
+"1844","Sydney - Haymarket - The Rocks (1844)","1859","Sydney - Haymarket - The Rocks (1859)","07/31/2016 - 08/28/2016, Every day, Daily Average",271,129,566
+"1844","Sydney - Haymarket - The Rocks (1844)","1860","Sydney - Haymarket - The Rocks (1860)","07/31/2016 - 08/28/2016, Every day, Daily Average",282,138,572
+"1844","Sydney - Haymarket - The Rocks (1844)","1861","Sydney - Haymarket - The Rocks (1861)","07/31/2016 - 08/28/2016, Every day, Daily Average",310,175,547
+"1844","Sydney - Haymarket - The Rocks (1844)","1862","Sydney - Haymarket - The Rocks (1862)","07/31/2016 - 08/28/2016, Every day, Daily Average",361,230,564
+"1844","Sydney - Haymarket - The Rocks (1844)","1863","Sydney - Haymarket - The Rocks (1863)","07/31/2016 - 08/28/2016, Every day, Daily Average",161,77,332
+"1844","Sydney - Haymarket - The Rocks (1844)","1864","Sydney - Haymarket - The Rocks (1864)","07/31/2016 - 08/28/2016, Every day, Daily Average",258,138,479
+"1844","Sydney - Haymarket - The Rocks (1844)","1865","Sydney - Haymarket - The Rocks (1865)","07/31/2016 - 08/28/2016, Every day, Daily Average",305,140,662
+"1844","Sydney - Haymarket - The Rocks (1844)","1866","Sydney - Haymarket - The Rocks (1866)","07/31/2016 - 08/28/2016, Every day, Daily Average",382,202,719
+"1844","Sydney - Haymarket - The Rocks (1844)","1867","Sydney - Haymarket - The Rocks (1867)","07/31/2016 - 08/28/2016, Every day, Daily Average",373,194,716
+"1844","Sydney - Haymarket - The Rocks (1844)","1868","Sydney - Haymarket - The Rocks (1868)","07/31/2016 - 08/28/2016, Every day, Daily Average",358,207,617
+"1844","Sydney - Haymarket - The Rocks (1844)","1869","Sydney - Haymarket - The Rocks (1869)","07/31/2016 - 08/28/2016, Every day, Daily Average",325,170,619
+"1844","Sydney - Haymarket - The Rocks (1844)","1870","Sydney - Haymarket - The Rocks (1870)","07/31/2016 - 08/28/2016, Every day, Daily Average",173,82,362
+"1844","Sydney - Haymarket - The Rocks (1844)","1871","Sydney - Haymarket - The Rocks (1871)","07/31/2016 - 08/28/2016, Every day, Daily Average",320,176,579
+"1844","Sydney - Haymarket - The Rocks (1844)","1872","Sydney - Haymarket - The Rocks (1872)","07/31/2016 - 08/28/2016, Every day, Daily Average",307,164,574
+"1844","Sydney - Haymarket - The Rocks (1844)","1873","Sydney - Haymarket - The Rocks (1873)","07/31/2016 - 08/28/2016, Every day, Daily Average",367,206,651
+"1844","Sydney - Haymarket - The Rocks (1844)","1874","Sydney - Haymarket - The Rocks (1874)","07/31/2016 - 08/28/2016, Every day, Daily Average",365,207,642
+"1844","Sydney - Haymarket - The Rocks (1844)","1875","Sydney - Haymarket - The Rocks (1875)","07/31/2016 - 08/28/2016, Every day, Daily Average",522,337,807
+"1844","Sydney - Haymarket - The Rocks (1844)","1876","Sydney - Haymarket - The Rocks (1876)","07/31/2016 - 08/28/2016, Every day, Daily Average",507,331,775
+"1844","Sydney - Haymarket - The Rocks (1844)","1877","Sydney - Haymarket - The Rocks (1877)","07/31/2016 - 08/28/2016, Every day, Daily Average",406,255,646
+"1844","Sydney - Haymarket - The Rocks (1844)","1878","Sydney - Haymarket - The Rocks (1878)","07/31/2016 - 08/28/2016, Every day, Daily Average",399,250,636
+"1844","Sydney - Haymarket - The Rocks (1844)","1879","Sydney - Haymarket - The Rocks (1879)","07/31/2016 - 08/28/2016, Every day, Daily Average",389,232,650
+"1844","Sydney - Haymarket - The Rocks (1844)","1880","Sydney - Haymarket - The Rocks (1880)","07/31/2016 - 08/28/2016, Every day, Daily Average",438,255,751
+"1844","Sydney - Haymarket - The Rocks (1844)","1881","Sydney - Haymarket - The Rocks (1881)","07/31/2016 - 08/28/2016, Every day, Daily Average",588,359,960
+"1844","Sydney - Haymarket - The Rocks (1844)","1882","Sydney - Haymarket - The Rocks (1882)","07/31/2016 - 08/28/2016, Every day, Daily Average",509,320,807
+"1844","Sydney - Haymarket - The Rocks (1844)","1883","Sydney - Haymarket - The Rocks (1883)","07/31/2016 - 08/28/2016, Every day, Daily Average",484,301,777
+"1844","Sydney - Haymarket - The Rocks (1844)","1884","Sydney - Haymarket - The Rocks (1884)","07/31/2016 - 08/28/2016, Every day, Daily Average",453,292,700
+"1844","Sydney - Haymarket - The Rocks (1844)","1885","Sydney - Haymarket - The Rocks (1885)","07/31/2016 - 08/28/2016, Every day, Daily Average",494,301,808
+"1844","Sydney - Haymarket - The Rocks (1844)","1886","Sydney - Haymarket - The Rocks (1886)","07/31/2016 - 08/28/2016, Every day, Daily Average",477,306,742
+"1844","Sydney - Haymarket - The Rocks (1844)","1887","Sydney - Haymarket - The Rocks (1887)","07/31/2016 - 08/28/2016, Every day, Daily Average",614,341,1104
+"1844","Sydney - Haymarket - The Rocks (1844)","1888","Sydney - Haymarket - The Rocks (1888)","07/31/2016 - 08/28/2016, Every day, Daily Average",529,307,911
+"1844","Sydney - Haymarket - The Rocks (1844)","1889","Sydney - Haymarket - The Rocks (1889)","07/31/2016 - 08/28/2016, Every day, Daily Average",478,273,835
+"1844","Sydney - Haymarket - The Rocks (1844)","1890","Sydney - Haymarket - The Rocks (1890)","07/31/2016 - 08/28/2016, Every day, Daily Average",410,266,630
+"1844","Sydney - Haymarket - The Rocks (1844)","1891","Sydney - Haymarket - The Rocks (1891)","07/31/2016 - 08/28/2016, Every day, Daily Average",476,282,803
+"1844","Sydney - Haymarket - The Rocks (1844)","1892","Sydney - Haymarket - The Rocks (1892)","07/31/2016 - 08/28/2016, Every day, Daily Average",600,382,941
+"1844","Sydney - Haymarket - The Rocks (1844)","1893","Sydney - Haymarket - The Rocks (1893)","07/31/2016 - 08/28/2016, Every day, Daily Average",582,357,946
+"1844","Sydney - Haymarket - The Rocks (1844)","1894","Sydney - Haymarket - The Rocks (1894)","07/31/2016 - 08/28/2016, Every day, Daily Average",533,346,820
+"1844","Sydney - Haymarket - The Rocks (1844)","1895","Sydney - Haymarket - The Rocks (1895)","07/31/2016 - 08/28/2016, Every day, Daily Average",672,417,1082
+"1844","Sydney - Haymarket - The Rocks (1844)","1896","Sydney - Haymarket - The Rocks (1896)","07/31/2016 - 08/28/2016, Every day, Daily Average",593,391,899
+"1844","Sydney - Haymarket - The Rocks (1844)","1897","Sydney - Haymarket - The Rocks (1897)","07/31/2016 - 08/28/2016, Every day, Daily Average",519,315,853
+"1844","Sydney - Haymarket - The Rocks (1844)","1898","Sydney - Haymarket - The Rocks (1898)","07/31/2016 - 08/28/2016, Every day, Daily Average",490,325,738
+"1844","Sydney - Haymarket - The Rocks (1844)","1899","Sydney - Haymarket - The Rocks (1899)","07/31/2016 - 08/28/2016, Every day, Daily Average",486,321,735
+"1844","Sydney - Haymarket - The Rocks (1844)","1900","Sydney - Haymarket - The Rocks (1900)","07/31/2016 - 08/28/2016, Every day, Daily Average",652,443,957
+"1844","Sydney - Haymarket - The Rocks (1844)","1902","Sydney - Haymarket - The Rocks (1902)","07/31/2016 - 08/28/2016, Every day, Daily Average",595,397,891
+"1844","Sydney - Haymarket - The Rocks (1844)","1903","Sydney - Haymarket - The Rocks (1903)","07/31/2016 - 08/28/2016, Every day, Daily Average",475,308,731
+"1844","Sydney - Haymarket - The Rocks (1844)","1904","Sydney - Haymarket - The Rocks (1904)","07/31/2016 - 08/28/2016, Every day, Daily Average",540,340,855
+"1844","Sydney - Haymarket - The Rocks (1844)","1905","Sydney - Haymarket - The Rocks (1905)","07/31/2016 - 08/28/2016, Every day, Daily Average",675,429,1060
+"1844","Sydney - Haymarket - The Rocks (1844)","1906","Sydney - Haymarket - The Rocks (1906)","07/31/2016 - 08/28/2016, Every day, Daily Average",661,428,1019
+"1844","Sydney - Haymarket - The Rocks (1844)","1907","Sydney - Haymarket - The Rocks (1907)","07/31/2016 - 08/28/2016, Every day, Daily Average",685,415,1129
+"1844","Sydney - Haymarket - The Rocks (1844)","1908","Sydney - Haymarket - The Rocks (1908)","07/31/2016 - 08/28/2016, Every day, Daily Average",711,459,1100
+"1844","Sydney - Haymarket - The Rocks (1844)","1912","Waterloo - Beaconsfield (1912)","07/31/2016 - 08/28/2016, Every day, Daily Average",1150,814,1624
+"1844","Sydney - Haymarket - The Rocks (1844)","1913","Waterloo - Beaconsfield (1913)","07/31/2016 - 08/28/2016, Every day, Daily Average",850,587,1228
+"1844","Sydney - Haymarket - The Rocks (1844)","1914","Waterloo - Beaconsfield (1914)","07/31/2016 - 08/28/2016, Every day, Daily Average",1084,750,1566
+"1844","Sydney - Haymarket - The Rocks (1844)","1915","Waterloo - Beaconsfield (1915)","07/31/2016 - 08/28/2016, Every day, Daily Average",1274,903,1796
+"1844","Sydney - Haymarket - The Rocks (1844)","1916","Waterloo - Beaconsfield (1916)","07/31/2016 - 08/28/2016, Every day, Daily Average",841,571,1236
+"1844","Sydney - Haymarket - The Rocks (1844)","1917","Waterloo - Beaconsfield (1917)","07/31/2016 - 08/28/2016, Every day, Daily Average",967,716,1305
+"1844","Sydney - Haymarket - The Rocks (1844)","1918","Waterloo - Beaconsfield (1918)","07/31/2016 - 08/28/2016, Every day, Daily Average",1010,715,1425
+"1844","Sydney - Haymarket - The Rocks (1844)","1919","Waterloo - Beaconsfield (1919)","07/31/2016 - 08/28/2016, Every day, Daily Average",956,665,1372
+"1844","Sydney - Haymarket - The Rocks (1844)","1920","Waterloo - Beaconsfield (1920)","07/31/2016 - 08/28/2016, Every day, Daily Average",859,571,1291
+"1844","Sydney - Haymarket - The Rocks (1844)","1921","Waterloo - Beaconsfield (1921)","07/31/2016 - 08/28/2016, Every day, Daily Average",807,555,1172
+"1844","Sydney - Haymarket - The Rocks (1844)","1922","Waterloo - Beaconsfield (1922)","07/31/2016 - 08/28/2016, Every day, Daily Average",1029,732,1444
+"1844","Sydney - Haymarket - The Rocks (1844)","1923","Waterloo - Beaconsfield (1923)","07/31/2016 - 08/28/2016, Every day, Daily Average",920,613,1378
+"1844","Sydney - Haymarket - The Rocks (1844)","1924","Waterloo - Beaconsfield (1924)","07/31/2016 - 08/28/2016, Every day, Daily Average",856,615,1189
+"1844","Sydney - Haymarket - The Rocks (1844)","1925","Waterloo - Beaconsfield (1925)","07/31/2016 - 08/28/2016, Every day, Daily Average",912,658,1262
+"1844","Sydney - Haymarket - The Rocks (1844)","1926","Waterloo - Beaconsfield (1926)","07/31/2016 - 08/28/2016, Every day, Daily Average",915,603,1386
+"1844","Sydney - Haymarket - The Rocks (1844)","1927","Waterloo - Beaconsfield (1927)","07/31/2016 - 08/28/2016, Every day, Daily Average",691,482,990
+"1844","Sydney - Haymarket - The Rocks (1844)","1928","Waterloo - Beaconsfield (1928)","07/31/2016 - 08/28/2016, Every day, Daily Average",854,607,1200
+"1844","Sydney - Haymarket - The Rocks (1844)","1929","Waterloo - Beaconsfield (1929)","07/31/2016 - 08/28/2016, Every day, Daily Average",988,709,1376
+"1844","Sydney - Haymarket - The Rocks (1844)","1930","Waterloo - Beaconsfield (1930)","07/31/2016 - 08/28/2016, Every day, Daily Average",917,592,1418
+"1844","Sydney - Haymarket - The Rocks (1844)","1932","Bondi - Tamarama - Bronte (1932)","07/31/2016 - 08/28/2016, Every day, Daily Average",1308,1037,1649
+"1844","Sydney - Haymarket - The Rocks (1844)","1933","Bondi - Tamarama - Bronte (1933)","07/31/2016 - 08/28/2016, Every day, Daily Average",1223,987,1515
+"1844","Sydney - Haymarket - The Rocks (1844)","1934","Bondi - Tamarama - Bronte (1934)","07/31/2016 - 08/28/2016, Every day, Daily Average",1241,963,1598
+"1844","Sydney - Haymarket - The Rocks (1844)","1935","Bondi - Tamarama - Bronte (1935)","07/31/2016 - 08/28/2016, Every day, Daily Average",1092,828,1438
+"1844","Sydney - Haymarket - The Rocks (1844)","1936","Bondi - Tamarama - Bronte (1936)","07/31/2016 - 08/28/2016, Every day, Daily Average",1020,767,1355
+"1844","Sydney - Haymarket - The Rocks (1844)","1937","Bondi - Tamarama - Bronte (1937)","07/31/2016 - 08/28/2016, Every day, Daily Average",1104,842,1446
+"1844","Sydney - Haymarket - The Rocks (1844)","1939","Bondi Beach - North Bondi (1939)","07/31/2016 - 08/28/2016, Every day, Daily Average",1199,908,1582
+"1844","Sydney - Haymarket - The Rocks (1844)","1940","Bondi Beach - North Bondi (1940)","07/31/2016 - 08/28/2016, Every day, Daily Average",1350,1048,1737
+"1844","Sydney - Haymarket - The Rocks (1844)","1941","Bondi Beach - North Bondi (1941)","07/31/2016 - 08/28/2016, Every day, Daily Average",1284,1015,1623
+"1844","Sydney - Haymarket - The Rocks (1844)","1942","Bondi Beach - North Bondi (1942)","07/31/2016 - 08/28/2016, Every day, Daily Average",1143,874,1493
+"1844","Sydney - Haymarket - The Rocks (1844)","1943","Bondi Beach - North Bondi (1943)","07/31/2016 - 08/28/2016, Every day, Daily Average",1318,1023,1697
+"1844","Sydney - Haymarket - The Rocks (1844)","1944","Bondi Beach - North Bondi (1944)","07/31/2016 - 08/28/2016, Every day, Daily Average",1174,899,1532
+"1844","Sydney - Haymarket - The Rocks (1844)","1945","Bondi Beach - North Bondi (1945)","07/31/2016 - 08/28/2016, Every day, Daily Average",1174,995,1383
+"1844","Sydney - Haymarket - The Rocks (1844)","1947","Bondi Junction - Waverly (1947)","07/31/2016 - 08/28/2016, Every day, Daily Average",1145,915,1432
+"1844","Sydney - Haymarket - The Rocks (1844)","1948","Bondi Junction - Waverly (1948)","07/31/2016 - 08/28/2016, Every day, Daily Average",1068,800,1424
+"1844","Sydney - Haymarket - The Rocks (1844)","1949","Bondi Junction - Waverly (1949)","07/31/2016 - 08/28/2016, Every day, Daily Average",1052,819,1350
+"1844","Sydney - Haymarket - The Rocks (1844)","1950","Bondi Junction - Waverly (1950)","07/31/2016 - 08/28/2016, Every day, Daily Average",995,672,1471
+"1844","Sydney - Haymarket - The Rocks (1844)","1951","Bondi Junction - Waverly (1951)","07/31/2016 - 08/28/2016, Every day, Daily Average",916,683,1228
+"1844","Sydney - Haymarket - The Rocks (1844)","1952","Bondi Junction - Waverly (1952)","07/31/2016 - 08/28/2016, Every day, Daily Average",972,729,1294
+"1844","Sydney - Haymarket - The Rocks (1844)","1953","Bondi Junction - Waverly (1953)","07/31/2016 - 08/28/2016, Every day, Daily Average",838,599,1171
+"1844","Sydney - Haymarket - The Rocks (1844)","1954","Bondi Junction - Waverly (1954)","07/31/2016 - 08/28/2016, Every day, Daily Average",966,727,1283
+"1844","Sydney - Haymarket - The Rocks (1844)","1956","Centennial Park (1956)","07/31/2016 - 08/28/2016, Every day, Daily Average",844,612,1162
+"1844","Sydney - Haymarket - The Rocks (1844)","1957","Double Bay - Bellevue Hill (1957)","07/31/2016 - 08/28/2016, Every day, Daily Average",890,659,1200
+"1844","Sydney - Haymarket - The Rocks (1844)","1958","Double Bay - Bellevue Hill (1958)","07/31/2016 - 08/28/2016, Every day, Daily Average",1050,776,1419
+"1844","Sydney - Haymarket - The Rocks (1844)","1959","Double Bay - Bellevue Hill (1959)","07/31/2016 - 08/28/2016, Every day, Daily Average",842,595,1190
+"1844","Sydney - Haymarket - The Rocks (1844)","1960","Double Bay - Bellevue Hill (1960)","07/31/2016 - 08/28/2016, Every day, Daily Average",1064,742,1524
+"1844","Sydney - Haymarket - The Rocks (1844)","1961","Double Bay - Bellevue Hill (1961)","07/31/2016 - 08/28/2016, Every day, Daily Average",648,441,950
+"1844","Sydney - Haymarket - The Rocks (1844)","1962","Double Bay - Bellevue Hill (1962)","07/31/2016 - 08/28/2016, Every day, Daily Average",737,504,1077
+"1844","Sydney - Haymarket - The Rocks (1844)","1963","Double Bay - Bellevue Hill (1963)","07/31/2016 - 08/28/2016, Every day, Daily Average",639,435,938
+"1844","Sydney - Haymarket - The Rocks (1844)","1964","Double Bay - Bellevue Hill (1964)","07/31/2016 - 08/28/2016, Every day, Daily Average",712,481,1052
+"1844","Sydney - Haymarket - The Rocks (1844)","1965","Double Bay - Bellevue Hill (1965)","07/31/2016 - 08/28/2016, Every day, Daily Average",796,573,1105
+"1844","Sydney - Haymarket - The Rocks (1844)","1966","Double Bay - Bellevue Hill (1966)","07/31/2016 - 08/28/2016, Every day, Daily Average",784,558,1101
+"1844","Sydney - Haymarket - The Rocks (1844)","1967","Double Bay - Bellevue Hill (1967)","07/31/2016 - 08/28/2016, Every day, Daily Average",747,537,1038
+"1844","Sydney - Haymarket - The Rocks (1844)","1968","Double Bay - Bellevue Hill (1968)","07/31/2016 - 08/28/2016, Every day, Daily Average",848,601,1196
+"1844","Sydney - Haymarket - The Rocks (1844)","1969","Double Bay - Bellevue Hill (1969)","07/31/2016 - 08/28/2016, Every day, Daily Average",908,660,1248
+"1844","Sydney - Haymarket - The Rocks (1844)","1973","Dover Heights (1973)","07/31/2016 - 08/28/2016, Every day, Daily Average",1132,820,1562
+"1844","Sydney - Haymarket - The Rocks (1844)","1977","Paddington - Moore Park (1977)","07/31/2016 - 08/28/2016, Every day, Daily Average",823,545,1241
+"1844","Sydney - Haymarket - The Rocks (1844)","1978","Paddington - Moore Park (1978)","07/31/2016 - 08/28/2016, Every day, Daily Average",713,481,1055
+"1844","Sydney - Haymarket - The Rocks (1844)","1979","Paddington - Moore Park (1979)","07/31/2016 - 08/28/2016, Every day, Daily Average",726,506,1039
+"1844","Sydney - Haymarket - The Rocks (1844)","1981","Paddington - Moore Park (1981)","07/31/2016 - 08/28/2016, Every day, Daily Average",756,538,1061
+"1844","Sydney - Haymarket - The Rocks (1844)","1982","Paddington - Moore Park (1982)","07/31/2016 - 08/28/2016, Every day, Daily Average",723,502,1039
+"1844","Sydney - Haymarket - The Rocks (1844)","1983","Paddington - Moore Park (1983)","07/31/2016 - 08/28/2016, Every day, Daily Average",712,507,998
+"1844","Sydney - Haymarket - The Rocks (1844)","1984","Paddington - Moore Park (1984)","07/31/2016 - 08/28/2016, Every day, Daily Average",723,510,1022
+"1844","Sydney - Haymarket - The Rocks (1844)","1985","Paddington - Moore Park (1985)","07/31/2016 - 08/28/2016, Every day, Daily Average",811,617,1065
+"1844","Sydney - Haymarket - The Rocks (1844)","1986","Paddington - Moore Park (1986)","07/31/2016 - 08/28/2016, Every day, Daily Average",902,679,1196
+"1844","Sydney - Haymarket - The Rocks (1844)","1987","Paddington - Moore Park (1987)","07/31/2016 - 08/28/2016, Every day, Daily Average",765,560,1043
+"1844","Sydney - Haymarket - The Rocks (1844)","1988","Paddington - Moore Park (1988)","07/31/2016 - 08/28/2016, Every day, Daily Average",721,500,1039
+"1844","Sydney - Haymarket - The Rocks (1844)","1989","Paddington - Moore Park (1989)","07/31/2016 - 08/28/2016, Every day, Daily Average",772,538,1106
+"1844","Sydney - Haymarket - The Rocks (1844)","1990","Paddington - Moore Park (1990)","07/31/2016 - 08/28/2016, Every day, Daily Average",669,478,935
+"1844","Sydney - Haymarket - The Rocks (1844)","1992","Rose Bay - Vaucluse - Watsons Bay (1992)","07/31/2016 - 08/28/2016, Every day, Daily Average",1051,761,1450
+"1844","Sydney - Haymarket - The Rocks (1844)","1993","Rose Bay - Vaucluse - Watsons Bay (1993)","07/31/2016 - 08/28/2016, Every day, Daily Average",1124,773,1633
+"1844","Sydney - Haymarket - The Rocks (1844)","1995","Rose Bay - Vaucluse - Watsons Bay (1995)","07/31/2016 - 08/28/2016, Every day, Daily Average",1229,894,1688
+"1844","Sydney - Haymarket - The Rocks (1844)","1998","Woollahra (1998)","07/31/2016 - 08/28/2016, Every day, Daily Average",801,575,1113
+"1844","Sydney - Haymarket - The Rocks (1844)","1999","Woollahra (1999)","07/31/2016 - 08/28/2016, Every day, Daily Average",1012,729,1403
+"1844","Sydney - Haymarket - The Rocks (1844)","2000","Woollahra (2000)","07/31/2016 - 08/28/2016, Every day, Daily Average",882,663,1172
+"1844","Sydney - Haymarket - The Rocks (1844)","2001","Woollahra (2001)","07/31/2016 - 08/28/2016, Every day, Daily Average",818,561,1191
+"1844","Sydney - Haymarket - The Rocks (1844)","2005","Coogee - Clovelly (2005)","07/31/2016 - 08/28/2016, Every day, Daily Average",1326,1040,1690
+"1844","Sydney - Haymarket - The Rocks (1844)","2007","Coogee - Clovelly (2007)","07/31/2016 - 08/28/2016, Every day, Daily Average",1242,956,1613
+"1844","Sydney - Haymarket - The Rocks (1844)","2008","Coogee - Clovelly (2008)","07/31/2016 - 08/28/2016, Every day, Daily Average",1289,1005,1652
+"1844","Sydney - Haymarket - The Rocks (1844)","2009","Coogee - Clovelly (2009)","07/31/2016 - 08/28/2016, Every day, Daily Average",1270,1092,1476
+"1844","Sydney - Haymarket - The Rocks (1844)","2010","Coogee - Clovelly (2010)","07/31/2016 - 08/28/2016, Every day, Daily Average",1183,976,1432
+"1844","Sydney - Haymarket - The Rocks (1844)","2012","Kensington - Kingsford (2012)","07/31/2016 - 08/28/2016, Every day, Daily Average",1258,956,1655
+"1844","Sydney - Haymarket - The Rocks (1844)","2013","Kensington - Kingsford (2013)","07/31/2016 - 08/28/2016, Every day, Daily Average",1245,973,1592
+"1844","Sydney - Haymarket - The Rocks (1844)","2014","Kensington - Kingsford (2014)","07/31/2016 - 08/28/2016, Every day, Daily Average",911,616,1346
+"1844","Sydney - Haymarket - The Rocks (1844)","2015","Kensington - Kingsford (2015)","07/31/2016 - 08/28/2016, Every day, Daily Average",1120,847,1479
+"1844","Sydney - Haymarket - The Rocks (1844)","2016","Kensington - Kingsford (2016)","07/31/2016 - 08/28/2016, Every day, Daily Average",1034,737,1450
+"1844","Sydney - Haymarket - The Rocks (1844)","2017","Kensington - Kingsford (2017)","07/31/2016 - 08/28/2016, Every day, Daily Average",1007,733,1381
+"1844","Sydney - Haymarket - The Rocks (1844)","2018","Kensington - Kingsford (2018)","07/31/2016 - 08/28/2016, Every day, Daily Average",829,551,1247
+"1844","Sydney - Haymarket - The Rocks (1844)","2019","Kensington - Kingsford (2019)","07/31/2016 - 08/28/2016, Every day, Daily Average",924,660,1292
+"1844","Sydney - Haymarket - The Rocks (1844)","2029","Malabar - La Perouse - Chifley (2029)","07/31/2016 - 08/28/2016, Every day, Daily Average",1307,968,1764
+"1844","Sydney - Haymarket - The Rocks (1844)","2033","Maroubra (2033)","07/31/2016 - 08/28/2016, Every day, Daily Average",1337,993,1799
+"1844","Sydney - Haymarket - The Rocks (1844)","2035","Maroubra (2035)","07/31/2016 - 08/28/2016, Every day, Daily Average",1265,925,1728
+"1844","Sydney - Haymarket - The Rocks (1844)","2036","Maroubra (2036)","07/31/2016 - 08/28/2016, Every day, Daily Average",1294,1011,1654
+"1844","Sydney - Haymarket - The Rocks (1844)","2037","Maroubra (2037)","07/31/2016 - 08/28/2016, Every day, Daily Average",1352,1044,1749
+"1844","Sydney - Haymarket - The Rocks (1844)","2040","Maroubra (2040)","07/31/2016 - 08/28/2016, Every day, Daily Average",1282,948,1733
+"1844","Sydney - Haymarket - The Rocks (1844)","2041","Maroubra (2041)","07/31/2016 - 08/28/2016, Every day, Daily Average",1328,1010,1745
+"1844","Sydney - Haymarket - The Rocks (1844)","2044","Randwick (2044)","07/31/2016 - 08/28/2016, Every day, Daily Average",1210,917,1595
+"1844","Sydney - Haymarket - The Rocks (1844)","2045","Randwick (2045)","07/31/2016 - 08/28/2016, Every day, Daily Average",1256,934,1688
+"1844","Sydney - Haymarket - The Rocks (1844)","2046","Randwick (2046)","07/31/2016 - 08/28/2016, Every day, Daily Average",1070,801,1427
+"1844","Sydney - Haymarket - The Rocks (1844)","2047","Randwick (2047)","07/31/2016 - 08/28/2016, Every day, Daily Average",1166,897,1514
+"1844","Sydney - Haymarket - The Rocks (1844)","2048","Randwick (2048)","07/31/2016 - 08/28/2016, Every day, Daily Average",917,679,1238
+"1844","Sydney - Haymarket - The Rocks (1844)","2049","Randwick (2049)","07/31/2016 - 08/28/2016, Every day, Daily Average",1063,825,1368
+"1844","Sydney - Haymarket - The Rocks (1844)","2050","Randwick (2050)","07/31/2016 - 08/28/2016, Every day, Daily Average",1003,751,1338
+"1844","Sydney - Haymarket - The Rocks (1844)","2051","Randwick (2051)","07/31/2016 - 08/28/2016, Every day, Daily Average",1208,958,1522
+"1844","Sydney - Haymarket - The Rocks (1844)","2052","Randwick (2052)","07/31/2016 - 08/28/2016, Every day, Daily Average",923,684,1244
+"1844","Sydney - Haymarket - The Rocks (1844)","2053","Randwick (2053)","07/31/2016 - 08/28/2016, Every day, Daily Average",991,778,1261
+"1844","Sydney - Haymarket - The Rocks (1844)","2054","Randwick (2054)","07/31/2016 - 08/28/2016, Every day, Daily Average",1133,857,1497
+"1844","Sydney - Haymarket - The Rocks (1844)","2056","Bankstown (2056)","07/31/2016 - 08/28/2016, Every day, Daily Average",1754,1423,2160
+"1844","Sydney - Haymarket - The Rocks (1844)","2067","Bankstown (2067)","07/31/2016 - 08/28/2016, Every day, Daily Average",1717,1428,2064
+"1844","Sydney - Haymarket - The Rocks (1844)","2068","Bankstown (2068)","07/31/2016 - 08/28/2016, Every day, Daily Average",1671,1383,2017
+"1844","Sydney - Haymarket - The Rocks (1844)","2084","Condell Park (2084)","07/31/2016 - 08/28/2016, Every day, Daily Average",1832,1476,2273
+"1844","Sydney - Haymarket - The Rocks (1844)","2096","Greenacre - Mount Lewis (2096)","07/31/2016 - 08/28/2016, Every day, Daily Average",1601,1338,1914
+"1844","Sydney - Haymarket - The Rocks (1844)","2097","Greenacre - Mount Lewis (2097)","07/31/2016 - 08/28/2016, Every day, Daily Average",1563,1121,2177
+"1844","Sydney - Haymarket - The Rocks (1844)","2098","Greenacre - Mount Lewis (2098)","07/31/2016 - 08/28/2016, Every day, Daily Average",1622,1328,1979
+"1844","Sydney - Haymarket - The Rocks (1844)","2100","Greenacre - Mount Lewis (2100)","07/31/2016 - 08/28/2016, Every day, Daily Average",1736,1196,2518
+"1844","Sydney - Haymarket - The Rocks (1844)","2108","Padstow (2108)","07/31/2016 - 08/28/2016, Every day, Daily Average",1715,1422,2067
+"1844","Sydney - Haymarket - The Rocks (1844)","2109","Padstow (2109)","07/31/2016 - 08/28/2016, Every day, Daily Average",1711,1362,2148
+"1844","Sydney - Haymarket - The Rocks (1844)","2117","Panania - Milperra - Picnic Point (2117)","07/31/2016 - 08/28/2016, Every day, Daily Average",1969,1553,2495
+"1844","Sydney - Haymarket - The Rocks (1844)","2119","Panania - Milperra - Picnic Point (2119)","07/31/2016 - 08/28/2016, Every day, Daily Average",2034,1643,2516
+"1844","Sydney - Haymarket - The Rocks (1844)","2120","Panania - Milperra - Picnic Point (2120)","07/31/2016 - 08/28/2016, Every day, Daily Average",1929,1565,2376
+"1844","Sydney - Haymarket - The Rocks (1844)","2128","Revesby (2128)","07/31/2016 - 08/28/2016, Every day, Daily Average",1853,1467,2340
+"1844","Sydney - Haymarket - The Rocks (1844)","2129","Revesby (2129)","07/31/2016 - 08/28/2016, Every day, Daily Average",1902,1495,2418
+"1844","Sydney - Haymarket - The Rocks (1844)","2133","Yagoona - Birrong (2133)","07/31/2016 - 08/28/2016, Every day, Daily Average",1748,1465,2085
+"1844","Sydney - Haymarket - The Rocks (1844)","2134","Yagoona - Birrong (2134)","07/31/2016 - 08/28/2016, Every day, Daily Average",1788,1448,2207
+"1844","Sydney - Haymarket - The Rocks (1844)","2140","Belmore - Belfield (2140)","07/31/2016 - 08/28/2016, Every day, Daily Average",1748,1287,2373
+"1844","Sydney - Haymarket - The Rocks (1844)","2141","Belmore - Belfield (2141)","07/31/2016 - 08/28/2016, Every day, Daily Average",1651,1299,2097
+"1844","Sydney - Haymarket - The Rocks (1844)","2144","Belmore - Belfield (2144)","07/31/2016 - 08/28/2016, Every day, Daily Average",1397,1116,1748
+"1844","Sydney - Haymarket - The Rocks (1844)","2145","Belmore - Belfield (2145)","07/31/2016 - 08/28/2016, Every day, Daily Average",1288,1028,1612
+"1844","Sydney - Haymarket - The Rocks (1844)","2146","Belmore - Belfield (2146)","07/31/2016 - 08/28/2016, Every day, Daily Average",1283,1035,1590
+"1844","Sydney - Haymarket - The Rocks (1844)","2148","Canterbury (South) - Campsie (2148)","07/31/2016 - 08/28/2016, Every day, Daily Average",1500,1126,1997
+"1844","Sydney - Haymarket - The Rocks (1844)","2149","Canterbury (South) - Campsie (2149)","07/31/2016 - 08/28/2016, Every day, Daily Average",1412,1042,1913
+"1844","Sydney - Haymarket - The Rocks (1844)","2151","Canterbury (South) - Campsie (2151)","07/31/2016 - 08/28/2016, Every day, Daily Average",1360,1078,1714
+"1844","Sydney - Haymarket - The Rocks (1844)","2153","Canterbury (South) - Campsie (2153)","07/31/2016 - 08/28/2016, Every day, Daily Average",1355,988,1857
+"1844","Sydney - Haymarket - The Rocks (1844)","2154","Canterbury (South) - Campsie (2154)","07/31/2016 - 08/28/2016, Every day, Daily Average",1335,1042,1708
+"1844","Sydney - Haymarket - The Rocks (1844)","2155","Canterbury (South) - Campsie (2155)","07/31/2016 - 08/28/2016, Every day, Daily Average",1228,962,1566
+"1844","Sydney - Haymarket - The Rocks (1844)","2158","Kingsgrove (North) - Earlwood (2158)","07/31/2016 - 08/28/2016, Every day, Daily Average",1514,1202,1905
+"1844","Sydney - Haymarket - The Rocks (1844)","2159","Kingsgrove (North) - Earlwood (2159)","07/31/2016 - 08/28/2016, Every day, Daily Average",1520,1199,1926
+"1844","Sydney - Haymarket - The Rocks (1844)","2160","Kingsgrove (North) - Earlwood (2160)","07/31/2016 - 08/28/2016, Every day, Daily Average",1403,1118,1760
+"1844","Sydney - Haymarket - The Rocks (1844)","2161","Kingsgrove (North) - Earlwood (2161)","07/31/2016 - 08/28/2016, Every day, Daily Average",1567,1195,2053
+"1844","Sydney - Haymarket - The Rocks (1844)","2162","Kingsgrove (North) - Earlwood (2162)","07/31/2016 - 08/28/2016, Every day, Daily Average",1458,1102,1928
+"1844","Sydney - Haymarket - The Rocks (1844)","2163","Kingsgrove (North) - Earlwood (2163)","07/31/2016 - 08/28/2016, Every day, Daily Average",1280,1006,1627
+"1844","Sydney - Haymarket - The Rocks (1844)","2164","Kingsgrove (North) - Earlwood (2164)","07/31/2016 - 08/28/2016, Every day, Daily Average",1538,1118,2114
+"1844","Sydney - Haymarket - The Rocks (1844)","2165","Kingsgrove (North) - Earlwood (2165)","07/31/2016 - 08/28/2016, Every day, Daily Average",1233,978,1553
+"1844","Sydney - Haymarket - The Rocks (1844)","2170","Lakemba - Wiley Park (2170)","07/31/2016 - 08/28/2016, Every day, Daily Average",1855,1254,2742
+"1844","Sydney - Haymarket - The Rocks (1844)","2173","Lakemba - Wiley Park (2173)","07/31/2016 - 08/28/2016, Every day, Daily Average",1721,1167,2536
+"1844","Sydney - Haymarket - The Rocks (1844)","2174","Lakemba - Wiley Park (2174)","07/31/2016 - 08/28/2016, Every day, Daily Average",1447,1124,1862
+"1844","Sydney - Haymarket - The Rocks (1844)","2176","Punchbowl (2176)","07/31/2016 - 08/28/2016, Every day, Daily Average",1698,1365,2112
+"1844","Sydney - Haymarket - The Rocks (1844)","2177","Punchbowl (2177)","07/31/2016 - 08/28/2016, Every day, Daily Average",1683,1403,2017
+"1844","Sydney - Haymarket - The Rocks (1844)","2178","Punchbowl (2178)","07/31/2016 - 08/28/2016, Every day, Daily Average",1633,1407,1894
+"1844","Sydney - Haymarket - The Rocks (1844)","2186","Roselands (2186)","07/31/2016 - 08/28/2016, Every day, Daily Average",1472,1192,1817
+"1844","Sydney - Haymarket - The Rocks (1844)","2209","Narwee - Beverly Hills (2209)","07/31/2016 - 08/28/2016, Every day, Daily Average",1907,1536,2367
+"1844","Sydney - Haymarket - The Rocks (1844)","2210","Narwee - Beverly Hills (2210)","07/31/2016 - 08/28/2016, Every day, Daily Average",1942,1478,2550
+"1844","Sydney - Haymarket - The Rocks (1844)","2211","Narwee - Beverly Hills (2211)","07/31/2016 - 08/28/2016, Every day, Daily Average",1553,1294,1862
+"1844","Sydney - Haymarket - The Rocks (1844)","2212","Narwee - Beverly Hills (2212)","07/31/2016 - 08/28/2016, Every day, Daily Average",1599,1262,2024
+"1844","Sydney - Haymarket - The Rocks (1844)","2231","Riverwood (2231)","07/31/2016 - 08/28/2016, Every day, Daily Average",1615,1322,1971
+"1844","Sydney - Haymarket - The Rocks (1844)","2232","Riverwood (2232)","07/31/2016 - 08/28/2016, Every day, Daily Average",1606,1374,1876
+"1844","Sydney - Haymarket - The Rocks (1844)","2236","South Hurstville - Blakehurst (2236)","07/31/2016 - 08/28/2016, Every day, Daily Average",1736,1336,2254
+"1844","Sydney - Haymarket - The Rocks (1844)","2237","South Hurstville - Blakehurst (2237)","07/31/2016 - 08/28/2016, Every day, Daily Average",1585,1361,1845
+"1844","Sydney - Haymarket - The Rocks (1844)","2239","South Hurstville - Blakehurst (2239)","07/31/2016 - 08/28/2016, Every day, Daily Average",1780,1374,2305
+"1844","Sydney - Haymarket - The Rocks (1844)","2244","Arncliffe - Bardwell Valley (2244)","07/31/2016 - 08/28/2016, Every day, Daily Average",1297,992,1695
+"1844","Sydney - Haymarket - The Rocks (1844)","2245","Arncliffe - Bardwell Valley (2245)","07/31/2016 - 08/28/2016, Every day, Daily Average",1510,1166,1954
+"1844","Sydney - Haymarket - The Rocks (1844)","2246","Arncliffe - Bardwell Valley (2246)","07/31/2016 - 08/28/2016, Every day, Daily Average",1593,1227,2067
+"1844","Sydney - Haymarket - The Rocks (1844)","2247","Arncliffe - Bardwell Valley (2247)","07/31/2016 - 08/28/2016, Every day, Daily Average",1591,1156,2189
+"1844","Sydney - Haymarket - The Rocks (1844)","2249","Arncliffe - Bardwell Valley (2249)","07/31/2016 - 08/28/2016, Every day, Daily Average",1438,1068,1934
+"1844","Sydney - Haymarket - The Rocks (1844)","2250","Arncliffe - Bardwell Valley (2250)","07/31/2016 - 08/28/2016, Every day, Daily Average",1332,999,1774
+"1844","Sydney - Haymarket - The Rocks (1844)","2253","Arncliffe - Bardwell Valley (2253)","07/31/2016 - 08/28/2016, Every day, Daily Average",1383,1039,1840
+"1844","Sydney - Haymarket - The Rocks (1844)","2263","Bexley (2263)","07/31/2016 - 08/28/2016, Every day, Daily Average",1708,1378,2116
+"1844","Sydney - Haymarket - The Rocks (1844)","2269","Kingsgrove (South) - Bardwell Park (2269)","07/31/2016 - 08/28/2016, Every day, Daily Average",1679,1206,2337
+"1844","Sydney - Haymarket - The Rocks (1844)","2271","Kingsgrove (South) - Bardwell Park (2271)","07/31/2016 - 08/28/2016, Every day, Daily Average",1697,1287,2236
+"1844","Sydney - Haymarket - The Rocks (1844)","2275","Kogarah (2275)","07/31/2016 - 08/28/2016, Every day, Daily Average",1462,1166,1833
+"1844","Sydney - Haymarket - The Rocks (1844)","2276","Kogarah (2276)","07/31/2016 - 08/28/2016, Every day, Daily Average",1542,1240,1917
+"1844","Sydney - Haymarket - The Rocks (1844)","2277","Kogarah (2277)","07/31/2016 - 08/28/2016, Every day, Daily Average",1510,1179,1932
+"1844","Sydney - Haymarket - The Rocks (1844)","2279","Kogarah (2279)","07/31/2016 - 08/28/2016, Every day, Daily Average",1592,1212,2089
+"1844","Sydney - Haymarket - The Rocks (1844)","2281","Kogarah Bay - Carlton - Allawah (2281)","07/31/2016 - 08/28/2016, Every day, Daily Average",1583,1289,1943
+"1844","Sydney - Haymarket - The Rocks (1844)","2282","Kogarah Bay - Carlton - Allawah (2282)","07/31/2016 - 08/28/2016, Every day, Daily Average",1557,1234,1963
+"1844","Sydney - Haymarket - The Rocks (1844)","2283","Kogarah Bay - Carlton - Allawah (2283)","07/31/2016 - 08/28/2016, Every day, Daily Average",1611,1316,1971
+"1844","Sydney - Haymarket - The Rocks (1844)","2286","Kogarah Bay - Carlton - Allawah (2286)","07/31/2016 - 08/28/2016, Every day, Daily Average",1523,1250,1854
+"1844","Sydney - Haymarket - The Rocks (1844)","2288","Monterey - Brighton-le-Sands - Kyeemagh (2288)","07/31/2016 - 08/28/2016, Every day, Daily Average",1345,1024,1766
+"1844","Sydney - Haymarket - The Rocks (1844)","2289","Monterey - Brighton-le-Sands - Kyeemagh (2289)","07/31/2016 - 08/28/2016, Every day, Daily Average",1315,982,1759
+"1844","Sydney - Haymarket - The Rocks (1844)","2290","Monterey - Brighton-le-Sands - Kyeemagh (2290)","07/31/2016 - 08/28/2016, Every day, Daily Average",1293,960,1739
+"1844","Sydney - Haymarket - The Rocks (1844)","2291","Monterey - Brighton-le-Sands - Kyeemagh (2291)","07/31/2016 - 08/28/2016, Every day, Daily Average",1279,943,1733
+"1844","Sydney - Haymarket - The Rocks (1844)","2292","Monterey - Brighton-le-Sands - Kyeemagh (2292)","07/31/2016 - 08/28/2016, Every day, Daily Average",1170,866,1580
+"1844","Sydney - Haymarket - The Rocks (1844)","2294","Rockdale - Banksia (2294)","07/31/2016 - 08/28/2016, Every day, Daily Average",1490,1211,1832
+"1844","Sydney - Haymarket - The Rocks (1844)","2295","Rockdale - Banksia (2295)","07/31/2016 - 08/28/2016, Every day, Daily Average",1555,1261,1916
+"1844","Sydney - Haymarket - The Rocks (1844)","2296","Rockdale - Banksia (2296)","07/31/2016 - 08/28/2016, Every day, Daily Average",1672,1299,2151
+"1844","Sydney - Haymarket - The Rocks (1844)","2297","Rockdale - Banksia (2297)","07/31/2016 - 08/28/2016, Every day, Daily Average",1476,1196,1821
+"1844","Sydney - Haymarket - The Rocks (1844)","2298","Rockdale - Banksia (2298)","07/31/2016 - 08/28/2016, Every day, Daily Average",1458,1168,1819
+"1844","Sydney - Haymarket - The Rocks (1844)","2299","Rockdale - Banksia (2299)","07/31/2016 - 08/28/2016, Every day, Daily Average",1494,1176,1896
+"1844","Sydney - Haymarket - The Rocks (1844)","2300","Rockdale - Banksia (2300)","07/31/2016 - 08/28/2016, Every day, Daily Average",1538,1222,1934
+"1844","Sydney - Haymarket - The Rocks (1844)","2303","Sans Souci - Ramsgate (2303)","07/31/2016 - 08/28/2016, Every day, Daily Average",1608,1268,2038
+"1844","Sydney - Haymarket - The Rocks (1844)","2304","Sans Souci - Ramsgate (2304)","07/31/2016 - 08/28/2016, Every day, Daily Average",1544,1176,2025
+"1844","Sydney - Haymarket - The Rocks (1844)","2305","Sans Souci - Ramsgate (2305)","07/31/2016 - 08/28/2016, Every day, Daily Average",1590,1180,2141
+"1844","Sydney - Haymarket - The Rocks (1844)","2307","Concord - Mortlake - Cabarita (2307)","07/31/2016 - 08/28/2016, Every day, Daily Average",1335,935,1904
+"1844","Sydney - Haymarket - The Rocks (1844)","2308","Concord - Mortlake - Cabarita (2308)","07/31/2016 - 08/28/2016, Every day, Daily Average",1085,755,1557
+"1844","Sydney - Haymarket - The Rocks (1844)","2309","Concord - Mortlake - Cabarita (2309)","07/31/2016 - 08/28/2016, Every day, Daily Average",1265,924,1730
+"1844","Sydney - Haymarket - The Rocks (1844)","2310","Concord - Mortlake - Cabarita (2310)","07/31/2016 - 08/28/2016, Every day, Daily Average",1334,1050,1693
+"1844","Sydney - Haymarket - The Rocks (1844)","2311","Concord - Mortlake - Cabarita (2311)","07/31/2016 - 08/28/2016, Every day, Daily Average",1202,949,1521
+"1844","Sydney - Haymarket - The Rocks (1844)","2312","Concord - Mortlake - Cabarita (2312)","07/31/2016 - 08/28/2016, Every day, Daily Average",1308,1030,1659
+"1844","Sydney - Haymarket - The Rocks (1844)","2314","Concord - Mortlake - Cabarita (2314)","07/31/2016 - 08/28/2016, Every day, Daily Average",1467,1148,1873
+"1844","Sydney - Haymarket - The Rocks (1844)","2316","Concord West - North Strathfield (2316)","07/31/2016 - 08/28/2016, Every day, Daily Average",1232,907,1672
+"1844","Sydney - Haymarket - The Rocks (1844)","2317","Concord West - North Strathfield (2317)","07/31/2016 - 08/28/2016, Every day, Daily Average",1311,924,1859
+"1844","Sydney - Haymarket - The Rocks (1844)","2318","Concord West - North Strathfield (2318)","07/31/2016 - 08/28/2016, Every day, Daily Average",1387,1022,1881
+"1844","Sydney - Haymarket - The Rocks (1844)","2319","Concord West - North Strathfield (2319)","07/31/2016 - 08/28/2016, Every day, Daily Average",1876,1291,2725
+"1844","Sydney - Haymarket - The Rocks (1844)","2321","Concord West - North Strathfield (2321)","07/31/2016 - 08/28/2016, Every day, Daily Average",1765,1186,2625
+"1844","Sydney - Haymarket - The Rocks (1844)","2322","Concord West - North Strathfield (2322)","07/31/2016 - 08/28/2016, Every day, Daily Average",1673,1238,2259
+"1844","Sydney - Haymarket - The Rocks (1844)","2324","Concord West - North Strathfield (2324)","07/31/2016 - 08/28/2016, Every day, Daily Average",1713,1185,2474
+"1844","Sydney - Haymarket - The Rocks (1844)","2325","Concord West - North Strathfield (2325)","07/31/2016 - 08/28/2016, Every day, Daily Average",1491,1052,2111
+"1844","Sydney - Haymarket - The Rocks (1844)","2326","Concord West - North Strathfield (2326)","07/31/2016 - 08/28/2016, Every day, Daily Average",1369,1110,1688
+"1844","Sydney - Haymarket - The Rocks (1844)","2328","Drummoyne - Rodd Point (2328)","07/31/2016 - 08/28/2016, Every day, Daily Average",846,605,1182
+"1844","Sydney - Haymarket - The Rocks (1844)","2329","Drummoyne - Rodd Point (2329)","07/31/2016 - 08/28/2016, Every day, Daily Average",776,600,1002
+"1844","Sydney - Haymarket - The Rocks (1844)","2330","Drummoyne - Rodd Point (2330)","07/31/2016 - 08/28/2016, Every day, Daily Average",713,513,990
+"1844","Sydney - Haymarket - The Rocks (1844)","2331","Drummoyne - Rodd Point (2331)","07/31/2016 - 08/28/2016, Every day, Daily Average",583,421,807
+"1844","Sydney - Haymarket - The Rocks (1844)","2332","Drummoyne - Rodd Point (2332)","07/31/2016 - 08/28/2016, Every day, Daily Average",739,562,970
+"1844","Sydney - Haymarket - The Rocks (1844)","2333","Drummoyne - Rodd Point (2333)","07/31/2016 - 08/28/2016, Every day, Daily Average",654,481,888
+"1844","Sydney - Haymarket - The Rocks (1844)","2335","Five Dock - Abbotsford (2335)","07/31/2016 - 08/28/2016, Every day, Daily Average",898,653,1233
+"1844","Sydney - Haymarket - The Rocks (1844)","2336","Five Dock - Abbotsford (2336)","07/31/2016 - 08/28/2016, Every day, Daily Average",958,713,1285
+"1844","Sydney - Haymarket - The Rocks (1844)","2337","Five Dock - Abbotsford (2337)","07/31/2016 - 08/28/2016, Every day, Daily Average",848,626,1147
+"1844","Sydney - Haymarket - The Rocks (1844)","2338","Five Dock - Abbotsford (2338)","07/31/2016 - 08/28/2016, Every day, Daily Average",1030,714,1484
+"1844","Sydney - Haymarket - The Rocks (1844)","2339","Five Dock - Abbotsford (2339)","07/31/2016 - 08/28/2016, Every day, Daily Average",980,683,1405
+"1844","Sydney - Haymarket - The Rocks (1844)","2340","Five Dock - Abbotsford (2340)","07/31/2016 - 08/28/2016, Every day, Daily Average",927,733,1172
+"1844","Sydney - Haymarket - The Rocks (1844)","2341","Five Dock - Abbotsford (2341)","07/31/2016 - 08/28/2016, Every day, Daily Average",850,663,1089
+"1844","Sydney - Haymarket - The Rocks (1844)","2343","Balmain (2343)","07/31/2016 - 08/28/2016, Every day, Daily Average",506,360,709
+"1844","Sydney - Haymarket - The Rocks (1844)","2344","Balmain (2344)","07/31/2016 - 08/28/2016, Every day, Daily Average",537,377,763
+"1844","Sydney - Haymarket - The Rocks (1844)","2345","Balmain (2345)","07/31/2016 - 08/28/2016, Every day, Daily Average",603,459,791
+"1844","Sydney - Haymarket - The Rocks (1844)","2346","Balmain (2346)","07/31/2016 - 08/28/2016, Every day, Daily Average",703,557,887
+"1844","Sydney - Haymarket - The Rocks (1844)","2347","Balmain (2347)","07/31/2016 - 08/28/2016, Every day, Daily Average",599,476,752
+"1844","Sydney - Haymarket - The Rocks (1844)","2348","Balmain (2348)","07/31/2016 - 08/28/2016, Every day, Daily Average",574,422,780
+"1844","Sydney - Haymarket - The Rocks (1844)","2349","Balmain (2349)","07/31/2016 - 08/28/2016, Every day, Daily Average",648,483,868
+"1844","Sydney - Haymarket - The Rocks (1844)","2350","Balmain (2350)","07/31/2016 - 08/28/2016, Every day, Daily Average",676,499,914
+"1844","Sydney - Haymarket - The Rocks (1844)","2353","Leichhardt - Annandale (2353)","07/31/2016 - 08/28/2016, Every day, Daily Average",716,531,964
+"1844","Sydney - Haymarket - The Rocks (1844)","2354","Leichhardt - Annandale (2354)","07/31/2016 - 08/28/2016, Every day, Daily Average",754,549,1035
+"1844","Sydney - Haymarket - The Rocks (1844)","2355","Leichhardt - Annandale (2355)","07/31/2016 - 08/28/2016, Every day, Daily Average",616,434,873
+"1844","Sydney - Haymarket - The Rocks (1844)","2356","Leichhardt - Annandale (2356)","07/31/2016 - 08/28/2016, Every day, Daily Average",629,479,825
+"1844","Sydney - Haymarket - The Rocks (1844)","2357","Leichhardt - Annandale (2357)","07/31/2016 - 08/28/2016, Every day, Daily Average",620,451,851
+"1844","Sydney - Haymarket - The Rocks (1844)","2358","Leichhardt - Annandale (2358)","07/31/2016 - 08/28/2016, Every day, Daily Average",606,426,860
+"1844","Sydney - Haymarket - The Rocks (1844)","2359","Leichhardt - Annandale (2359)","07/31/2016 - 08/28/2016, Every day, Daily Average",540,372,782
+"1844","Sydney - Haymarket - The Rocks (1844)","2360","Leichhardt - Annandale (2360)","07/31/2016 - 08/28/2016, Every day, Daily Average",547,390,765
+"1844","Sydney - Haymarket - The Rocks (1844)","2361","Leichhardt - Annandale (2361)","07/31/2016 - 08/28/2016, Every day, Daily Average",487,336,705
+"1844","Sydney - Haymarket - The Rocks (1844)","2362","Leichhardt - Annandale (2362)","07/31/2016 - 08/28/2016, Every day, Daily Average",459,315,666
+"1844","Sydney - Haymarket - The Rocks (1844)","2364","Lilyfield - Rozelle (2364)","07/31/2016 - 08/28/2016, Every day, Daily Average",595,403,877
+"1844","Sydney - Haymarket - The Rocks (1844)","2365","Lilyfield - Rozelle (2365)","07/31/2016 - 08/28/2016, Every day, Daily Average",544,380,777
+"1844","Sydney - Haymarket - The Rocks (1844)","2366","Lilyfield - Rozelle (2366)","07/31/2016 - 08/28/2016, Every day, Daily Average",430,289,638
+"1844","Sydney - Haymarket - The Rocks (1844)","2367","Lilyfield - Rozelle (2367)","07/31/2016 - 08/28/2016, Every day, Daily Average",679,436,1056
+"1844","Sydney - Haymarket - The Rocks (1844)","2368","Lilyfield - Rozelle (2368)","07/31/2016 - 08/28/2016, Every day, Daily Average",386,264,562
+"1844","Sydney - Haymarket - The Rocks (1844)","2369","Lilyfield - Rozelle (2369)","07/31/2016 - 08/28/2016, Every day, Daily Average",369,248,549
+"1844","Sydney - Haymarket - The Rocks (1844)","2370","Lilyfield - Rozelle (2370)","07/31/2016 - 08/28/2016, Every day, Daily Average",338,217,524
+"1844","Sydney - Haymarket - The Rocks (1844)","2371","Lilyfield - Rozelle (2371)","07/31/2016 - 08/28/2016, Every day, Daily Average",383,255,574
+"1844","Sydney - Haymarket - The Rocks (1844)","2372","Lilyfield - Rozelle (2372)","07/31/2016 - 08/28/2016, Every day, Daily Average",475,332,678
+"1844","Sydney - Haymarket - The Rocks (1844)","2373","Lilyfield - Rozelle (2373)","07/31/2016 - 08/28/2016, Every day, Daily Average",413,290,587
+"1844","Sydney - Haymarket - The Rocks (1844)","2374","Lilyfield - Rozelle (2374)","07/31/2016 - 08/28/2016, Every day, Daily Average",614,400,941
+"1844","Sydney - Haymarket - The Rocks (1844)","2376","Ashfield (2376)","07/31/2016 - 08/28/2016, Every day, Daily Average",1079,799,1455
+"1844","Sydney - Haymarket - The Rocks (1844)","2377","Ashfield (2377)","07/31/2016 - 08/28/2016, Every day, Daily Average",1164,879,1539
+"1844","Sydney - Haymarket - The Rocks (1844)","2378","Ashfield (2378)","07/31/2016 - 08/28/2016, Every day, Daily Average",1023,778,1344
+"1844","Sydney - Haymarket - The Rocks (1844)","2379","Ashfield (2379)","07/31/2016 - 08/28/2016, Every day, Daily Average",950,713,1264
+"1844","Sydney - Haymarket - The Rocks (1844)","2380","Ashfield (2380)","07/31/2016 - 08/28/2016, Every day, Daily Average",1053,787,1407
+"1844","Sydney - Haymarket - The Rocks (1844)","2381","Ashfield (2381)","07/31/2016 - 08/28/2016, Every day, Daily Average",840,650,1084
+"1844","Sydney - Haymarket - The Rocks (1844)","2382","Ashfield (2382)","07/31/2016 - 08/28/2016, Every day, Daily Average",772,580,1025
+"1844","Sydney - Haymarket - The Rocks (1844)","2384","Burwood - Croydon (2384)","07/31/2016 - 08/28/2016, Every day, Daily Average",1224,907,1650
+"1844","Sydney - Haymarket - The Rocks (1844)","2385","Burwood - Croydon (2385)","07/31/2016 - 08/28/2016, Every day, Daily Average",1094,823,1452
+"1844","Sydney - Haymarket - The Rocks (1844)","2386","Burwood - Croydon (2386)","07/31/2016 - 08/28/2016, Every day, Daily Average",1021,775,1343
+"1844","Sydney - Haymarket - The Rocks (1844)","2387","Burwood - Croydon (2387)","07/31/2016 - 08/28/2016, Every day, Daily Average",1301,968,1747
+"1844","Sydney - Haymarket - The Rocks (1844)","2389","Burwood - Croydon (2389)","07/31/2016 - 08/28/2016, Every day, Daily Average",1132,790,1621
+"1844","Sydney - Haymarket - The Rocks (1844)","2390","Burwood - Croydon (2390)","07/31/2016 - 08/28/2016, Every day, Daily Average",1241,878,1753
+"1844","Sydney - Haymarket - The Rocks (1844)","2391","Burwood - Croydon (2391)","07/31/2016 - 08/28/2016, Every day, Daily Average",1235,924,1649
+"1844","Sydney - Haymarket - The Rocks (1844)","2392","Burwood - Croydon (2392)","07/31/2016 - 08/28/2016, Every day, Daily Average",919,704,1198
+"1844","Sydney - Haymarket - The Rocks (1844)","2393","Burwood - Croydon (2393)","07/31/2016 - 08/28/2016, Every day, Daily Average",935,686,1272
+"1844","Sydney - Haymarket - The Rocks (1844)","2394","Burwood - Croydon (2394)","07/31/2016 - 08/28/2016, Every day, Daily Average",1038,781,1379
+"1844","Sydney - Haymarket - The Rocks (1844)","2396","Canterbury (North) - Ashbury (2396)","07/31/2016 - 08/28/2016, Every day, Daily Average",1283,946,1738
+"1844","Sydney - Haymarket - The Rocks (1844)","2397","Canterbury (North) - Ashbury (2397)","07/31/2016 - 08/28/2016, Every day, Daily Average",1109,827,1486
+"1844","Sydney - Haymarket - The Rocks (1844)","2398","Canterbury (North) - Ashbury (2398)","07/31/2016 - 08/28/2016, Every day, Daily Average",1170,905,1512
+"1844","Sydney - Haymarket - The Rocks (1844)","2400","Croydon Park - Enfield (2400)","07/31/2016 - 08/28/2016, Every day, Daily Average",1183,932,1501
+"1844","Sydney - Haymarket - The Rocks (1844)","2401","Croydon Park - Enfield (2401)","07/31/2016 - 08/28/2016, Every day, Daily Average",1066,838,1355
+"1844","Sydney - Haymarket - The Rocks (1844)","2402","Croydon Park - Enfield (2402)","07/31/2016 - 08/28/2016, Every day, Daily Average",1064,839,1348
+"1844","Sydney - Haymarket - The Rocks (1844)","2403","Croydon Park - Enfield (2403)","07/31/2016 - 08/28/2016, Every day, Daily Average",978,768,1244
+"1844","Sydney - Haymarket - The Rocks (1844)","2404","Croydon Park - Enfield (2404)","07/31/2016 - 08/28/2016, Every day, Daily Average",1264,916,1743
+"1844","Sydney - Haymarket - The Rocks (1844)","2405","Croydon Park - Enfield (2405)","07/31/2016 - 08/28/2016, Every day, Daily Average",1067,815,1395
+"1844","Sydney - Haymarket - The Rocks (1844)","2407","Dulwich Hill - Lewisham (2407)","07/31/2016 - 08/28/2016, Every day, Daily Average",1178,914,1517
+"1844","Sydney - Haymarket - The Rocks (1844)","2408","Dulwich Hill - Lewisham (2408)","07/31/2016 - 08/28/2016, Every day, Daily Average",1053,815,1360
+"1844","Sydney - Haymarket - The Rocks (1844)","2409","Dulwich Hill - Lewisham (2409)","07/31/2016 - 08/28/2016, Every day, Daily Average",1176,855,1616
+"1844","Sydney - Haymarket - The Rocks (1844)","2410","Dulwich Hill - Lewisham (2410)","07/31/2016 - 08/28/2016, Every day, Daily Average",907,713,1152
+"1844","Sydney - Haymarket - The Rocks (1844)","2411","Dulwich Hill - Lewisham (2411)","07/31/2016 - 08/28/2016, Every day, Daily Average",986,742,1308
+"1844","Sydney - Haymarket - The Rocks (1844)","2412","Dulwich Hill - Lewisham (2412)","07/31/2016 - 08/28/2016, Every day, Daily Average",1030,783,1354
+"1844","Sydney - Haymarket - The Rocks (1844)","2413","Dulwich Hill - Lewisham (2413)","07/31/2016 - 08/28/2016, Every day, Daily Average",861,641,1155
+"1844","Sydney - Haymarket - The Rocks (1844)","2415","Haberfield - Summer Hill (2415)","07/31/2016 - 08/28/2016, Every day, Daily Average",958,727,1261
+"1844","Sydney - Haymarket - The Rocks (1844)","2416","Haberfield - Summer Hill (2416)","07/31/2016 - 08/28/2016, Every day, Daily Average",932,697,1245
+"1844","Sydney - Haymarket - The Rocks (1844)","2417","Haberfield - Summer Hill (2417)","07/31/2016 - 08/28/2016, Every day, Daily Average",1048,783,1400
+"1844","Sydney - Haymarket - The Rocks (1844)","2418","Haberfield - Summer Hill (2418)","07/31/2016 - 08/28/2016, Every day, Daily Average",1013,741,1384
+"1844","Sydney - Haymarket - The Rocks (1844)","2419","Haberfield - Summer Hill (2419)","07/31/2016 - 08/28/2016, Every day, Daily Average",765,583,1002
+"1844","Sydney - Haymarket - The Rocks (1844)","2420","Haberfield - Summer Hill (2420)","07/31/2016 - 08/28/2016, Every day, Daily Average",729,548,969
+"1844","Sydney - Haymarket - The Rocks (1844)","2421","Haberfield - Summer Hill (2421)","07/31/2016 - 08/28/2016, Every day, Daily Average",600,437,822
+"1844","Sydney - Haymarket - The Rocks (1844)","2423","Homebush (2423)","07/31/2016 - 08/28/2016, Every day, Daily Average",1488,1098,2015
+"1844","Sydney - Haymarket - The Rocks (1844)","2425","Homebush (2425)","07/31/2016 - 08/28/2016, Every day, Daily Average",1168,886,1539
+"1844","Sydney - Haymarket - The Rocks (1844)","2427","Homebush (2427)","07/31/2016 - 08/28/2016, Every day, Daily Average",1644,1081,2499
+"1844","Sydney - Haymarket - The Rocks (1844)","2428","Homebush (2428)","07/31/2016 - 08/28/2016, Every day, Daily Average",1499,1061,2117
+"1844","Sydney - Haymarket - The Rocks (1844)","2429","Homebush (2429)","07/31/2016 - 08/28/2016, Every day, Daily Average",1416,1017,1970
+"1844","Sydney - Haymarket - The Rocks (1844)","2431","Strathfield (2431)","07/31/2016 - 08/28/2016, Every day, Daily Average",1667,1198,2319
+"1844","Sydney - Haymarket - The Rocks (1844)","2432","Strathfield (2432)","07/31/2016 - 08/28/2016, Every day, Daily Average",1344,1043,1731
+"1844","Sydney - Haymarket - The Rocks (1844)","2434","Strathfield (2434)","07/31/2016 - 08/28/2016, Every day, Daily Average",1298,1007,1672
+"1844","Sydney - Haymarket - The Rocks (1844)","2436","Strathfield (2436)","07/31/2016 - 08/28/2016, Every day, Daily Average",1322,990,1763
+"1844","Sydney - Haymarket - The Rocks (1844)","2441","Strathfield (2441)","07/31/2016 - 08/28/2016, Every day, Daily Average",1246,930,1668
+"1844","Sydney - Haymarket - The Rocks (1844)","2442","Strathfield (2442)","07/31/2016 - 08/28/2016, Every day, Daily Average",1344,1017,1775
+"1844","Sydney - Haymarket - The Rocks (1844)","2443","Strathfield (2443)","07/31/2016 - 08/28/2016, Every day, Daily Average",1785,1199,2656
+"1844","Sydney - Haymarket - The Rocks (1844)","2444","Strathfield (2444)","07/31/2016 - 08/28/2016, Every day, Daily Average",1297,947,1774
+"1844","Sydney - Haymarket - The Rocks (1844)","2445","Strathfield (2445)","07/31/2016 - 08/28/2016, Every day, Daily Average",1073,814,1413
+"1844","Sydney - Haymarket - The Rocks (1844)","2446","Strathfield (2446)","07/31/2016 - 08/28/2016, Every day, Daily Average",1281,907,1808
+"1844","Sydney - Haymarket - The Rocks (1844)","2448","Chatswood (East) - Artarmon (2448)","07/31/2016 - 08/28/2016, Every day, Daily Average",744,541,1022
+"1844","Sydney - Haymarket - The Rocks (1844)","2449","Chatswood (East) - Artarmon (2449)","07/31/2016 - 08/28/2016, Every day, Daily Average",786,580,1064
+"1844","Sydney - Haymarket - The Rocks (1844)","2450","Chatswood (East) - Artarmon (2450)","07/31/2016 - 08/28/2016, Every day, Daily Average",674,483,940
+"1844","Sydney - Haymarket - The Rocks (1844)","2451","Chatswood (East) - Artarmon (2451)","07/31/2016 - 08/28/2016, Every day, Daily Average",890,663,1192
+"1844","Sydney - Haymarket - The Rocks (1844)","2452","Chatswood (East) - Artarmon (2452)","07/31/2016 - 08/28/2016, Every day, Daily Average",923,688,1237
+"1844","Sydney - Haymarket - The Rocks (1844)","2453","Chatswood (East) - Artarmon (2453)","07/31/2016 - 08/28/2016, Every day, Daily Average",993,734,1342
+"1844","Sydney - Haymarket - The Rocks (1844)","2454","Chatswood (East) - Artarmon (2454)","07/31/2016 - 08/28/2016, Every day, Daily Average",1176,900,1536
+"1844","Sydney - Haymarket - The Rocks (1844)","2456","Chatswood (East) - Artarmon (2456)","07/31/2016 - 08/28/2016, Every day, Daily Average",1068,800,1424
+"1844","Sydney - Haymarket - The Rocks (1844)","2457","Chatswood (East) - Artarmon (2457)","07/31/2016 - 08/28/2016, Every day, Daily Average",1063,821,1375
+"1844","Sydney - Haymarket - The Rocks (1844)","2458","Chatswood (East) - Artarmon (2458)","07/31/2016 - 08/28/2016, Every day, Daily Average",1058,825,1355
+"1844","Sydney - Haymarket - The Rocks (1844)","2460","Chatswood (West) - Lane Cove North (2460)","07/31/2016 - 08/28/2016, Every day, Daily Average",917,662,1269
+"1844","Sydney - Haymarket - The Rocks (1844)","2461","Chatswood (West) - Lane Cove North (2461)","07/31/2016 - 08/28/2016, Every day, Daily Average",1094,811,1475
+"1844","Sydney - Haymarket - The Rocks (1844)","2462","Chatswood (West) - Lane Cove North (2462)","07/31/2016 - 08/28/2016, Every day, Daily Average",867,647,1161
+"1844","Sydney - Haymarket - The Rocks (1844)","2463","Chatswood (West) - Lane Cove North (2463)","07/31/2016 - 08/28/2016, Every day, Daily Average",952,713,1270
+"1844","Sydney - Haymarket - The Rocks (1844)","2464","Chatswood (West) - Lane Cove North (2464)","07/31/2016 - 08/28/2016, Every day, Daily Average",888,657,1199
+"1844","Sydney - Haymarket - The Rocks (1844)","2465","Chatswood (West) - Lane Cove North (2465)","07/31/2016 - 08/28/2016, Every day, Daily Average",962,731,1264
+"1844","Sydney - Haymarket - The Rocks (1844)","2467","Chatswood (West) - Lane Cove North (2467)","07/31/2016 - 08/28/2016, Every day, Daily Average",1024,765,1369
+"1844","Sydney - Haymarket - The Rocks (1844)","2470","Lane Cove - Greenwich (2470)","07/31/2016 - 08/28/2016, Every day, Daily Average",934,743,1172
+"1844","Sydney - Haymarket - The Rocks (1844)","2471","Lane Cove - Greenwich (2471)","07/31/2016 - 08/28/2016, Every day, Daily Average",850,661,1092
+"1844","Sydney - Haymarket - The Rocks (1844)","2472","Lane Cove - Greenwich (2472)","07/31/2016 - 08/28/2016, Every day, Daily Average",1028,736,1434
+"1844","Sydney - Haymarket - The Rocks (1844)","2474","Lane Cove - Greenwich (2474)","07/31/2016 - 08/28/2016, Every day, Daily Average",852,627,1157
+"1844","Sydney - Haymarket - The Rocks (1844)","2475","Lane Cove - Greenwich (2475)","07/31/2016 - 08/28/2016, Every day, Daily Average",793,564,1113
+"1844","Sydney - Haymarket - The Rocks (1844)","2476","Lane Cove - Greenwich (2476)","07/31/2016 - 08/28/2016, Every day, Daily Average",818,588,1136
+"1844","Sydney - Haymarket - The Rocks (1844)","2477","Lane Cove - Greenwich (2477)","07/31/2016 - 08/28/2016, Every day, Daily Average",821,613,1099
+"1844","Sydney - Haymarket - The Rocks (1844)","2478","Lane Cove - Greenwich (2478)","07/31/2016 - 08/28/2016, Every day, Daily Average",947,689,1301
+"1844","Sydney - Haymarket - The Rocks (1844)","2479","Lane Cove - Greenwich (2479)","07/31/2016 - 08/28/2016, Every day, Daily Average",982,748,1289
+"1844","Sydney - Haymarket - The Rocks (1844)","2480","Lane Cove - Greenwich (2480)","07/31/2016 - 08/28/2016, Every day, Daily Average",962,707,1307
+"1844","Sydney - Haymarket - The Rocks (1844)","2481","Lane Cove - Greenwich (2481)","07/31/2016 - 08/28/2016, Every day, Daily Average",837,622,1125
+"1844","Sydney - Haymarket - The Rocks (1844)","2483","St Leonards - Naremburn (2483)","07/31/2016 - 08/28/2016, Every day, Daily Average",896,611,1313
+"1844","Sydney - Haymarket - The Rocks (1844)","2484","St Leonards - Naremburn (2484)","07/31/2016 - 08/28/2016, Every day, Daily Average",801,552,1162
+"1844","Sydney - Haymarket - The Rocks (1844)","2485","St Leonards - Naremburn (2485)","07/31/2016 - 08/28/2016, Every day, Daily Average",709,526,955
+"1844","Sydney - Haymarket - The Rocks (1844)","2486","St Leonards - Naremburn (2486)","07/31/2016 - 08/28/2016, Every day, Daily Average",621,439,878
+"1844","Sydney - Haymarket - The Rocks (1844)","2487","St Leonards - Naremburn (2487)","07/31/2016 - 08/28/2016, Every day, Daily Average",626,436,897
+"1844","Sydney - Haymarket - The Rocks (1844)","2488","St Leonards - Naremburn (2488)","07/31/2016 - 08/28/2016, Every day, Daily Average",627,448,877
+"1844","Sydney - Haymarket - The Rocks (1844)","2489","St Leonards - Naremburn (2489)","07/31/2016 - 08/28/2016, Every day, Daily Average",693,504,951
+"1844","Sydney - Haymarket - The Rocks (1844)","2491","Willoughby - Castle Cove - Northbridge (2491)","07/31/2016 - 08/28/2016, Every day, Daily Average",739,535,1019
+"1844","Sydney - Haymarket - The Rocks (1844)","2493","Willoughby - Castle Cove - Northbridge (2493)","07/31/2016 - 08/28/2016, Every day, Daily Average",659,472,919
+"1844","Sydney - Haymarket - The Rocks (1844)","2494","Willoughby - Castle Cove - Northbridge (2494)","07/31/2016 - 08/28/2016, Every day, Daily Average",722,534,974
+"1844","Sydney - Haymarket - The Rocks (1844)","2495","Willoughby - Castle Cove - Northbridge (2495)","07/31/2016 - 08/28/2016, Every day, Daily Average",831,593,1163
+"1844","Sydney - Haymarket - The Rocks (1844)","2496","Willoughby - Castle Cove - Northbridge (2496)","07/31/2016 - 08/28/2016, Every day, Daily Average",873,636,1197
+"1844","Sydney - Haymarket - The Rocks (1844)","2497","Willoughby - Castle Cove - Northbridge (2497)","07/31/2016 - 08/28/2016, Every day, Daily Average",921,690,1228
+"1844","Sydney - Haymarket - The Rocks (1844)","2498","Willoughby - Castle Cove - Northbridge (2498)","07/31/2016 - 08/28/2016, Every day, Daily Average",836,628,1112
+"1844","Sydney - Haymarket - The Rocks (1844)","2499","Willoughby - Castle Cove - Northbridge (2499)","07/31/2016 - 08/28/2016, Every day, Daily Average",964,712,1303
+"1844","Sydney - Haymarket - The Rocks (1844)","2500","Willoughby - Castle Cove - Northbridge (2500)","07/31/2016 - 08/28/2016, Every day, Daily Average",985,754,1285
+"1844","Sydney - Haymarket - The Rocks (1844)","2501","Willoughby - Castle Cove - Northbridge (2501)","07/31/2016 - 08/28/2016, Every day, Daily Average",1053,813,1363
+"1844","Sydney - Haymarket - The Rocks (1844)","2521","Hornsby - Waitara (2521)","07/31/2016 - 08/28/2016, Every day, Daily Average",1911,1610,2266
+"1844","Sydney - Haymarket - The Rocks (1844)","2544","Gordon - Killara (2544)","07/31/2016 - 08/28/2016, Every day, Daily Average",1359,1069,1726
+"1844","Sydney - Haymarket - The Rocks (1844)","2545","Gordon - Killara (2545)","07/31/2016 - 08/28/2016, Every day, Daily Average",1405,1092,1807
+"1844","Sydney - Haymarket - The Rocks (1844)","2546","Gordon - Killara (2546)","07/31/2016 - 08/28/2016, Every day, Daily Average",1301,1025,1650
+"1844","Sydney - Haymarket - The Rocks (1844)","2547","Gordon - Killara (2547)","07/31/2016 - 08/28/2016, Every day, Daily Average",1321,1049,1662
+"1844","Sydney - Haymarket - The Rocks (1844)","2548","Gordon - Killara (2548)","07/31/2016 - 08/28/2016, Every day, Daily Average",1480,1179,1856
+"1844","Sydney - Haymarket - The Rocks (1844)","2549","Gordon - Killara (2549)","07/31/2016 - 08/28/2016, Every day, Daily Average",1403,1124,1750
+"1844","Sydney - Haymarket - The Rocks (1844)","2554","Lindfield - Roseville (2554)","07/31/2016 - 08/28/2016, Every day, Daily Average",1127,863,1471
+"1844","Sydney - Haymarket - The Rocks (1844)","2555","Lindfield - Roseville (2555)","07/31/2016 - 08/28/2016, Every day, Daily Average",1131,863,1481
+"1844","Sydney - Haymarket - The Rocks (1844)","2556","Lindfield - Roseville (2556)","07/31/2016 - 08/28/2016, Every day, Daily Average",1239,953,1610
+"1844","Sydney - Haymarket - The Rocks (1844)","2557","Lindfield - Roseville (2557)","07/31/2016 - 08/28/2016, Every day, Daily Average",1209,957,1526
+"1844","Sydney - Haymarket - The Rocks (1844)","2558","Lindfield - Roseville (2558)","07/31/2016 - 08/28/2016, Every day, Daily Average",1125,884,1431
+"1844","Sydney - Haymarket - The Rocks (1844)","2559","Lindfield - Roseville (2559)","07/31/2016 - 08/28/2016, Every day, Daily Average",1177,906,1528
+"1844","Sydney - Haymarket - The Rocks (1844)","2561","Pymble (2561)","07/31/2016 - 08/28/2016, Every day, Daily Average",1742,1152,2632
+"1844","Sydney - Haymarket - The Rocks (1844)","2563","Pymble (2563)","07/31/2016 - 08/28/2016, Every day, Daily Average",1689,1220,2337
+"1844","Sydney - Haymarket - The Rocks (1844)","2564","Pymble (2564)","07/31/2016 - 08/28/2016, Every day, Daily Average",1807,1277,2556
+"1844","Sydney - Haymarket - The Rocks (1844)","2565","Pymble (2565)","07/31/2016 - 08/28/2016, Every day, Daily Average",1803,1280,2538
+"1844","Sydney - Haymarket - The Rocks (1844)","2567","Pymble (2567)","07/31/2016 - 08/28/2016, Every day, Daily Average",1852,1282,2673
+"1844","Sydney - Haymarket - The Rocks (1844)","2580","Turramurra (2580)","07/31/2016 - 08/28/2016, Every day, Daily Average",1701,1374,2104
+"1844","Sydney - Haymarket - The Rocks (1844)","2581","Turramurra (2581)","07/31/2016 - 08/28/2016, Every day, Daily Average",1833,1324,2536
+"1844","Sydney - Haymarket - The Rocks (1844)","2587","Wahroonga - Warrawee (2587)","07/31/2016 - 08/28/2016, Every day, Daily Average",1804,1465,2220
+"1844","Sydney - Haymarket - The Rocks (1844)","2588","Wahroonga - Warrawee (2588)","07/31/2016 - 08/28/2016, Every day, Daily Average",1869,1519,2299
+"1844","Sydney - Haymarket - The Rocks (1844)","2589","Wahroonga - Warrawee (2589)","07/31/2016 - 08/28/2016, Every day, Daily Average",1868,1514,2304
+"1844","Sydney - Haymarket - The Rocks (1844)","2590","Wahroonga - Warrawee (2590)","07/31/2016 - 08/28/2016, Every day, Daily Average",1921,1596,2311
+"1844","Sydney - Haymarket - The Rocks (1844)","2595","Cremorne - Cammeray (2595)","07/31/2016 - 08/28/2016, Every day, Daily Average",842,586,1208
+"1844","Sydney - Haymarket - The Rocks (1844)","2596","Cremorne - Cammeray (2596)","07/31/2016 - 08/28/2016, Every day, Daily Average",724,524,998
+"1844","Sydney - Haymarket - The Rocks (1844)","2597","Cremorne - Cammeray (2597)","07/31/2016 - 08/28/2016, Every day, Daily Average",658,474,911
+"1844","Sydney - Haymarket - The Rocks (1844)","2598","Cremorne - Cammeray (2598)","07/31/2016 - 08/28/2016, Every day, Daily Average",743,545,1011
+"1844","Sydney - Haymarket - The Rocks (1844)","2599","Cremorne - Cammeray (2599)","07/31/2016 - 08/28/2016, Every day, Daily Average",675,466,975
+"1844","Sydney - Haymarket - The Rocks (1844)","2600","Cremorne - Cammeray (2600)","07/31/2016 - 08/28/2016, Every day, Daily Average",638,472,862
+"1844","Sydney - Haymarket - The Rocks (1844)","2601","Cremorne - Cammeray (2601)","07/31/2016 - 08/28/2016, Every day, Daily Average",850,611,1181
+"1844","Sydney - Haymarket - The Rocks (1844)","2603","Crows Nest - Waverton (2603)","07/31/2016 - 08/28/2016, Every day, Daily Average",600,429,837
+"1844","Sydney - Haymarket - The Rocks (1844)","2604","Crows Nest - Waverton (2604)","07/31/2016 - 08/28/2016, Every day, Daily Average",611,399,933
+"1844","Sydney - Haymarket - The Rocks (1844)","2605","Crows Nest - Waverton (2605)","07/31/2016 - 08/28/2016, Every day, Daily Average",732,512,1046
+"1844","Sydney - Haymarket - The Rocks (1844)","2606","Crows Nest - Waverton (2606)","07/31/2016 - 08/28/2016, Every day, Daily Average",672,454,992
+"1844","Sydney - Haymarket - The Rocks (1844)","2607","Crows Nest - Waverton (2607)","07/31/2016 - 08/28/2016, Every day, Daily Average",663,462,950
+"1844","Sydney - Haymarket - The Rocks (1844)","2608","Crows Nest - Waverton (2608)","07/31/2016 - 08/28/2016, Every day, Daily Average",562,382,826
+"1844","Sydney - Haymarket - The Rocks (1844)","2609","Crows Nest - Waverton (2609)","07/31/2016 - 08/28/2016, Every day, Daily Average",759,505,1140
+"1844","Sydney - Haymarket - The Rocks (1844)","2610","Crows Nest - Waverton (2610)","07/31/2016 - 08/28/2016, Every day, Daily Average",689,480,988
+"1844","Sydney - Haymarket - The Rocks (1844)","2611","Crows Nest - Waverton (2611)","07/31/2016 - 08/28/2016, Every day, Daily Average",600,410,876
+"1844","Sydney - Haymarket - The Rocks (1844)","2614","Mosman (2614)","07/31/2016 - 08/28/2016, Every day, Daily Average",965,762,1220
+"1844","Sydney - Haymarket - The Rocks (1844)","2617","Mosman (2617)","07/31/2016 - 08/28/2016, Every day, Daily Average",870,632,1195
+"1844","Sydney - Haymarket - The Rocks (1844)","2618","Mosman (2618)","07/31/2016 - 08/28/2016, Every day, Daily Average",1117,796,1566
+"1844","Sydney - Haymarket - The Rocks (1844)","2619","Mosman (2619)","07/31/2016 - 08/28/2016, Every day, Daily Average",1103,800,1519
+"1844","Sydney - Haymarket - The Rocks (1844)","2620","Mosman (2620)","07/31/2016 - 08/28/2016, Every day, Daily Average",874,629,1213
+"1844","Sydney - Haymarket - The Rocks (1844)","2621","Mosman (2621)","07/31/2016 - 08/28/2016, Every day, Daily Average",1064,752,1503
+"1844","Sydney - Haymarket - The Rocks (1844)","2622","Mosman (2622)","07/31/2016 - 08/28/2016, Every day, Daily Average",928,672,1280
+"1844","Sydney - Haymarket - The Rocks (1844)","2624","Mosman (2624)","07/31/2016 - 08/28/2016, Every day, Daily Average",805,595,1088
+"1844","Sydney - Haymarket - The Rocks (1844)","2625","Mosman (2625)","07/31/2016 - 08/28/2016, Every day, Daily Average",873,640,1190
+"1844","Sydney - Haymarket - The Rocks (1844)","2626","Mosman (2626)","07/31/2016 - 08/28/2016, Every day, Daily Average",881,668,1161
+"1844","Sydney - Haymarket - The Rocks (1844)","2627","Mosman (2627)","07/31/2016 - 08/28/2016, Every day, Daily Average",952,717,1262
+"1844","Sydney - Haymarket - The Rocks (1844)","2628","Mosman (2628)","07/31/2016 - 08/28/2016, Every day, Daily Average",1019,786,1320
+"1844","Sydney - Haymarket - The Rocks (1844)","2630","Neutral Bay - Kirribilli (2630)","07/31/2016 - 08/28/2016, Every day, Daily Average",417,245,709
+"1844","Sydney - Haymarket - The Rocks (1844)","2631","Neutral Bay - Kirribilli (2631)","07/31/2016 - 08/28/2016, Every day, Daily Average",569,373,867
+"1844","Sydney - Haymarket - The Rocks (1844)","2632","Neutral Bay - Kirribilli (2632)","07/31/2016 - 08/28/2016, Every day, Daily Average",683,470,991
+"1844","Sydney - Haymarket - The Rocks (1844)","2633","Neutral Bay - Kirribilli (2633)","07/31/2016 - 08/28/2016, Every day, Daily Average",580,377,890
+"1844","Sydney - Haymarket - The Rocks (1844)","2634","Neutral Bay - Kirribilli (2634)","07/31/2016 - 08/28/2016, Every day, Daily Average",626,415,942
+"1844","Sydney - Haymarket - The Rocks (1844)","2635","Neutral Bay - Kirribilli (2635)","07/31/2016 - 08/28/2016, Every day, Daily Average",596,417,850
+"1844","Sydney - Haymarket - The Rocks (1844)","2636","Neutral Bay - Kirribilli (2636)","07/31/2016 - 08/28/2016, Every day, Daily Average",661,472,925
+"1844","Sydney - Haymarket - The Rocks (1844)","2639","North Sydney - Lavender Bay (2639)","07/31/2016 - 08/28/2016, Every day, Daily Average",407,251,659
+"1844","Sydney - Haymarket - The Rocks (1844)","2640","North Sydney - Lavender Bay (2640)","07/31/2016 - 08/28/2016, Every day, Daily Average",519,365,736
+"1844","Sydney - Haymarket - The Rocks (1844)","2641","North Sydney - Lavender Bay (2641)","07/31/2016 - 08/28/2016, Every day, Daily Average",467,305,714
+"1844","Sydney - Haymarket - The Rocks (1844)","2643","North Sydney - Lavender Bay (2643)","07/31/2016 - 08/28/2016, Every day, Daily Average",532,344,822
+"1844","Sydney - Haymarket - The Rocks (1844)","2644","North Sydney - Lavender Bay (2644)","07/31/2016 - 08/28/2016, Every day, Daily Average",456,293,708
+"1844","Sydney - Haymarket - The Rocks (1844)","2645","North Sydney - Lavender Bay (2645)","07/31/2016 - 08/28/2016, Every day, Daily Average",562,374,844
+"1844","Sydney - Haymarket - The Rocks (1844)","2646","North Sydney - Lavender Bay (2646)","07/31/2016 - 08/28/2016, Every day, Daily Average",600,391,920
+"1844","Sydney - Haymarket - The Rocks (1844)","2647","North Sydney - Lavender Bay (2647)","07/31/2016 - 08/28/2016, Every day, Daily Average",501,324,773
+"1844","Sydney - Haymarket - The Rocks (1844)","2648","North Sydney - Lavender Bay (2648)","07/31/2016 - 08/28/2016, Every day, Daily Average",599,400,895
+"1844","Sydney - Haymarket - The Rocks (1844)","2649","North Sydney - Lavender Bay (2649)","07/31/2016 - 08/28/2016, Every day, Daily Average",523,349,783
+"1844","Sydney - Haymarket - The Rocks (1844)","2652","Balgowlah - Clontarf - Seaforth (2652)","07/31/2016 - 08/28/2016, Every day, Daily Average",1130,883,1446
+"1844","Sydney - Haymarket - The Rocks (1844)","2653","Balgowlah - Clontarf - Seaforth (2653)","07/31/2016 - 08/28/2016, Every day, Daily Average",1149,905,1457
+"1844","Sydney - Haymarket - The Rocks (1844)","2654","Balgowlah - Clontarf - Seaforth (2654)","07/31/2016 - 08/28/2016, Every day, Daily Average",1189,932,1515
+"1844","Sydney - Haymarket - The Rocks (1844)","2656","Balgowlah - Clontarf - Seaforth (2656)","07/31/2016 - 08/28/2016, Every day, Daily Average",1296,1036,1620
+"1844","Sydney - Haymarket - The Rocks (1844)","2657","Balgowlah - Clontarf - Seaforth (2657)","07/31/2016 - 08/28/2016, Every day, Daily Average",1210,954,1534
+"1844","Sydney - Haymarket - The Rocks (1844)","2658","Balgowlah - Clontarf - Seaforth (2658)","07/31/2016 - 08/28/2016, Every day, Daily Average",1303,1014,1672
+"1844","Sydney - Haymarket - The Rocks (1844)","2661","Manly - Fairlight (2661)","07/31/2016 - 08/28/2016, Every day, Daily Average",1621,1329,1976
+"1844","Sydney - Haymarket - The Rocks (1844)","2662","Manly - Fairlight (2662)","07/31/2016 - 08/28/2016, Every day, Daily Average",1386,1099,1747
+"1844","Sydney - Haymarket - The Rocks (1844)","2663","Manly - Fairlight (2663)","07/31/2016 - 08/28/2016, Every day, Daily Average",1385,1114,1720
+"1844","Sydney - Haymarket - The Rocks (1844)","2664","Manly - Fairlight (2664)","07/31/2016 - 08/28/2016, Every day, Daily Average",1434,1173,1752
+"1844","Sydney - Haymarket - The Rocks (1844)","2667","Manly - Fairlight (2667)","07/31/2016 - 08/28/2016, Every day, Daily Average",1504,1230,1838
+"1844","Sydney - Haymarket - The Rocks (1844)","2717","Dee Why - North Curl Curl (2717)","07/31/2016 - 08/28/2016, Every day, Daily Average",1761,1374,2256
+"1844","Sydney - Haymarket - The Rocks (1844)","2719","Dee Why - North Curl Curl (2719)","07/31/2016 - 08/28/2016, Every day, Daily Average",1763,1386,2241
+"1844","Sydney - Haymarket - The Rocks (1844)","2721","Dee Why - North Curl Curl (2721)","07/31/2016 - 08/28/2016, Every day, Daily Average",1797,1409,2291
+"1844","Sydney - Haymarket - The Rocks (1844)","2723","Dee Why - North Curl Curl (2723)","07/31/2016 - 08/28/2016, Every day, Daily Average",1973,1569,2479
+"1844","Sydney - Haymarket - The Rocks (1844)","2725","Forestville - Killarney Heights (2725)","07/31/2016 - 08/28/2016, Every day, Daily Average",1250,993,1572
+"1844","Sydney - Haymarket - The Rocks (1844)","2726","Forestville - Killarney Heights (2726)","07/31/2016 - 08/28/2016, Every day, Daily Average",1328,1083,1627
+"1844","Sydney - Haymarket - The Rocks (1844)","2727","Forestville - Killarney Heights (2727)","07/31/2016 - 08/28/2016, Every day, Daily Average",1215,989,1491
+"1844","Sydney - Haymarket - The Rocks (1844)","2728","Forestville - Killarney Heights (2728)","07/31/2016 - 08/28/2016, Every day, Daily Average",1325,1083,1620
+"1844","Sydney - Haymarket - The Rocks (1844)","2730","Frenchs Forest - Belrose (2730)","07/31/2016 - 08/28/2016, Every day, Daily Average",1497,1203,1862
+"1844","Sydney - Haymarket - The Rocks (1844)","2731","Frenchs Forest - Belrose (2731)","07/31/2016 - 08/28/2016, Every day, Daily Average",1615,1267,2057
+"1844","Sydney - Haymarket - The Rocks (1844)","2734","Frenchs Forest - Belrose (2734)","07/31/2016 - 08/28/2016, Every day, Daily Average",1399,1156,1692
+"1844","Sydney - Haymarket - The Rocks (1844)","2735","Frenchs Forest - Belrose (2735)","07/31/2016 - 08/28/2016, Every day, Daily Average",1574,1284,1928
+"1844","Sydney - Haymarket - The Rocks (1844)","2736","Frenchs Forest - Belrose (2736)","07/31/2016 - 08/28/2016, Every day, Daily Average",1483,1229,1788
+"1844","Sydney - Haymarket - The Rocks (1844)","2738","Frenchs Forest - Belrose (2738)","07/31/2016 - 08/28/2016, Every day, Daily Average",1616,1360,1920
+"1844","Sydney - Haymarket - The Rocks (1844)","2743","Freshwater - Brookvale (2743)","07/31/2016 - 08/28/2016, Every day, Daily Average",1545,1304,1829
+"1844","Sydney - Haymarket - The Rocks (1844)","2744","Freshwater - Brookvale (2744)","07/31/2016 - 08/28/2016, Every day, Daily Average",1393,1121,1730
+"1844","Sydney - Haymarket - The Rocks (1844)","2748","Freshwater - Brookvale (2748)","07/31/2016 - 08/28/2016, Every day, Daily Average",1537,1232,1916
+"1844","Sydney - Haymarket - The Rocks (1844)","2749","Freshwater - Brookvale (2749)","07/31/2016 - 08/28/2016, Every day, Daily Average",1580,1229,2030
+"1844","Sydney - Haymarket - The Rocks (1844)","2750","Freshwater - Brookvale (2750)","07/31/2016 - 08/28/2016, Every day, Daily Average",1676,1305,2152
+"1844","Sydney - Haymarket - The Rocks (1844)","2752","Manly Vale - Allambie Heights (2752)","07/31/2016 - 08/28/2016, Every day, Daily Average",1284,995,1655
+"1844","Sydney - Haymarket - The Rocks (1844)","2753","Manly Vale - Allambie Heights (2753)","07/31/2016 - 08/28/2016, Every day, Daily Average",1248,980,1587
+"1844","Sydney - Haymarket - The Rocks (1844)","2755","Manly Vale - Allambie Heights (2755)","07/31/2016 - 08/28/2016, Every day, Daily Average",1360,1045,1769
+"1844","Sydney - Haymarket - The Rocks (1844)","2756","Manly Vale - Allambie Heights (2756)","07/31/2016 - 08/28/2016, Every day, Daily Average",1427,1131,1800
+"1844","Sydney - Haymarket - The Rocks (1844)","2759","Narrabeen - Collaroy (2759)","07/31/2016 - 08/28/2016, Every day, Daily Average",2012,1601,2527
+"1844","Sydney - Haymarket - The Rocks (1844)","3046","Auburn (3046)","07/31/2016 - 08/28/2016, Every day, Daily Average",1518,1180,1951
+"1844","Sydney - Haymarket - The Rocks (1844)","3048","Auburn (3048)","07/31/2016 - 08/28/2016, Every day, Daily Average",1558,1213,2000
+"1844","Sydney - Haymarket - The Rocks (1844)","3049","Auburn (3049)","07/31/2016 - 08/28/2016, Every day, Daily Average",1486,1140,1936
+"1844","Sydney - Haymarket - The Rocks (1844)","3051","Homebush Bay - Silverwater (3051)","07/31/2016 - 08/28/2016, Every day, Daily Average",1497,1051,2132
+"1844","Sydney - Haymarket - The Rocks (1844)","3052","Homebush Bay - Silverwater (3052)","07/31/2016 - 08/28/2016, Every day, Daily Average",1615,1154,2259
+"1844","Sydney - Haymarket - The Rocks (1844)","3053","Homebush Bay - Silverwater (3053)","07/31/2016 - 08/28/2016, Every day, Daily Average",1605,1219,2112
+"1844","Sydney - Haymarket - The Rocks (1844)","3054","Homebush Bay - Silverwater (3054)","07/31/2016 - 08/28/2016, Every day, Daily Average",1462,1172,1823
+"1844","Sydney - Haymarket - The Rocks (1844)","3073","Lidcombe - Regents Park (3073)","07/31/2016 - 08/28/2016, Every day, Daily Average",1628,1092,2426
+"1844","Sydney - Haymarket - The Rocks (1844)","3074","Lidcombe - Regents Park (3074)","07/31/2016 - 08/28/2016, Every day, Daily Average",1574,1113,2224
+"1844","Sydney - Haymarket - The Rocks (1844)","3075","Lidcombe - Regents Park (3075)","07/31/2016 - 08/28/2016, Every day, Daily Average",1416,1118,1793
+"1844","Sydney - Haymarket - The Rocks (1844)","3076","Lidcombe - Regents Park (3076)","07/31/2016 - 08/28/2016, Every day, Daily Average",1488,1121,1974
+"1844","Sydney - Haymarket - The Rocks (1844)","3085","Carlingford (3085)","07/31/2016 - 08/28/2016, Every day, Daily Average",1477,1133,1923
+"1844","Sydney - Haymarket - The Rocks (1844)","3086","Carlingford (3086)","07/31/2016 - 08/28/2016, Every day, Daily Average",1627,1228,2155
+"1844","Sydney - Haymarket - The Rocks (1844)","3087","Carlingford (3087)","07/31/2016 - 08/28/2016, Every day, Daily Average",1405,1066,1851
+"1844","Sydney - Haymarket - The Rocks (1844)","3089","Ermington - Rydalmere (3089)","07/31/2016 - 08/28/2016, Every day, Daily Average",1750,1364,2244
+"1844","Sydney - Haymarket - The Rocks (1844)","3090","Ermington - Rydalmere (3090)","07/31/2016 - 08/28/2016, Every day, Daily Average",1716,1330,2213
+"1844","Sydney - Haymarket - The Rocks (1844)","3091","Ermington - Rydalmere (3091)","07/31/2016 - 08/28/2016, Every day, Daily Average",1680,1299,2171
+"1844","Sydney - Haymarket - The Rocks (1844)","3092","Ermington - Rydalmere (3092)","07/31/2016 - 08/28/2016, Every day, Daily Average",1595,1229,2068
+"1844","Sydney - Haymarket - The Rocks (1844)","3093","Ermington - Rydalmere (3093)","07/31/2016 - 08/28/2016, Every day, Daily Average",1907,1462,2485
+"1844","Sydney - Haymarket - The Rocks (1844)","3094","Ermington - Rydalmere (3094)","07/31/2016 - 08/28/2016, Every day, Daily Average",1941,1519,2479
+"1844","Sydney - Haymarket - The Rocks (1844)","3097","Ermington - Rydalmere (3097)","07/31/2016 - 08/28/2016, Every day, Daily Average",1932,1505,2478
+"1844","Sydney - Haymarket - The Rocks (1844)","3099","Ermington - Rydalmere (3099)","07/31/2016 - 08/28/2016, Every day, Daily Average",1650,1356,2006
+"1844","Sydney - Haymarket - The Rocks (1844)","3137","Granville - Clyde (3137)","07/31/2016 - 08/28/2016, Every day, Daily Average",1654,1273,2148
+"1844","Sydney - Haymarket - The Rocks (1844)","3138","Granville - Clyde (3138)","07/31/2016 - 08/28/2016, Every day, Daily Average",1652,1296,2105
+"1844","Sydney - Haymarket - The Rocks (1844)","3142","Greystanes - Pemulwuy (3142)","07/31/2016 - 08/28/2016, Every day, Daily Average",2004,1613,2489
+"1844","Sydney - Haymarket - The Rocks (1844)","3146","Greystanes - Pemulwuy (3146)","07/31/2016 - 08/28/2016, Every day, Daily Average",1995,1581,2517
+"1844","Sydney - Haymarket - The Rocks (1844)","3150","Greystanes - Pemulwuy (3150)","07/31/2016 - 08/28/2016, Every day, Daily Average",1917,1538,2388
+"1844","Sydney - Haymarket - The Rocks (1844)","3162","Guildford West - Merrylands West (3162)","07/31/2016 - 08/28/2016, Every day, Daily Average",2075,1642,2621
+"1844","Sydney - Haymarket - The Rocks (1844)","3175","Merrylands - Holroyd (3175)","07/31/2016 - 08/28/2016, Every day, Daily Average",1688,1344,2118
+"1844","Sydney - Haymarket - The Rocks (1844)","3176","Merrylands - Holroyd (3176)","07/31/2016 - 08/28/2016, Every day, Daily Average",1952,1561,2439
+"1844","Sydney - Haymarket - The Rocks (1844)","3177","Merrylands - Holroyd (3177)","07/31/2016 - 08/28/2016, Every day, Daily Average",1639,1352,1986
+"1844","Sydney - Haymarket - The Rocks (1844)","3186","Girraween - Westmead (3186)","07/31/2016 - 08/28/2016, Every day, Daily Average",1870,1441,2426
+"1844","Sydney - Haymarket - The Rocks (1844)","3187","Girraween - Westmead (3187)","07/31/2016 - 08/28/2016, Every day, Daily Average",1925,1500,2469
+"1844","Sydney - Haymarket - The Rocks (1844)","3188","Girraween - Westmead (3188)","07/31/2016 - 08/28/2016, Every day, Daily Average",1904,1532,2365
+"1844","Sydney - Haymarket - The Rocks (1844)","3189","Girraween - Westmead (3189)","07/31/2016 - 08/28/2016, Every day, Daily Average",1973,1554,2504
+"1844","Sydney - Haymarket - The Rocks (1844)","3190","Girraween - Westmead (3190)","07/31/2016 - 08/28/2016, Every day, Daily Average",1989,1596,2477
+"1844","Sydney - Haymarket - The Rocks (1844)","3192","Girraween - Westmead (3192)","07/31/2016 - 08/28/2016, Every day, Daily Average",2028,1610,2553
+"1844","Sydney - Haymarket - The Rocks (1844)","3194","Girraween - Westmead (3194)","07/31/2016 - 08/28/2016, Every day, Daily Average",2113,1656,2695
+"1844","Sydney - Haymarket - The Rocks (1844)","3198","North Parramatta (3198)","07/31/2016 - 08/28/2016, Every day, Daily Average",2274,1666,3103
+"1844","Sydney - Haymarket - The Rocks (1844)","3199","North Parramatta (3199)","07/31/2016 - 08/28/2016, Every day, Daily Average",2057,1529,2766
+"1844","Sydney - Haymarket - The Rocks (1844)","3211","North Rocks (3211)","07/31/2016 - 08/28/2016, Every day, Daily Average",1734,1314,2286
+"1844","Sydney - Haymarket - The Rocks (1844)","3213","North Rocks (3213)","07/31/2016 - 08/28/2016, Every day, Daily Average",1649,1243,2187
+"1844","Sydney - Haymarket - The Rocks (1844)","3214","North Rocks (3214)","07/31/2016 - 08/28/2016, Every day, Daily Average",1721,1303,2271
+"1844","Sydney - Haymarket - The Rocks (1844)","3226","Northmead (3226)","07/31/2016 - 08/28/2016, Every day, Daily Average",1853,1394,2462
+"1844","Sydney - Haymarket - The Rocks (1844)","3229","Parramatta - Rosehill (3229)","07/31/2016 - 08/28/2016, Every day, Daily Average",1790,1400,2288
+"1844","Sydney - Haymarket - The Rocks (1844)","3230","Parramatta - Rosehill (3230)","07/31/2016 - 08/28/2016, Every day, Daily Average",1680,1324,2130
+"1844","Sydney - Haymarket - The Rocks (1844)","3233","Parramatta - Rosehill (3233)","07/31/2016 - 08/28/2016, Every day, Daily Average",1794,1363,2359
+"1844","Sydney - Haymarket - The Rocks (1844)","3234","Parramatta - Rosehill (3234)","07/31/2016 - 08/28/2016, Every day, Daily Average",2009,1482,2722
+"1844","Sydney - Haymarket - The Rocks (1844)","3238","Parramatta - Rosehill (3238)","07/31/2016 - 08/28/2016, Every day, Daily Average",2004,1520,2641
+"1844","Sydney - Haymarket - The Rocks (1844)","3260","Winston Hills (3260)","07/31/2016 - 08/28/2016, Every day, Daily Average",1912,1492,2449
+"1844","Sydney - Haymarket - The Rocks (1844)","3265","Epping - North Epping (3265)","07/31/2016 - 08/28/2016, Every day, Daily Average",1531,1214,1930
+"1844","Sydney - Haymarket - The Rocks (1844)","3267","Epping - North Epping (3267)","07/31/2016 - 08/28/2016, Every day, Daily Average",1502,1200,1878
+"1844","Sydney - Haymarket - The Rocks (1844)","3269","Epping - North Epping (3269)","07/31/2016 - 08/28/2016, Every day, Daily Average",1386,1060,1811
+"1844","Sydney - Haymarket - The Rocks (1844)","3270","Epping - North Epping (3270)","07/31/2016 - 08/28/2016, Every day, Daily Average",1305,986,1725
+"1844","Sydney - Haymarket - The Rocks (1844)","3271","Epping - North Epping (3271)","07/31/2016 - 08/28/2016, Every day, Daily Average",1359,1037,1780
+"1844","Sydney - Haymarket - The Rocks (1844)","3272","Epping - North Epping (3272)","07/31/2016 - 08/28/2016, Every day, Daily Average",1265,968,1652
+"1844","Sydney - Haymarket - The Rocks (1844)","3273","Epping - North Epping (3273)","07/31/2016 - 08/28/2016, Every day, Daily Average",1218,960,1544
+"1844","Sydney - Haymarket - The Rocks (1844)","3275","Pennant Hills - Cheltenham (3275)","07/31/2016 - 08/28/2016, Every day, Daily Average",1342,1023,1759
+"1844","Sydney - Haymarket - The Rocks (1844)","3276","Pennant Hills - Cheltenham (3276)","07/31/2016 - 08/28/2016, Every day, Daily Average",1428,1100,1853
+"1844","Sydney - Haymarket - The Rocks (1844)","3277","Pennant Hills - Cheltenham (3277)","07/31/2016 - 08/28/2016, Every day, Daily Average",1443,1123,1853
+"1844","Sydney - Haymarket - The Rocks (1844)","3280","Pennant Hills - Cheltenham (3280)","07/31/2016 - 08/28/2016, Every day, Daily Average",1699,1310,2202
+"1844","Sydney - Haymarket - The Rocks (1844)","3298","Gladesville - Huntleys Point (3298)","07/31/2016 - 08/28/2016, Every day, Daily Average",791,604,1034
+"1844","Sydney - Haymarket - The Rocks (1844)","3299","Gladesville - Huntleys Point (3299)","07/31/2016 - 08/28/2016, Every day, Daily Average",876,669,1146
+"1844","Sydney - Haymarket - The Rocks (1844)","3300","Gladesville - Huntleys Point (3300)","07/31/2016 - 08/28/2016, Every day, Daily Average",745,557,995
+"1844","Sydney - Haymarket - The Rocks (1844)","3301","Gladesville - Huntleys Point (3301)","07/31/2016 - 08/28/2016, Every day, Daily Average",889,697,1132
+"1844","Sydney - Haymarket - The Rocks (1844)","3302","Gladesville - Huntleys Point (3302)","07/31/2016 - 08/28/2016, Every day, Daily Average",959,734,1251
+"1844","Sydney - Haymarket - The Rocks (1844)","3303","Gladesville - Huntleys Point (3303)","07/31/2016 - 08/28/2016, Every day, Daily Average",1000,756,1322
+"1844","Sydney - Haymarket - The Rocks (1844)","3304","Gladesville - Huntleys Point (3304)","07/31/2016 - 08/28/2016, Every day, Daily Average",1129,840,1516
+"1844","Sydney - Haymarket - The Rocks (1844)","3306","Hunters Hill - Woolwich (3306)","07/31/2016 - 08/28/2016, Every day, Daily Average",1070,799,1432
+"1844","Sydney - Haymarket - The Rocks (1844)","3308","Hunters Hill - Woolwich (3308)","07/31/2016 - 08/28/2016, Every day, Daily Average",807,601,1083
+"1844","Sydney - Haymarket - The Rocks (1844)","3309","Hunters Hill - Woolwich (3309)","07/31/2016 - 08/28/2016, Every day, Daily Average",899,654,1234
+"1844","Sydney - Haymarket - The Rocks (1844)","3310","Hunters Hill - Woolwich (3310)","07/31/2016 - 08/28/2016, Every day, Daily Average",974,743,1276
+"1844","Sydney - Haymarket - The Rocks (1844)","3312","Macquarie Park - Marsfield (3312)","07/31/2016 - 08/28/2016, Every day, Daily Average",1057,764,1461
+"1844","Sydney - Haymarket - The Rocks (1844)","3313","Macquarie Park - Marsfield (3313)","07/31/2016 - 08/28/2016, Every day, Daily Average",1249,984,1584
+"1844","Sydney - Haymarket - The Rocks (1844)","3314","Macquarie Park - Marsfield (3314)","07/31/2016 - 08/28/2016, Every day, Daily Average",1048,806,1362
+"1844","Sydney - Haymarket - The Rocks (1844)","3316","Macquarie Park - Marsfield (3316)","07/31/2016 - 08/28/2016, Every day, Daily Average",1251,1015,1541
+"1844","Sydney - Haymarket - The Rocks (1844)","3317","Macquarie Park - Marsfield (3317)","07/31/2016 - 08/28/2016, Every day, Daily Average",1101,824,1469
+"1844","Sydney - Haymarket - The Rocks (1844)","3318","Macquarie Park - Marsfield (3318)","07/31/2016 - 08/28/2016, Every day, Daily Average",1214,957,1539
+"1844","Sydney - Haymarket - The Rocks (1844)","3319","Macquarie Park - Marsfield (3319)","07/31/2016 - 08/28/2016, Every day, Daily Average",1179,818,1697
+"1844","Sydney - Haymarket - The Rocks (1844)","3320","Macquarie Park - Marsfield (3320)","07/31/2016 - 08/28/2016, Every day, Daily Average",1325,1033,1698
+"1844","Sydney - Haymarket - The Rocks (1844)","3321","Macquarie Park - Marsfield (3321)","07/31/2016 - 08/28/2016, Every day, Daily Average",1400,1140,1718
+"1844","Sydney - Haymarket - The Rocks (1844)","3323","Macquarie Park - Marsfield (3323)","07/31/2016 - 08/28/2016, Every day, Daily Average",1085,847,1388
+"1844","Sydney - Haymarket - The Rocks (1844)","3326","Macquarie Park - Marsfield (3326)","07/31/2016 - 08/28/2016, Every day, Daily Average",1147,872,1508
+"1844","Sydney - Haymarket - The Rocks (1844)","3328","Macquarie Park - Marsfield (3328)","07/31/2016 - 08/28/2016, Every day, Daily Average",1073,833,1380
+"1844","Sydney - Haymarket - The Rocks (1844)","3329","Macquarie Park - Marsfield (3329)","07/31/2016 - 08/28/2016, Every day, Daily Average",1116,846,1470
+"1844","Sydney - Haymarket - The Rocks (1844)","3330","Macquarie Park - Marsfield (3330)","07/31/2016 - 08/28/2016, Every day, Daily Average",1228,953,1581
+"1844","Sydney - Haymarket - The Rocks (1844)","3331","Macquarie Park - Marsfield (3331)","07/31/2016 - 08/28/2016, Every day, Daily Average",1160,913,1473
+"1844","Sydney - Haymarket - The Rocks (1844)","3334","North Ryde - East Ryde (3334)","07/31/2016 - 08/28/2016, Every day, Daily Average",1006,758,1334
+"1844","Sydney - Haymarket - The Rocks (1844)","3335","North Ryde - East Ryde (3335)","07/31/2016 - 08/28/2016, Every day, Daily Average",1070,811,1411
+"1844","Sydney - Haymarket - The Rocks (1844)","3336","North Ryde - East Ryde (3336)","07/31/2016 - 08/28/2016, Every day, Daily Average",1185,914,1534
+"1844","Sydney - Haymarket - The Rocks (1844)","3337","North Ryde - East Ryde (3337)","07/31/2016 - 08/28/2016, Every day, Daily Average",1065,773,1465
+"1844","Sydney - Haymarket - The Rocks (1844)","3339","North Ryde - East Ryde (3339)","07/31/2016 - 08/28/2016, Every day, Daily Average",1272,968,1671
+"1844","Sydney - Haymarket - The Rocks (1844)","3341","Ryde - Putney (3341)","07/31/2016 - 08/28/2016, Every day, Daily Average",1102,831,1460
+"1844","Sydney - Haymarket - The Rocks (1844)","3342","Ryde - Putney (3342)","07/31/2016 - 08/28/2016, Every day, Daily Average",1252,933,1679
+"1844","Sydney - Haymarket - The Rocks (1844)","3343","Ryde - Putney (3343)","07/31/2016 - 08/28/2016, Every day, Daily Average",1054,815,1361
+"1844","Sydney - Haymarket - The Rocks (1844)","3344","Ryde - Putney (3344)","07/31/2016 - 08/28/2016, Every day, Daily Average",1328,997,1768
+"1844","Sydney - Haymarket - The Rocks (1844)","3345","Ryde - Putney (3345)","07/31/2016 - 08/28/2016, Every day, Daily Average",1124,894,1413
+"1844","Sydney - Haymarket - The Rocks (1844)","3346","Ryde - Putney (3346)","07/31/2016 - 08/28/2016, Every day, Daily Average",1293,999,1673
+"1844","Sydney - Haymarket - The Rocks (1844)","3347","Ryde - Putney (3347)","07/31/2016 - 08/28/2016, Every day, Daily Average",1122,882,1426
+"1844","Sydney - Haymarket - The Rocks (1844)","3349","Ryde - Putney (3349)","07/31/2016 - 08/28/2016, Every day, Daily Average",1422,1000,2021
+"1844","Sydney - Haymarket - The Rocks (1844)","3350","Ryde - Putney (3350)","07/31/2016 - 08/28/2016, Every day, Daily Average",1258,915,1729
+"1844","Sydney - Haymarket - The Rocks (1844)","3352","Ryde - Putney (3352)","07/31/2016 - 08/28/2016, Every day, Daily Average",1648,1040,2609
+"1844","Sydney - Haymarket - The Rocks (1844)","3353","Ryde - Putney (3353)","07/31/2016 - 08/28/2016, Every day, Daily Average",1648,1103,2461
+"1844","Sydney - Haymarket - The Rocks (1844)","3358","West Ryde - Meadowbank (3358)","07/31/2016 - 08/28/2016, Every day, Daily Average",1556,1217,1988
+"1844","Sydney - Haymarket - The Rocks (1844)","3360","West Ryde - Meadowbank (3360)","07/31/2016 - 08/28/2016, Every day, Daily Average",1430,1086,1881
+"1844","Sydney - Haymarket - The Rocks (1844)","3361","West Ryde - Meadowbank (3361)","07/31/2016 - 08/28/2016, Every day, Daily Average",1336,1035,1722
+"1844","Sydney - Haymarket - The Rocks (1844)","3362","West Ryde - Meadowbank (3362)","07/31/2016 - 08/28/2016, Every day, Daily Average",1295,1031,1626
+"1844","Sydney - Haymarket - The Rocks (1844)","3363","West Ryde - Meadowbank (3363)","07/31/2016 - 08/28/2016, Every day, Daily Average",1413,1094,1824
+"1844","Sydney - Haymarket - The Rocks (1844)","3364","West Ryde - Meadowbank (3364)","07/31/2016 - 08/28/2016, Every day, Daily Average",1383,1053,1815
+"1844","Sydney - Haymarket - The Rocks (1844)","3365","West Ryde - Meadowbank (3365)","07/31/2016 - 08/28/2016, Every day, Daily Average",1487,1186,1864
+"1844","Sydney - Haymarket - The Rocks (1844)","3496","Casula (3496)","07/31/2016 - 08/28/2016, Every day, Daily Average",2346,1860,2958
+"1844","Sydney - Haymarket - The Rocks (1844)","3497","Casula (3497)","07/31/2016 - 08/28/2016, Every day, Daily Average",2461,1954,3099
+"1844","Sydney - Haymarket - The Rocks (1844)","3499","Chipping Norton - Moorebank (3499)","07/31/2016 - 08/28/2016, Every day, Daily Average",2208,1774,2746
+"1844","Sydney - Haymarket - The Rocks (1844)","3500","Chipping Norton - Moorebank (3500)","07/31/2016 - 08/28/2016, Every day, Daily Average",2132,1719,2643
+"1844","Sydney - Haymarket - The Rocks (1844)","3501","Chipping Norton - Moorebank (3501)","07/31/2016 - 08/28/2016, Every day, Daily Average",2244,1809,2782
+"1844","Sydney - Haymarket - The Rocks (1844)","3502","Chipping Norton - Moorebank (3502)","07/31/2016 - 08/28/2016, Every day, Daily Average",2314,1827,2929
+"1844","Sydney - Haymarket - The Rocks (1844)","3556","Caringbah - Lilli Pilli (3556)","07/31/2016 - 08/28/2016, Every day, Daily Average",1992,1537,2580
+"1844","Sydney - Haymarket - The Rocks (1844)","3558","Caringbah - Lilli Pilli (3558)","07/31/2016 - 08/28/2016, Every day, Daily Average",1873,1515,2315
+"1844","Sydney - Haymarket - The Rocks (1844)","3582","Miranda - Yowie Bay (3582)","07/31/2016 - 08/28/2016, Every day, Daily Average",2253,1723,2945
+"1844","Sydney - Haymarket - The Rocks (1844)","3584","Miranda - Yowie Bay (3584)","07/31/2016 - 08/28/2016, Every day, Daily Average",1970,1488,2607
+"1844","Sydney - Haymarket - The Rocks (1844)","3587","Sylvania - Taren Point (3587)","07/31/2016 - 08/28/2016, Every day, Daily Average",1983,1680,2339
+"1844","Sydney - Haymarket - The Rocks (1844)","3589","Sylvania - Taren Point (3589)","07/31/2016 - 08/28/2016, Every day, Daily Average",1887,1447,2460
+"1844","Sydney - Haymarket - The Rocks (1844)","3590","Sylvania - Taren Point (3590)","07/31/2016 - 08/28/2016, Every day, Daily Average",1926,1474,2516
+"1844","Sydney - Haymarket - The Rocks (1844)","3593","Sylvania - Taren Point (3593)","07/31/2016 - 08/28/2016, Every day, Daily Average",1785,1546,2060
